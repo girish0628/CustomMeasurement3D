@@ -1,0 +1,7078 @@
+"id","district_id","city"
+1,1,Aali
+2,2,Aalo HQ
+3,3,Aandhi
+4,4,Aau
+5,5,Abapura
+6,6,Abdasa
+7,7,Abdullapurmet
+8,8,Abhanpur
+9,9,Abhyachandpur
+10,10,Abohar
+11,11,Aboi
+12,12,Abu Road
+13,13,Achalpur
+14,14,Achampet
+15,15,Achanta
+16,16,Adajan
+17,17,Adampur
+18,18,Adampur
+19,19,Adapur
+20,20,Adava
+21,21,Adavidevulapalli
+22,22,Adbhar
+23,23,Adda Guduru
+24,24,Addakal
+25,25,Addanki
+26,26,Addateegala
+27,27,Adhartal
+28,28,Adhaura
+29,29,Adibadri
+30,30,ADILABAD RURAL
+31,30,ADILABAD URBAN
+32,31,Adityapur(Gamharia)
+33,32,Adokgre
+34,33,Adoni
+35,34,Adoor
+36,35,Afzalpur
+37,36,Agali
+38,37,Agamoni
+39,38,Agar
+40,39,Agarpada
+41,40,Agastheeswaram
+42,41,Agatti
+43,42,Aghunato
+44,43,Agiaon
+45,44,Agiripalle
+46,45,Agra
+47,46,Aheri
+48,47,Ahiwara
+49,48,Ahmadpur
+50,49,AHMEDGARH
+51,50,Ahore
+52,51,Ahwa
+53,52,Aibawk
+54,53,Ainavilli
+55,54,Ainthapali
+56,55,Airfield (Kapila Prasad)
+57,56,Aitepyong
+58,57,Ajaigarh
+59,58,Ajas
+60,59,Ajgarbahar
+61,60,Ajitmal
+62,61,AJJAMPURA
+63,62,Ajmer
+64,63,Ajnala
+65,64,Ajra
+66,65,Akaltara
+67,66,Akbarpur
+68,67,Akbarpur
+69,68,Akbarpur
+70,69,Akhnoor
+71,15,Akividu
+72,70,Akkalkot
+73,71,Akkalkuwa
+74,72,Akkannapet
+75,73,Aklera
+76,74,Akola
+77,75,Akole
+78,76,A.Konduru
+79,77,Akorhi Gola
+80,74,Akot
+81,71,Akrani
+82,42,Akuhaito
+83,42,Akuluto
+84,23,Alair
+85,78,Alamnagar
+86,79,Alampur
+87,80,Alampur
+88,53,Alamuru
+89,35,Aland
+90,81,Alandur
+91,82,Alangudi
+92,83,Alangulam
+93,84,Alathur
+94,85,Alathur
+95,86,Alauli
+96,87,Albert Ekka(Jari)
+97,88,Alewa
+98,89,Algapur
+99,90,Alibag
+100,91,Aliganj
+101,92,Alinagar
+102,93,Alipur
+103,94,Alipurduar - I
+104,94,Alipurduar - II
+105,95,Alirajpur
+106,96,Alladurg
+107,97,Allagadda
+108,98,Allahabad
+109,99,Allapalli
+110,68,Allapur
+111,53,Allavaram
+112,100,Allur
+113,101,ALMEL
+114,102,Almora
+115,103,ALNAVAR
+116,104,Alongkima
+117,58,Aloosa
+118,105,Alot
+119,33,Alur
+120,106,Alur
+121,107,Aluva
+122,108,Alwal
+123,109,Alwar
+124,36,Amadagur
+125,110,Amadalavalasa
+126,111,Amahator
+127,53,Amalapuram
+128,112,Amalner
+129,7,Amangal
+130,57,Amanganj
+131,36,Amarapuram
+132,113,Amaravathi
+133,114,Amarchintha
+134,49,Amargarh
+135,115,Amariya
+136,116,Amarpatan
+137,117,Amarpur
+138,118,Amarpur
+139,119,Amarwara
+140,120,Amas
+141,121,Amb
+142,122,Ambabhona
+143,123,Ambad
+144,124,Ambadala
+145,125,Ambagarh
+146,126,Ambah
+147,53,Ambajipeta
+148,127,Ambala
+149,127,Ambala Cantonment
+150,128,Ambalappuzha
+151,129,Ambarnath
+152,130,Ambasamudram
+153,131,Ambassa
+154,81,Ambattur
+155,132,Ambegaon
+156,133,Ambejogai
+157,3,Amber
+158,134,Amberpet
+159,135,Ambikapur
+160,136,Ambur
+161,137,Amdabad
+162,138,Amdanga
+163,139,Ameenpur
+164,134,Ameerpet
+165,140,Amet
+166,141,Amethi
+167,142,Amgaon
+168,143,Amguri
+169,41,Amini
+170,81,Aminjikarai
+171,144,Amirgadh
+172,145,Amla
+173,146,Amlarem
+174,147,Amlipadar
+175,148,Amloh
+176,149,Amnour
+177,150,Amod
+178,151,Amour
+179,14,Amrabad
+180,152,Amrapara
+181,13,Amravati
+182,153,Amreli
+183,154,Amritpur
+184,63,Amritsar -I
+185,63,Amritsar- II
+186,155,Amroha
+187,25,Amruthalur
+188,156,Amta - I
+189,156,Amta - II
+190,157,Anaicut
+191,158,Anaimalai
+192,159,Anakapalle
+193,160,Anandapur
+194,161,Anandapuram
+195,162,Anand City
+196,163,Anandpur
+197,5,ANANDPURI
+198,164,Anandpur Sahib
+199,162,Anand Rural
+200,165,Anantapur
+201,166,Ananthagiri
+202,26,Ananthagiri
+203,100,Ananthasagaram
+204,167,Anantnag
+205,167,Anantnag East
+206,168,Anaparthy
+207,169,Anchetty
+208,170,Andar
+209,171,Andheri
+210,172,Andhratharhi
+211,173,Andimadam
+212,174,Andipatti
+213,124,Andirakanch
+214,139,Andole
+215,41,Andrott
+216,175,Anekal
+217,176,Anelih
+218,177,Angara
+219,11,Angjangyang
+220,178,Ani
+221,176,Anini
+222,179,Anjad
+223,13,Anjangaon Surji
+224,6,Anjar
+225,162,Anklav
+226,150,Anklesvar
+227,180,Ankola
+228,99,Annapureddypalli
+229,103,ANNIGERI
+230,158,annur
+231,181,Antagarh
+232,182,Antah
+233,183,ANTHERGAON
+234,184,Anthiyur
+235,185,Anugul
+236,100,Anumasamudrampeta
+237,21,Anumula
+238,186,Anupgarh
+239,187,Anuppur
+240,188,Anupshahr
+241,189,Aonla
+242,190,Aquqhnaqua
+243,62,Arain
+244,191,Arakonam
+245,26,Araku Valley
+246,192,Arambag
+247,8,Arang
+248,193,Arani
+249,82,Aranthangi
+250,194,Araria
+251,195,Aravakurichi
+252,191,Arcot
+253,196,Ardhapur
+254,197,Ardhaveedu
+255,19,Areraj
+256,198,Ariari
+257,199,Aripal
+258,173,Ariyalur
+259,200,ARJUNDA
+260,142,Arjuni Morgaon
+261,201,ARJYAPALLI MARINE
+262,106,Arkalgud
+263,202,Arki
+264,203,Armoor
+265,46,Armori
+266,204,Arnas
+267,205,Arni
+268,69,Arnia
+269,206,Arnod
+270,207,Aron
+271,43,Arrah
+272,208,Arsha
+273,106,Arsikere
+274,5,Artuna
+275,209,Aruppukkottai
+276,210,Arvi
+277,211,Arwal
+278,212,Asarganj
+279,213,Asarva
+280,214,Ashoknagar
+281,215,Ashta
+282,210,Ashti
+283,133,Ashti
+284,216,Asifabad
+285,134,Asif Nagar
+286,201,ASIKA
+287,217,Asind
+288,73,ASNAWAR
+289,33,Aspari
+290,218,Aspur
+291,219,Assandh
+292,220,Assar
+293,221,Astaranga
+294,222,Asthawan
+295,42,Asuto
+296,99,Aswapuram
+297,99,Aswaraopeta
+298,223,Atarra
+299,113,Atchampet
+300,159,Atchutapuram
+301,224,Ateli
+302,225,Ater
+303,226,Athagad
+304,37,ATHANI
+305,227,Athibung
+306,228,Athmakur
+307,229,Athmalgola
+308,185,Athmallik
+309,145,Athner
+310,230,Athni
+311,231,Atholi (Paddar)
+312,232,Athoor
+313,233,Atlur
+314,165,Atmakur
+315,114,Atmakur
+316,100,Atmakur
+317,97,Atmakur
+318,23,Atmakur (M)
+319,166,Atmakur (S)
+320,42,Atoizu
+321,234,Atpadi
+322,235,Atrauli
+323,53,Atreyapuram
+324,120,Atri
+325,182,Atru
+326,122,Attabira
+327,85,Attappadi
+328,15,Attili
+329,236,Attur
+330,237,Aundha (Nagnath)
+331,125,Aundhi
+332,238,Aurad
+333,239,Aurai
+334,240,Aurai
+335,60,Auraiya
+336,241,Aurangabad
+337,241,Aurangabad
+338,48,Ausa
+339,243,Ausgram - I
+340,243,Ausgram - II
+341,244,Aut
+342,245,Avadi
+343,246,Avanashi
+344,247,Avanigadda
+345,82,Avudayarkoil
+346,199,Awantipora
+347,248,Awantipur Badodiya
+348,81,Ayanavaram
+349,249,Azamgarh
+350,137,Azamnagar
+351,250,Azara
+352,63,Baba Bakala
+353,251,Babai
+354,252,Babain ST
+355,101,BABALESHWAR
+356,223,Baberu
+357,153,Babra
+358,172,Babubarhi
+359,205,Babulgaon
+360,253,Bachannapet
+361,254,Bachhwara
+362,108,Bachupally
+363,255,Badachana
+364,201,BADAGADA
+365,256,Bada Malhera
+366,226,Badamba
+367,257,Badami
+368,258,Badampahar
+369,259,Badangi
+370,260,Badarpur
+371,261,Badarwas
+372,202,Baddi
+373,262,BADE BACHELI
+374,263,Bade Rajpur
+375,264,Badgaon
+376,265,Badgaon Dhasan
+377,266,Badhra
+378,267,Badi
+379,268,Badkhal
+380,269,Badlapur
+381,270,Badli
+382,271,Badmal
+383,272,Badnagar
+384,123,Badnapur
+385,273,Badnawar
+386,217,Badnor
+387,38,Badod
+388,274,Badoda
+389,275,Badoni
+390,276,Badshahpur ST
+391,138,Baduria
+392,233,Badvel
+393,277,Badwara
+394,244,Bagachnogi
+395,278,Bagaha
+396,257,Bagalkot
+397,279,Baganpara (Pt)
+398,153,Bagasara
+399,280,Bagbahra
+400,138,Bagda
+401,281,Bagepalli
+402,282,Bageshwar
+403,283,Bagha Purana
+404,284,Baghbor
+405,285,Baghmara
+406,286,Baghmara-Cum-Katras
+407,287,Baghpat
+408,56,Baghty
+409,288,Bagicha
+410,5,Bagidora
+411,289,Baglan
+412,290,Bagli
+413,208,Bagmundi
+414,156,Bagnan - I
+415,156,Bagnan - II
+416,291,Bagodar
+417,50,Bagora
+418,2,Bagra Circle
+419,292,Bagribari (Pt)
+420,244,Bagshad
+421,102,Bagwalipokhar
+422,45,Bah
+423,293,Bahadurganj
+424,270,Bahadurgarh
+425,214,Bahadurpur
+426,92,Bahadurpur
+427,134,Bahadurpura
+428,258,Bahalda
+429,294,Bahal ST
+430,295,Baharagora
+431,296,Bahari
+432,189,Baheri
+433,92,Baheri
+434,297,Bahin ST
+435,277,Bahoriband
+436,298,Bahour Taluk
+437,299,Bahraich
+438,69,Bahu
+439,226,Baidyeswar
+440,300,Baihar
+441,79,Baijnath
+442,301,Baikunthpur
+443,302,Baikunthpur
+444,230,Bailahongala
+445,303,BAINDURU
+446,261,Bairad
+447,304,Baireddipalle
+448,305,Bairgania
+449,306,Bairia
+450,278,Bairia
+451,151,Baisa
+452,151,Baisi
+453,258,Baisinga
+454,307,BAJAG
+455,308,Bajali (Pt)
+456,32,Bajengdoba
+457,309,Bajju
+458,105,Bajna
+459,305,Bajpatti
+460,310,Bajpur
+461,73,Bakani
+462,311,Bakavand
+463,254,Bakhri
+464,229,Bakhtiarpur
+465,312,Bakshi Ka Talab
+466,313,Balachaur
+467,192,Balagarh
+468,300,Balaghat
+469,314,Balakote
+470,24,Balanagar
+471,108,Balanagar
+472,315,Balangir
+473,74,Balapur
+474,7,Balapur
+475,316,Balaramgadi Marine
+476,208,Balarampur
+477,317,Balasinor
+478,318,Balayapalle
+479,265,Baldeogarh
+480,319,Baldirai
+481,244,Baldwara
+482,320,Balemu Circle
+483,4,Balesar
+484,316,Baleshwar (M)
+485,316,Baleshwar Sadar
+486,321,Balganga
+487,244,Balh
+488,322,Bali
+489,254,Balia
+490,55,Balianta
+491,316,Baliapal
+492,286,Baliapur
+493,255,Balichandrapur
+494,244,Bali Chowki
+495,323,Baliguda
+496,324,Balijana
+497,325,Balijan ADC
+498,326,Balijipeta
+499,9,Balikuda
+500,327,Balimi
+501,55,Balipatna
+502,203,Balkonda
+503,268,Ballabgarh
+504,219,Ballah ST
+505,328,Ballari
+506,329,Ballarpur
+507,306,Ballia
+508,25,Ballikurava
+509,156,Bally Jagachha
+510,14,Balmoor
+511,200,Balod
+512,65,Baloda
+513,330,Baloda Bazar
+514,331,Balrampur
+515,331,Balrampur
+516,137,Balrampur
+517,17,Balsamand ST
+518,55,Balugaon
+519,333,Balumath
+520,334,Balurghat
+521,335,Bamangola
+522,336,Bamanwas
+523,160,Bamebari
+524,337,Bameng ADC
+525,65,Bamhnidih
+526,126,Bamor
+527,207,Bamori
+528,316,Bampada
+529,337,Bana EAC
+530,97,Banaganapalle
+531,271,Banaharapali
+532,55,Banapur
+533,338,BANARHAT
+534,185,Banarpal
+535,223,Banda
+536,339,Banda
+537,325,Banderdewa Circle
+538,163,Bandgaon
+539,340,Bandhogarh
+540,341,Bandhugaon
+541,97,Bandi Atmakur
+542,342,Bandikui
+543,58,Bandipora
+544,134,Bandlaguda
+545,239,Bandra
+546,343,Banei
+547,344,Banekuchi
+548,217,Banera
+549,313,BANGA
+550,121,Bangana
+551,345,Bangapani
+552,346,Bangarapet
+553,347,BANGARMAU
+554,304,Bangarupalem
+555,258,Bangiriposi
+556,315,Bangomunda
+557,348,Bani
+558,149,Baniapur
+559,349,Banigochha
+560,350,Banihal
+561,178,Banjar
+562,19,Banjaria
+563,117,Banka
+564,19,Bankatwa
+565,120,Banke Bazar
+566,251,Bankhedi
+567,226,Banki
+568,351,Bankura - I
+569,351,Bankura - II
+570,352,Banma Itahri
+571,151,Banmankhi
+572,353,Bano
+573,39,Bansada
+574,354,Bansda
+575,306,Bansdih
+576,355,Bansgaon
+577,356,Bansi
+578,334,Bansihari
+579,353,Bansjor
+580,109,Bansur
+581,357,Banswada
+582,5,Banswara
+583,39,Bant
+584,185,Bantala
+585,247,Bantumilli
+586,358,Bantval
+587,359,Bantwaram
+588,4,Baori
+589,4,Bap
+590,25,Bapatla
+591,4,Bapini
+592,360,Bapoli
+593,247,Bapulapadu
+594,98,Bara
+595,361,Barabani
+596,208,Barabazar
+597,120,Barachatti
+598,22,Baradwar
+599,343,Baragaon
+600,117,Barahat
+601,362,Barahiya
+602,267,Baraily
+603,363,Barakot
+604,279,Barama Pt
+605,132,Baramati
+606,364,Baramkela
+607,365,Baramulla
+608,182,Baran
+609,226,Barang
+610,122,Barapali
+611,127,Barara
+612,137,Barari
+613,138,Barasat - I
+614,138,Barasat - II
+615,302,Barauli
+616,254,Barauni
+617,287,Baraut
+618,344,Barbhag
+619,198,Barbigha
+620,160,Barbil
+621,366,Barbugh
+622,367,Bardez
+623,368,Bardiha
+624,16,Bardoli
+625,189,Bareilly
+626,122,Bargarh
+627,368,BARGARH
+628,122,Bargarh Sadar
+629,369,Barghat
+630,169,Bargur
+631,229,Barh
+632,370,Barhait
+633,371,Barhaj
+634,372,Barhampur
+635,151,Barhara
+636,43,Barhara
+637,170,Barharia
+638,370,Barharwa
+639,373,Barhat
+640,277,Barhi
+641,374,Barhi
+642,375,Bari
+643,160,Baria
+644,212,Bariarpur
+645,376,Bari Brahamana
+646,258,Baripada (M)
+647,258,Baripada Sadar
+648,258,Baripada Town
+649,255,Bari - Ramachandrapur
+650,377,Baririjo Circle
+651,378,Bari Sadri
+652,333,Bariyatu
+653,351,Barjora
+654,374,Barkagaon
+655,374,Barkatha
+656,344,Barkhetri
+657,379,Barkot
+658,380,Barmer
+659,380,Barmer Gramin
+660,284,Barnagar (Pt)
+661,336,Barnala
+662,381,Barnala
+663,382,Barnigad
+664,79,Baroh
+665,59,Barpali
+666,284,Barpeta
+667,138,Barrackpur - I
+668,138,Barrackpur - II
+669,258,Barsahi
+670,383,Barsar
+671,70,Barshi
+672,74,Barshitakli
+673,137,Barsoi
+674,262,BARSUR
+675,384,Baruipur
+676,241,Barun
+677,239,Baruraj (Motipur)
+678,333,Barwadih
+679,385,Barwaha
+680,386,Barwala
+681,17,Barwala
+682,387,Barwala ST
+683,179,Barwani
+684,388,Basantgarh
+685,384,Basanti
+686,389,Basantpur
+687,170,Basantpur
+688,390,Basar
+689,391,Basar ADC
+690,238,Basavakalyan
+691,101,Basavana Bagevadi
+692,375,Baseri
+693,392,Bashant Rai*
+694,359,Basheerabad
+695,87,Basia
+696,138,Basirhat - I
+697,138,Basirhat - II
+698,279,Baska
+699,280,Basna
+700,393,Basoda
+701,348,Basohli
+702,172,Basopatti
+703,17,Bass
+704,378,Bassi
+705,3,Bassi
+706,148,Bassi Pathana
+707,316,Basta
+708,311,Bastanar
+709,311,Bastar
+710,394,Basti
+711,39,Basudebpur
+712,395,Basukedar
+713,342,Baswa
+714,396,Batabari
+715,397,Batala
+716,36,Bathalapalle
+717,398,Bathinda
+718,305,Bathnaha
+719,399,Batiyagarh
+720,350,Batote
+721,135,Batouli
+722,400,Baudh Sadar
+723,400,Baunsuni
+724,117,Bausi
+725,213,Bavla
+726,401,Bawal
+727,294,Bawani Khera
+728,402,Bayad
+729,403,Bayana
+730,380,Baytoo
+731,404,Bayyaram
+732,30,BAZARHATNOOR
+733,62,Beawar
+734,405,Becharaji
+735,133,Beed
+736,274,Beerpur
+737,406,Beerpur
+738,407,Beerwah
+739,267,Begamganj
+740,378,Begun
+741,55,Begunia
+742,254,Begusarai
+743,408,Behat
+744,43,Behea
+745,342,Behrawanda
+746,109,Behror
+747,72,Bejjanki
+748,216,Bejjur
+749,342,Bejupada
+750,30,Bela
+751,120,Belaganj
+752,230,BELAGAVI
+753,323,Belaghar
+754,409,Belargaon
+755,229,Belchhi
+756,410,Beldanga - I
+757,410,Beldanga - II
+758,86,Beldaur
+759,411,Belgahana
+760,117,Belhar
+761,113,Bellamkonda
+762,412,Bellampally
+763,413,Belonia
+764,271,Belpahar
+765,315,Belpara
+766,305,Belsand
+767,358,Beltangadi
+768,411,Beltara
+769,306,Belthara Road
+770,165,Beluguppa
+771,106,Belur
+772,414,Bemetara
+773,222,Ben
+774,291,Bengabad
+775,175,Bengaluru East
+776,175,Bengaluru North
+777,175,Bengaluru South
+778,415,Bengtol
+779,172,Benipatti
+780,92,Benipur
+781,416,Beohari
+782,417,Berasia
+783,410,Berhampore
+784,316,Berhampur
+785,270,Beri
+786,345,Berinag
+787,418,Beri Pattan
+788,414,Berla
+789,419,Bermo
+790,177,Bero
+791,197,Bestawaripeta
+792,420,Betalghat
+793,258,Betanati
+794,421,Betasing
+795,97,Bethamcherla
+796,278,Bettiah
+797,145,Betul
+798,145,Betul Nagar
+799,144,Bhabhar
+800,28,Bhabua
+801,6,Bhachau
+802,220,Bhaderwah
+803,378,Bhadesar
+804,112,Bhadgaon
+805,240,Bhadohi
+806,422,Bhadra
+807,99,Bhadrachalam
+808,50,Bhadrajun
+809,39,Bhadrak Rural
+810,423,Bhadravati
+811,329,Bhadravati
+812,244,Bhadrota
+813,410,Bhagawangola - I
+814,410,Bhagawangola - II
+815,424,Bhagawanpur - I
+816,424,Bhagawanpur - II
+817,220,Bhagwah
+818,28,Bhagwanpur
+819,425,Bhagwanpur
+820,254,Bhagwanpur
+821,426,Bhagwanpur
+822,385,Bhagwanpura
+823,170,Bhagwanpur Hat
+824,390,Bhainsa
+825,145,Bhainsdehi
+826,341,Bhairabsingipur
+827,427,Bhairamgarh
+828,59,Bhaisma
+829,428,Bhaiyathan
+830,409,Bhakhara
+831,429,Bhalai
+832,220,Bhalessa
+833,238,Bhalki
+834,220,Bhalla
+835,320,Bhalukpong EAC
+836,69,Bhalwal
+837,326,Bhamini
+838,46,Bhamragad
+839,430,Bhandara
+840,56,Bhandari
+841,368,Bhandaria
+842,39,Bhandari Pokhari
+843,275,Bhander
+844,431,Bhandra
+845,384,Bhangar - I
+846,384,Bhangar - II
+847,432,Bhanipura
+848,433,Bhaniyana
+849,201,BHANJANAGAR
+850,102,Bhanoli
+851,394,Bhanpur
+852,434,Bhanpura
+853,311,Bhanpuri
+854,181,Bhanupratappur
+855,435,Bhanvad
+856,411,Bharari
+857,220,Bharath Bagla
+858,403,Bharatpur
+859,437,Bharatpur
+860,410,Bharatpur - I
+861,410,Bharatpur - II
+862,194,Bhargama
+863,429,Bharmour
+864,87,BHARNO
+865,438,Bharthana
+866,150,Bharuch
+867,121,Bharwain
+868,343,Bhasma
+869,330,Bhatapara
+870,243,Bhatar
+871,428,Bhatgaon
+872,364,Bhatgaon
+873,180,Bhatkal
+874,13,Bhatkuli
+875,122,Bhatli
+876,371,Bhatpar Rani
+877,25,Bhattiprolu
+878,429,Bhattiyat
+879,439,Bhattukalan ST
+880,382,Bhatwari
+881,184,Bhavani
+882,440,Bhavnagar
+883,95,Bhavra
+884,441,BHAWANIGARH
+885,151,Bhawanipur
+886,79,Bhawarna
+887,368,Bhawnathpur
+888,122,Bheden
+889,228,Bheemadevarpalli
+890,412,Bheemaram
+891,203,Bheemgal
+892,412,Bheemini
+893,30,BHEEMPUR
+894,161,Bheemunipatnam
+895,220,Bhella
+896,442,Bhesan
+897,443,BhicholiHapsi
+898,385,Bhikangaon
+899,444,BHIKHIWIND
+900,102,Bhikiasain
+901,357,Bhiknoor
+902,47,Bhilai
+903,402,Bhiloda
+904,217,Bhilwara
+905,140,Bhim
+906,44,Bhimadole
+907,15,Bhimavaram
+908,414,Bhimbhauri
+909,145,Bhimpur
+910,62,Bhinay
+911,225,Bhind
+912,264,Bhindar
+913,225,Bhind Nagar
+914,445,Bhinga
+915,50,Bhinmal
+916,278,Bhitaha
+917,446,Bhitarwar
+918,68,Bhiti
+919,129,Bhiwandi
+920,294,Bhiwani
+921,447,Bhiwapur
+922,448,Bhogaon
+923,259,Bhogapuram
+924,67,Bhognipur
+925,316,Bhograi
+926,449,Bhoirymbong
+927,196,Bhokar
+928,123,Bhokardan
+929,204,Bhomag
+930,23,Bhongir
+931,24,Bhoothpur
+932,4,Bhopalgarh
+933,427,Bhopalpattnam
+934,378,BHOPALSAGAR
+935,132,Bhor
+936,383,Bhoranj
+937,302,Bhorey
+938,383,Bhota
+939,292,Bhowraguri
+940,327,Bhuban
+941,55,Bhubaneswar (M.Corp.)
+942,64,Bhudargad
+943,6,Bhuj
+944,450,Bhulath
+945,451,Bhum
+946,439,Bhuna ST
+947,178,Bhuntar
+948,452,Bhupalpally
+949,453,Bhuragaon
+950,327,Bhusan Steel Limited
+951,112,Bhusawal
+952,403,Bhusawar
+953,454,Bhuvanagiri
+954,455,Biaora
+955,456,Bibhutpur
+956,23,Bibinagar
+957,357,Bibipet
+958,168,Biccavolu
+959,457,Bichhiya
+960,119,Bichhua
+961,218,BICHIWARA
+962,357,Bichkunda
+963,367,Bicholim
+964,238,Bidar
+965,432,BIDASAR
+966,60,Bidhuna
+967,426,Bidupur
+968,347,Bighapur
+969,222,Bihar
+970,78,Bihariganj
+971,428,BIHARPUR
+972,458,Bihpur
+973,459,Bihpuria
+974,229,Bihta
+975,302,Bijaipur
+976,427,Bijapur
+977,256,Bijawar
+978,167,Bijbehara
+979,122,Bijepur
+980,14,Bijinapally
+981,415,Bijni (Pt)
+982,460,Bijnor
+983,217,Bijoliya
+984,309,Bikaner
+985,461,Bikapur
+986,229,Bikram
+987,77,Bikramganj
+988,185,Bikrampur
+989,364,Bilaigarh
+990,4,Bilara
+991,462,Bilari
+992,37,Bilasipara Pt
+993,340,Bilaspur
+994,411,Bilaspur
+995,463,Bilaspur
+996,464,Bilaspur
+997,411,Bilaspur Sadar
+998,465,Bilat Circle
+999,257,Bilgi
+1000,466,Bilgram
+1001,411,Bilha
+1002,467,Bilhaur
+1003,468,Bilkhawthlir
+1004,348,Billawar
+1005,196,Biloli
+1006,469,Bilsi
+1007,339,Bina
+1008,222,Bind
+1009,470,Bindki
+1010,147,Bindranavagarh(Gariyaband)
+1011,471,Binika
+1012,255,Binjharpur
+1013,472,Binpur - I
+1014,472,Binpur - II
+1015,471,Biramaharajpur
+1016,343,Biramitrapur
+1017,92,Biraul
+1018,121,Birhu Kalan
+1019,9,Biridi
+1020,357,Birkur
+1021,291,Birni
+1022,473,Bironkhal
+1023,254,Birpur
+1024,300,Birsa
+1025,116,Birsinghpur
+1026,115,Bisalpur
+1027,469,Bisauli
+1028,172,Bisfi
+1029,474,Bishalgarh
+1030,124,Bishamakatak
+1031,69,Bishnah
+1032,475,Bishnupur
+1033,384,Bishnupur - I
+1034,384,Bishnupur - II
+1035,476,Bishrampur
+1036,374,Bishungarh
+1037,87,Bishunpur
+1038,368,Bishunpura
+1039,258,Bisoi
+1040,343,Bisra
+1041,477,Bissau
+1042,478,Biswan
+1043,479,Biswanath
+1044,480,Biswanathpur
+1045,456,Bithan
+1046,41,Bitra
+1047,233,B.Kodur
+1048,481,B.Kothakota
+1049,407,BK Pora
+1050,392,Boarijor
+1051,30,Boath
+1052,259,Bobbili
+1053,239,Bochaha
+1054,482,BODELI
+1055,483,BODEN
+1056,203,Bodhan
+1057,120,Bodh Gaya
+1058,174,Bodinayakanur
+1059,484,Bodla
+1060,411,Bodri
+1061,112,Bodvad
+1062,100,Bogole
+1063,485,Boinpalli
+1064,341,Boipariguda
+1065,486,Boitamari
+1066,487,Bokakhat
+1067,305,Bokhara
+1068,488,Boko
+1069,55,Bolagad
+1070,160,Bolani
+1071,353,Bolba
+1072,489,Boleng ADC
+1073,113,Bollapalle
+1074,490,Bolpur Sriniketan
+1075,359,Bomaraspeta
+1076,320,Bomdila HQ
+1077,23,Bommalaramaram
+1078,165,Bommanahal
+1079,491,Bonakal
+1080,343,Bondamunda
+1081,259,Bondapalle
+1082,266,Bondkalan ST
+1083,486,Bongaigaon (Pt)
+1084,138,Bongaon
+1085,492,Bongkhar Circle
+1086,365,Boniyar
+1087,336,Bonli
+1088,295,Boram
+1089,493,Bordumsa ADC
+1090,494,Borduria Circle
+1091,47,Bori
+1092,341,Boriguma
+1093,370,Borio
+1094,171,Borivali
+1095,495,BOROBEKRA
+1096,162,Borsad
+1097,325,BORUM
+1098,386,Botad
+1099,496,Botsa
+1100,231,Bounjwah
+1101,23,B Pochampally
+1102,221,Brahmagiri
+1103,233,Brahmamgarimattam
+1104,323,Brahmanigaon
+1105,343,Brahmani Tarang
+1106,329,Brahmapuri
+1107,201,Brahmapur (M.Corp.)
+1108,201,BRAHMAPUR SADAR
+1109,165,Brahmasamudram
+1110,303,BRAHMAVARA
+1111,271,Brajarajnagar
+1112,318,Buchinaidu Kandriga
+1113,100,Buchireddipalem
+1114,497,Budalur
+1115,416,Budar
+1116,469,Budaun
+1117,407,Budgam
+1118,384,Budge Budge - I
+1119,384,Budge Budge - II
+1120,498,Budhana
+1121,499,Budhlada
+1122,215,Budni
+1123,406,Buggaram
+1124,201,BUGUDA
+1125,477,Buhana
+1126,36,Bukkapatnam
+1127,165,Bukkaraya Samudram
+1128,188,Bulandshahr
+1129,500,Buldana
+1130,501,Bundi
+1131,177,Bundu
+1132,208,Bundwan
+1133,502,BUNGTE CHIRU
+1134,320,BURAGAON EAC
+1135,122,BurdenP.S.
+1136,243,Burdwan - I
+1137,243,Burdwan - II
+1138,99,Burgampahad
+1139,503,Burhanpur
+1140,249,Burhanpur
+1141,503,Burhanpur nagar
+1142,110,Burja
+1143,54,Burla
+1144,177,Burmu
+1145,410,Burwan
+1146,159,Butchayyapeta
+1147,44,Buttayagudem
+1148,372,Buxar
+1149,256,Buxwaha
+1150,504,Byadgi
+1151,355,Campierganj
+1152,505,Canacona
+1153,384,Canning - I
+1154,384,Canning - II
+1155,506,Car Nicobar
+1156,33,C.Belagal
+1157,507,Chabua
+1158,207,Chachaura
+1159,79,Chachian
+1160,244,Chachyot
+1161,101,CHADACHAN
+1162,79,Chadiyar
+1163,407,Chadoora
+1164,97,Chagalamarri
+1165,168,Chagallu
+1166,508,Chaglagam Circle
+1167,163,Chaibasa
+1168,509,Chail
+1169,28,Chainpur
+1170,476,Chainpur
+1171,87,Chainpur
+1172,373,Chakai
+1173,323,Chakapada
+1174,438,Chakarnagar
+1175,510,Chakdah
+1176,511,Chakia
+1177,19,Chakia(Pipra)
+1178,473,Chakisain
+1179,372,Chakki
+1180,512,Chakpikarong
+1181,163,Chakradharpur
+1182,513,Chakrata
+1183,233,Chakrayapet
+1184,3,Chaksu
+1185,295,Chakulia
+1186,48,Chakur
+1187,514,Chalakkudy
+1188,331,Chalgali
+1189,112,Chalisgaon
+1190,374,Chalkusa
+1191,515,Challakere
+1192,247,Challapalle
+1193,201,CHAMAKHANDI
+1194,516,Chamarajanagar
+1195,488,Chamaria
+1196,429,Chamba
+1197,517,Chambang Circle
+1198,164,Chamkaur Sahib
+1199,29,Chamoli
+1200,46,Chamorshi
+1201,65,Champa
+1202,363,Champawat
+1203,518,Champhai
+1204,502,CHAMPHAI
+1205,160,Champua
+1206,519,Chanakya Puri
+1207,117,Chanan
+1208,362,Chanan*
+1209,520,Chanasma
+1210,335,Chanchal - I
+1211,335,Chanchal - II
+1212,28,Chand
+1213,119,Chand
+1214,39,Chandabali
+1215,521,Chandahandi
+1216,55,Chandaka
+1217,21,ChandamPeta
+1218,419,Chandankiyari
+1219,221,Chandanpur
+1220,76,Chandarlapadu
+1221,511,Chandauli
+1222,522,Chandausi
+1223,512,Chandel
+1224,214,Chanderi
+1225,64,Chandgad
+1226,222,Chandi
+1227,340,Chandia
+1228,523,Chandigarh
+1229,31,Chandil
+1230,343,Chandiposh
+1231,316,Chandipur
+1232,424,Chandipur
+1233,192,Chanditala - I
+1234,192,Chanditala - II
+1235,256,Chandla
+1236,331,CHANDO
+1237,460,Chandpur
+1238,318,Chandragiri
+1239,524,Chandrakona - I
+1240,524,Chandrakona - II
+1241,250,Chandrapur
+1242,329,Chandrapur
+1243,124,Chandrapur
+1244,419,Chandrapura
+1245,197,Chandra Sekhara Puram
+1246,99,Chandrugonda
+1247,258,Chandua
+1248,203,Chandur
+1249,21,Chandur
+1250,13,Chandurbazar
+1251,13,Chandur Railway
+1252,485,Chandurthi
+1253,289,Chandvad
+1254,333,Chandwa
+1255,525,Chandwara
+1256,526,Changanassery
+1257,493,Changlang HQ
+1258,56,Changpang
+1259,104,Changtongya
+1260,177,Chanho
+1261,527,Channagiri
+1262,528,Channapatna
+1263,529,Channapora
+1264,106,Channarayapatna
+1265,278,Chanpatia
+1266,233,Chapad
+1267,37,Chapar Pt
+1268,149,Chapra
+1269,510,Chapra
+1270,14,Charakonda
+1271,181,Charama
+1272,54,Charamal
+1273,407,Charar- E- Shrief
+1274,305,Charaut
+1275,530,Chare
+1276,531,Chariduar
+1277,532,Charkhari
+1278,134,Charminar
+1279,43,Charpokhari
+1280,419,Chas
+1281,204,Chassana
+1282,533,Chatra
+1283,44,Chatrai
+1284,473,Chaubatta Khal
+1285,372,Chaugain
+1286,102,Chaukhutiya
+1287,534,Chaupal
+1288,374,Chauparan
+1289,119,Chaurai
+1290,355,Chauri Chaura
+1291,372,Chausa
+1292,78,Chausa
+1293,86,Chautham
+1294,336,Chauth Ka Barwara
+1295,514,Chavakkad
+1296,535,Chawngte
+1297,337,Chayangtajo ADC
+1298,536,Chebrolu
+1299,159,Cheedikada
+1300,259,Cheepurupalle
+1301,96,Chegunta
+1302,426,Chehra Kalan
+1303,100,Chejerla
+1304,11,Chen
+1305,388,Chenani
+1306,77,Chenari
+1307,284,Chenga
+1308,537,Chengalpattu
+1309,193,Chengam
+1310,128,Chengannur
+1311,538,Chennaraopet
+1312,36,Chennekothapalle
+1313,233,Chennur
+1314,412,Chennur
+1315,130,Cheranmahadevi
+1316,254,Cheria Bariarpur
+1317,72,Cherial
+1318,99,Cherla
+1319,128,Cherthala
+1320,25,Cherukupalle H/O Arumbaka
+1321,539,Chessore
+1322,377,Chetam Peer Yapu Circle
+1323,540,Chetheba
+1324,41,Chetlat
+1325,193,Chetpet
+1326,7,Chevella
+1327,198,Chewara
+1328,193,Cheyyar
+1329,537,Cheyyur
+1330,182,Chhabra
+1331,463,Chhachhrauli
+1332,541,CHHAL
+1333,369,Chhapara
+1334,542,Chhata
+1335,389,Chhatapur
+1336,309,Chhatargarh
+1337,476,Chhatarpur
+1338,256,Chhatarpur
+1339,256,Chhatarpur Nagar
+1340,351,Chhatna
+1341,201,CHHATRAPUR
+1342,244,Chhatri
+1343,231,Chhatroo
+1344,488,Chhaygaon
+1345,185,Chhendipada
+1346,543,Chhibramau
+1347,544,Chhindgarh
+1348,119,Chhindwara
+1349,119,Chhindwara Nagar
+1350,182,Chhipabarod
+1351,254,Chhorahi
+1352,482,Chhota Udaipur
+1353,545,Chhotedongar
+1354,206,Chhoti Sadri
+1355,5,CHHOTI SARWAN
+1356,546,Chhuikhadan
+1357,147,Chhura
+1358,547,Chhuriya
+1359,145,Chicholi
+1360,454,Chidambaram
+1361,496,Chiephobozou
+1362,548,Chigurumamidi
+1363,13,Chikhaldara
+1364,218,Chikhali
+1365,354,Chikhli
+1366,500,Chikhli
+1367,281,Chikkaballapura
+1368,61,Chikkamagaluru
+1369,549,Chiknayakanhalli
+1370,230,Chikodi
+1371,113,Chilakaluripet H/O.Purushotha Patnam
+1372,36,Chilamathur
+1373,550,CHILIVAI PHAIBUNG
+1374,166,Chilkur
+1375,318,Chillakur
+1376,220,Chilly Pingal
+1377,96,Chilpched
+1378,253,Chilpur
+1379,197,Chimakurthi
+1380,329,Chimur
+1381,25,Chinaganjam
+1382,35,Chincholi
+1383,551,Chingai
+1384,530,Chingmei
+1385,368,Chinia
+1386,24,Chinnachintakunta
+1387,318,Chinnagottigallu
+1388,404,Chinnagudur
+1389,72,Chinnakodur
+1390,481,Chinnamandem
+1391,114,Chinnambavi
+1392,552,Chinnasalem
+1393,446,Chinour
+1394,192,Chinsurah - Magra
+1395,216,Chintalamanepally
+1396,44,Chintalapudi
+1397,281,Chintamani
+1398,26,Chintapalle
+1399,491,Chinthakani
+1400,233,Chinthakommadinne
+1401,166,Chinthalapalem
+1402,21,ChinthaPally
+1403,26,Chintur
+1404,382,Chinyali Saur
+1405,553,Chiplun
+1406,33,Chippagiri
+1407,19,Chiraia
+1408,25,Chirala
+1409,220,Chiralla
+1410,477,Chirawa
+1411,554,Chirayinkeezhu
+1412,534,Chirgaon
+1413,437,Chirmiri
+1414,238,CHITAGUPPA
+1415,50,Chitalwana
+1416,555,Chitarpur
+1417,515,Chitradurga
+1418,366,Chitragam
+1419,556,Chitrakonda
+1420,557,Chitrangi
+1421,318,Chittamur
+1422,35,Chittapur
+1423,378,Chittaurgarh
+1424,304,Chittoor
+1425,85,Chittur
+1426,481,Chitvel
+1427,452,Chityal
+1428,21,Chityal
+1429,166,Chivemla
+1430,540,Chizami
+1431,159,Chodavaram
+1432,380,Chohtan
+1433,285,Chokpot
+1434,3,Chomu
+1435,558,Chongkham EAC
+1436,112,Chopda
+1437,548,Choppadandi
+1438,559,Chopra
+1439,16,Chorasi
+1440,560,Chotila
+1441,226,Choudwar
+1442,23,Choutuppal
+1443,359,Chowdapur
+1444,304,Chowdepalle
+1445,69,Chowki Choura
+1446,139,Chowtakur
+1447,540,Chozuba
+1448,104,Chuchuyimlang
+1449,560,Chuda
+1450,56,Chukitong
+1451,561,Chumukedima
+1452,562,Chunar
+1453,99,Chunchupalli
+1454,563,Chungthang
+1455,564,CHUNLIKHA
+1456,565,Churachandpur
+1457,429,Churah
+1458,374,Churchu
+1459,296,Churhat
+1460,432,Churu
+1461,446,City center
+1462,566,Civil Lines
+1463,158,Coimbatore North
+1464,158,Coimbatore South
+1465,185,Colliery
+1466,567,Colonelganj
+1467,424,Contai - I
+1468,424,Contai - III
+1469,568,COOCHBEHAR I
+1470,568,Cooch Behar - II
+1471,569,Coonoor
+1472,226,C.R.R.I.
+1473,454,Cuddalore
+1474,197,Cumbum
+1475,226,Cuttack (M.Corp.) P.S
+1476,226,Cuttack Sadar
+1477,570,Dabhoi
+1478,22,Dabhra
+1479,521,Dabugan
+1480,571,Dabwali
+1481,113,Dachepalle
+1482,231,Dachhan
+1483,572,Dadahu
+1484,494,Dadam Circle
+1485,79,Dadasiba
+1486,396,Dadenggiri
+1487,374,Dadi
+1488,573,Dadra & Nagar Haveli
+1489,266,Dadri
+1490,574,Dadri
+1491,100,Dagadarthi
+1492,151,Dagarua
+1493,575,Dahanu
+1494,216,Dahegoan
+1495,273,Dahi
+1496,401,Dahina ST
+1497,160,Daitari
+1498,318,Dakkili
+1499,576,Dalgaon (Pt)
+1500,429,Dalhousie
+1501,577,Dalmau
+1502,434,Daloda
+1503,206,Dalot
+1504,456,Dalsinghsarai
+1505,396,Dalu
+1506,578,Daman
+1507,579,Damargidda
+1508,580,Dambo Rongjeng
+1509,176,Dambuen Circle
+1510,581,Dambuk ADC
+1511,228,Damera
+1512,21,Dameracherla
+1513,582,DAMIN CIRCLE
+1514,99,Dammapeta
+1515,399,Damoh
+1516,341,Damonjodi
+1517,368,Danda
+1518,368,Dandai
+1519,254,Dandari
+1520,180,DANDELI
+1521,412,Dandepally
+1522,137,Dandkhora
+1523,365,Dangarpora
+1524,365,Danghiwacha
+1525,486,Dangtal Revenue Circle
+1526,229,Daniawan
+1527,69,Dansal
+1528,144,Danta
+1529,524,Dantan - I
+1530,524,Dantan - II
+1531,583,Danta Ramgarh
+1532,262,Dantewada
+1533,404,Danthalapalle
+1534,144,Dantiwada
+1535,399,Danyantinagar
+1536,553,Dapoli
+1537,377,Daporijo Hq
+1538,2,Darak Circle
+1539,170,Darauli
+1540,170,Daraundha
+1541,311,Darbha
+1542,92,Darbhanga
+1543,79,Dareeni
+1544,418,Darhal
+1545,149,Dariapur
+1546,135,Darima
+1547,323,Daringbadi
+1548,391,Daring Circle
+1549,584,Darjeeling Pulbazar
+1550,202,Darlaghat
+1551,52,Darlawn
+1552,59,DARRI
+1553,197,Darsi
+1554,374,Daru
+1555,205,Darwha
+1556,13,Daryapur
+1557,560,Dasada
+1558,341,Dasamantapur
+1559,349,Dasapalla
+1560,213,Daskroi
+1561,524,Daspur - I
+1562,524,Daspur - II
+1563,390,Dasturabad
+1564,585,Dasua
+1565,469,Dataganj
+1566,275,Datia
+1567,275,Datia Nagar
+1568,259,Dattirajeru
+1569,241,Daudnagar
+1570,121,Daulatpur Chowk
+1571,132,Daund
+1572,331,DAURAKOCHALI
+1573,342,Dausa
+1574,527,Davanagere
+1575,77,Dawath
+1576,268,Dayalpur ST
+1577,379,Debagarh
+1578,188,Debai
+1579,337,DEBEYAR CO CIRCLE
+1580,524,Debra
+1581,4,Dechu
+1582,586,Dediapada
+1583,587,DEED CIRCLE
+1584,403,Deeg
+1585,144,Deesa
+1586,588,Defence Colony
+1587,589,Degana
+1588,138,Deganga
+1589,196,Deglur
+1590,589,Deh
+1591,534,Deha
+1592,244,Dehar
+1593,590,Dehgam
+1594,513,Dehradun
+1595,77,Dehri
+1596,221,Delanga
+1597,12,Deldar
+1598,519,Delhi Cantonment
+1599,140,Delwara
+1600,396,Demdema
+1601,44,Denduluru
+1602,259,Denkada
+1603,169,Denkanikottai
+1604,591,Dentam
+1605,241,Deo
+1606,408,Deoband
+1607,147,Deobhog
+1608,144,Deodar
+1609,140,Deogarh
+1610,592,Deoghar
+1611,289,Deola
+1612,500,Deolgaon Raja
+1613,593,Deoli
+1614,210,Deoli
+1615,494,Deomali ADC
+1616,48,Deoni
+1617,142,Deori
+1618,291,Deori
+1619,339,Deori
+1620,267,Deori
+1621,371,Deoria
+1622,557,Deosar
+1623,443,Depalpur
+1624,397,Dera Baba Nanak
+1625,594,Dera Bassi
+1626,1,Derabish
+1627,79,Dera Gopipur
+1628,67,Derapur
+1629,487,Dergaon
+1630,46,Desaiganj (Vadasa)
+1631,581,Desali Circle
+1632,570,DESAR
+1633,424,Deshopran
+1634,426,Desri
+1635,322,Desuri
+1636,213,Detroj-Rampura
+1637,595,Devadurga
+1638,596,Devakottai
+1639,345,Devalthal
+1640,597,Devanahalli
+1641,33,Devanakonda
+1642,101,DEVARA HIPPARAGI
+1643,24,Devarakadra
+1644,21,Devarakonda
+1645,159,Devarapalle
+1646,168,Devarapalle
+1647,253,Devaruppula
+1648,57,Devendranagar
+1649,598,Devgad
+1650,599,Devgadbaria
+1651,600,Devikulam
+1652,26,Devipatnam
+1653,592,Devipur
+1654,414,Devkar
+1655,321,Devprayag
+1656,601,Devsar
+1657,29,Dewal
+1658,290,Dewas
+1659,290,Dewas Nagar
+1660,19,Dhaka
+1661,459,Dhakuakhana (Pt-I)
+1662,295,Dhalbhumgarh
+1663,244,Dhalwan
+1664,54,Dhama
+1665,39,Dhamanagar
+1666,13,Dhamangaon Railway
+1667,39,Dhamara Marine
+1668,151,Dhamdaha
+1669,47,Dhamdha
+1670,534,Dhami
+1671,460,Dhampur
+1672,409,Dhamtari
+1673,380,Dhanaau
+1674,229,Dhanarua
+1675,321,Dhanaulti
+1676,155,Dhanaura
+1677,286,Dhanbad-Cum-Kenduadih-Cum-Jagata
+1678,213,Dhandhuka
+1679,602,Dhand ST
+1680,144,Dhanera
+1681,192,Dhaniakhali
+1682,369,Dhanora
+1683,46,Dhanora
+1684,263,Dhanora
+1685,599,Dhanpur
+1686,561,Dhansiripar
+1687,402,Dhansura
+1688,54,Dhanupali
+1689,579,Dhanwada
+1690,291,Dhanwar
+1691,273,Dhar
+1692,201,DHARAKOTE
+1693,480,Dharamgarh
+1694,283,DHARAMKOT
+1695,603,Dharampur
+1696,273,Dharampuri
+1697,112,Dharangaon
+1698,246,Dharapuram
+1699,505,Dharbandora
+1700,345,Dharchula
+1701,212,Dharhara
+1702,420,Dhari
+1703,153,Dhari
+1704,206,Dhariawad
+1705,604,Dhar Kalan
+1706,196,Dharmabad
+1707,605,Dharmanagar
+1708,606,Dharmapuri
+1709,406,Dharmapuri
+1710,183,Dharmaram
+1711,228,Dharmasagar
+1712,255,Dharmasala
+1713,36,Dharmavaram
+1714,244,Dharmpur
+1715,79,Dharmsala
+1716,13,Dharni
+1717,80,Dharoor
+1718,203,Dharpally
+1719,8,Dharsiwa
+1720,343,Dharuadihi
+1721,401,Dharuhera ST
+1722,359,Dharur
+1723,133,Dharur
+1724,103,Dharwad
+1725,429,Dharwala
+1726,383,Dhatwal
+1727,268,Dhauj ST
+1728,607,DHAULANA
+1729,102,Dhaulchhina
+1730,375,Dhaulpur
+1731,382,Dhauntari
+1732,608,Dhaurahara
+1733,531,Dhekiajuli (Pt)
+1734,609,Dhemaji
+1735,327,Dhenkanal Sadar
+1736,277,Dhimarkheda
+1737,610,Dhing
+1738,79,Dhira
+1739,165,D.Hirehal
+1740,583,DHOD
+1741,213,Dholera
+1742,239,Dholi (Moraul)
+1743,213,Dholka
+1744,97,Dhone
+1745,72,Dhoolmitta
+1746,473,Dhoomakot
+1747,611,Dhoraji
+1748,380,DHORIMANNA
+1749,601,D H Pora
+1750,560,Dhrangadhra
+1751,612,Dhrol
+1752,37,Dhubri
+1753,613,Dhule
+1754,338,Dhupguri
+1755,117,Dhuraiya
+1756,441,Dhuri
+1757,368,Dhurki
+1758,39,Dhusuri
+1759,102,Dhyari
+1760,384,Diamond Harbour - I
+1761,384,Diamond Harbour - II
+1762,507,Dibrugarh East
+1763,507,Dibrugarh West
+1764,203,Dichpally
+1765,345,Didihat
+1766,589,Didwana
+1767,201,DIGAPAHANDI
+1768,293,Dighalbank
+1769,149,Dighwara
+1770,614,Diglipur
+1771,615,Digod
+1772,205,Digras
+1773,390,Dilawarpur
+1774,190,Dimapur Sadar
+1775,143,Dimow
+1776,397,Dinanagar
+1777,229,Dinapur-Cum-Khagaul
+1778,77,Dinara
+1779,232,DindigulEast
+1780,232,DindigulWest
+1781,289,Dindori
+1782,307,Dindori
+1783,348,Dinga Amb
+1784,568,Dinhata - I
+1785,568,Dinhata - II
+1786,616,Diphu
+1787,59,Dipka
+1788,320,Dirang ADC
+1789,441,DIRBA
+1790,617,Diskit
+1791,250,Dispur
+1792,618,Dissing Passo Circle
+1793,619,Diu
+1794,493,Diyun EAC
+1795,120,Dobhi
+1796,620,Doboka
+1797,220,Doda
+1798,598,Dodamarg
+1799,597,Dodda Ballapur
+1800,534,Dodra Kwar
+1801,599,Dohad
+1802,325,Doimukh SDO
+1803,513,Doiwala
+1804,251,Dolariya
+1805,621,Dollungmukh Circle
+1806,622,Dolvan
+1807,359,Doma
+1808,357,Domakonda
+1809,356,Domariyaganj
+1810,525,Domchanch
+1811,156,Domjur
+1812,410,Domkal
+1813,197,Donakonda
+1814,200,Dondi
+1815,200,Dondi Luhara
+1816,547,Dongargaon
+1817,547,Dongargarh
+1818,623,Donka
+1819,624,Doom Dooma
+1820,167,Dooru
+1821,124,Doraguda
+1822,318,Doravarisatram
+1823,404,Dornakal
+1824,197,Dornala
+1825,97,Dornipadu
+1826,292,Dotoma
+1827,359,Doulathabad
+1828,72,Doultabad
+1829,218,Dowda
+1830,231,Drabshalla
+1831,625,Drass
+1832,626,Drugmulla
+1833,72,Dubbak
+1834,490,Dubrajpur
+1835,627,DUDHAN SADHAN
+1836,628,Dudhi
+1837,324,Dudhnai
+1838,3,DUDU
+1839,492,Dudunghar Circle
+1840,73,Dug
+1841,536,Duggirala
+1842,538,Duggondi
+1843,282,Dugnakuri
+1844,121,Dulahar
+1845,288,Duldula
+1846,229,Dulhin Bazar
+1847,555,Dulmi
+1848,295,Dumaria
+1849,120,Dumaria
+1850,26,Dumbriguda
+1851,629,Dumka
+1852,99,Dummugudem
+1853,377,Dumporijo ADC
+1854,305,Dumra
+1855,372,Dumraon
+1856,291,Dumri
+1857,87,Dumri
+1858,630,Dumri Katsari
+1859,382,Dunda
+1860,218,Dungarpur
+1861,378,Dungla
+1862,471,Dunguripali
+1863,593,Duni
+1864,617,Durbuk
+1865,47,Durg
+1866,28,Durgawati
+1867,113,Durgi
+1868,181,Durgkondal
+1869,100,Duttalur
+1870,233,Duvvur
+1871,102,Dwarahat
+1872,44,Dwarakatirumala
+1873,631,Dwarka
+1874,563,Dzongu
+1875,632,East Lungdar
+1876,236,Edappadi
+1877,113,Edlapadu
+1878,286,EGARKUND
+1879,81,Egmore
+1880,424,Egra - I
+1881,424,Egra - II
+1882,529,Eidgah
+1883,222,Ekangarsarai
+1884,149,Ekma
+1885,183,Eligaid
+1886,228,Elkathurthy
+1887,548,Ellandakunta
+1888,571,Ellenabad
+1889,44,Eluru
+1890,56,Englan
+1891,335,English Bazar
+1892,491,Enkoor
+1893,633,Eral
+1894,112,Erandol
+1895,634,Erki(Tamar II)
+1896,635,Ernad
+1897,184,Erode
+1898,9,Ersama
+1899,91,Etah
+1900,176,Etalin
+1901,46,Etapalli
+1902,438,Etawah
+1903,110,Etcherla
+1904,45,Etmadpur
+1905,633,Ettayapuram
+1906,636,Eturunagaram
+1907,461,Faizabad
+1908,94,Falakata
+1909,137,Falka
+1910,384,Falta
+1911,410,Farakka
+1912,263,Farasgaon
+1913,268,Faridabad
+1914,637,Faridkot
+1915,189,Faridpur
+1916,361,Faridpur Durgapur
+1917,7,Farooqnagar
+1918,154,Farrukhabad
+1919,276,Farrukhnagar
+1920,288,Farsabahar
+1921,349,Fategarh
+1922,439,Fatehabad
+1923,45,Fatehabad
+1924,433,Fatehgarh
+1925,397,Fatehgarh Churian
+1926,148,Fatehgarh Sahib
+1927,470,Fatehpur
+1928,638,Fatehpur
+1929,120,Fatehpur
+1930,639,Fatehpur
+1931,583,Fatehpur
+1932,79,Fatehpur
+1933,602,Fatehpur Pundri
+1934,599,Fatepura
+1935,229,Fatwah
+1936,10,Fazilka
+1937,640,Ferozepur Jhirka
+1938,641,Ferrargunj
+1939,642,Firozabad
+1940,643,Firozpur
+1941,194,Forbesganj
+1942,601,Frisal
+1943,235,Gabhana
+1944,644,Gadag
+1945,310,Gadarpur
+1946,645,Gadarwara
+1947,46,Gadchiroli
+1948,386,Gadhada
+1949,64,Gadhinglaj
+1950,30,GADIGUDA
+1951,544,GADIRAS
+1952,221,Gadisagada
+1953,97,Gadivemula
+1954,380,Gadraroad
+1955,80,Gadwal
+1956,64,Gaganbawada
+1957,121,Gagret
+1958,239,Gaighat
+1959,138,Gaighata
+1960,267,Gairatganj
+1961,29,Gairsain
+1962,122,Gaisilet
+1963,321,Gaja
+1964,259,Gajapathinagaram
+1965,644,GAJENDRAGAD
+1966,161,Gajuwaka
+1967,72,Gajwel
+1968,481,Galiveedu
+1969,218,Galiyakot
+1970,383,Galore
+1971,243,Galsi - I
+1972,243,Galsi - II
+1973,646,Galteshwar
+1974,396,Gambegre
+1975,485,Gambhiraopet
+1976,218,Gamdi Ahada
+1977,78,Gamharia
+1978,76,Gampalagudem
+1979,345,Ganai Gangoli
+1980,44,Ganapavaram
+1981,647,Ganaur
+1982,546,GANDAI
+1983,82,Gandarvakkottai
+1984,24,Gandeed
+1985,648,Gandepalle
+1986,649,Ganderbal
+1987,354,Gandevi
+1988,291,Gandey
+1989,357,Gandhari
+1990,6,Gandhidham
+1991,590,Gandhinagar
+1992,650,Gandhi Nagar
+1993,273,Gandhwani
+1994,327,Gandia
+1995,108,Gandimaisamma Dundigal
+1996,7,Gandipet
+1997,36,Gandlapenta
+1998,548,Gangadhara
+1999,304,Gangadhara Nellore
+2000,5,Gangadtalai
+2001,351,Gangajalghati
+2002,651,Gangakhed
+2003,427,GANGALOOR
+2004,186,Ganganagar
+2005,241,Gangapur
+2006,336,Gangapur
+2007,201,GANGAPUR
+2008,404,Gangaram
+2009,334,Gangarampur
+2010,79,Gangath
+2011,236,Gangavalli
+2012,26,Gangavaram
+2013,304,Gangavaram
+2014,652,Gangawati
+2015,73,Gangdhar
+2016,345,Gangolihat
+2017,378,Gangrar
+2018,517,Gangte Circle
+2019,653,Gangtok
+2020,110,Ganguvarisigadam
+2021,349,Gania
+2022,201,GANJAM
+2023,247,Gannavaram
+2024,548,Ganneruvaram
+2025,5,Ganoda
+2026,259,Gantyada
+2027,110,Gara
+2028,20,Garabandha
+2029,654,Garautha
+2030,599,Garbada
+2031,524,Garbeta - I
+2032,524,Garbeta - II
+2033,524,Garbeta - III
+2034,339,Garhakota
+2035,43,Garhani
+2036,140,GARHBOR
+2037,5,Garhi
+2038,607,Garhmukteshwar
+2039,254,Garhpura
+2040,585,Garhshankar
+2041,368,Garhwa
+2042,440,Gariadhar
+2043,166,GaridePally
+2044,259,Garividi
+2045,149,Garkha
+2046,404,Garla
+2047,165,Garladinne
+2048,434,Garoth
+2049,333,Garu
+2050,282,Garud
+2051,586,GARUDESHWAR
+2052,326,Garugubilli
+2053,285,Gasuapara
+2054,278,Gaunaha
+2055,268,Gaunchi ST
+2056,281,Gauribidanur
+2057,141,Gauriganj
+2058,256,Gaurihar
+2059,37,GAURIPUR
+2060,574,Gautam Buddha Nagar
+2061,291,Gawan
+2062,120,Gaya Town C.D.Block
+2063,335,Gazole
+2064,538,Geesugonda
+2065,655,Geku EAC
+2066,655,Gelling Circle
+2067,656,Gensi EAC
+2068,133,Georai
+2069,621,Gepen Circle
+2070,29,Ghaat
+2071,258,Ghagarbeda
+2072,87,Ghaghra
+2073,376,Ghagwal
+2074,78,Ghailarh
+2075,121,Ghanari
+2076,657,Ghanghata
+2077,114,Ghanpur
+2078,452,Ghanpur (Mulug)
+2079,253,Ghanpur (Station)
+2080,321,Ghansali
+2081,369,Ghansaur
+2082,123,Ghansawangi
+2083,92,Ghanshyampur
+2084,247,Ghantasala
+2085,4,Ghantiyali
+2086,219,Gharaunda
+2087,541,Gharghoda
+2088,186,Gharsana
+2089,160,Ghasipura
+2090,524,Ghatal
+2091,467,Ghatampur
+2092,205,Ghatanji
+2093,160,Ghatgaon
+2094,42,Ghathashi
+2095,446,Ghatigaon
+2096,272,Ghatiya
+2097,108,Ghatkesar
+2098,198,Ghat Kusumbha
+2099,213,Ghatlodiya
+2100,5,Ghatol
+2101,295,Ghatshila
+2102,80,Ghattu
+2103,658,Ghaziabad
+2104,659,Ghazipur
+2105,448,Ghiror
+2106,145,Ghoda Dongri
+2107,440,Ghogha
+2108,660,Ghoghamba
+2109,172,Ghoghardiha
+2110,344,Ghograpar (Pt)
+2111,19,Ghorasahan
+2112,628,Ghorawal
+2113,661,Ghoshi
+2114,662,Ghosi
+2115,229,Ghoswari
+2116,457,Ghughari
+2117,411,Ghumarwin
+2118,256,Ghuwara
+2119,377,Giba Circle
+2120,380,Gida
+2121,262,Gidam
+2122,197,Giddalur
+2123,663,Gidderbaha
+2124,373,Gidhaur
+2125,533,Gidhaur
+2126,664,Gingee
+2127,446,Gird
+2128,665,Gir Gadhda
+2129,222,Giriak
+2130,291,Giridih
+2131,264,Girwa
+2132,377,Gite Ripa Circle
+2133,76,G.Konduru
+2134,26,G.Madugula
+2135,559,Goalpokhar - I
+2136,559,Goalpokhar - II
+2137,184,Gobichettipalayam
+2138,66,Gobindpur
+2139,286,Gobindpur
+2140,226,Gobindpur
+2141,31,Gobindpur(Rajnagar)
+2142,8,GOBRA NAVAPARA
+2143,323,Gochhapada
+2144,392,Godda
+2145,660,Godhra
+2146,609,Gogamukh
+2147,385,Gogaon
+2148,192,Goghat - I
+2149,192,Goghat - II
+2150,86,Gogri
+2151,264,Gogunda
+2152,241,Goh
+2153,225,Gohad
+2154,647,Gohana
+2155,267,Goharganj
+2156,416,Gohparu
+2157,479,Gohpur
+2158,508,Goiliang Circle
+2159,163,Goilkera
+2160,230,Gokak
+2161,168,Gokavaram
+2162,555,Gola
+2163,355,Gola
+2164,487,Golaghat
+2165,608,Gola Gokaran Nath
+2166,37,Golakganj Pt
+2167,480,Golamunda
+2168,201,GOLANTHARA
+2169,134,Golconda
+2170,406,Gollapalli
+2171,648,Gollaprolu
+2172,295,Golmuri-Cum-Jugsalai
+2173,159,Golugonda
+2174,419,Gomia
+2175,567,Gonda
+2176,611,Gondal
+2177,131,Gonda Twisa
+2178,142,Gondiya
+2179,329,Gondpipri
+2180,33,Gonegandla
+2181,350,Gool
+2182,165,Gooty
+2183,221,Gop
+2184,296,Gopadbanas
+2185,161,Gopalapatnam
+2186,168,Gopalapuram
+2187,302,Gopalganj
+2188,114,Gopalpeta
+2189,458,Gopalpur
+2190,201,GOPALPUR
+2191,233,Gopavaram
+2192,472,Gopiballavpur - I
+2193,472,Gopiballavpur - II
+2194,629,Gopikandar
+2195,92,Gora Bauram
+2196,458,Goradih
+2197,27,Gorakhpur
+2198,355,Gorakhpur
+2199,36,Gorantla
+2200,426,Goraul
+2201,142,Goregaon
+2202,279,Goreswar (Pt)
+2203,170,Goriakothi
+2204,571,Goriwala ST
+2205,225,Gormi
+2206,488,Goroimari
+2207,666,Gorubathan
+2208,258,Gorumahisani
+2209,384,Gosaba
+2210,97,Gospadu
+2211,292,Gossaigaon (Pt)
+2212,645,Gotegaon
+2213,542,GOVARDHAN
+2214,636,Govindaraopet
+2215,109,GOVINDGARH
+2216,54,Govindpur
+2217,506,Great Nicobar
+2218,549,Gubbi
+2219,569,Gudalur
+2220,124,Gudari
+2221,323,G.Udayagiri
+2222,26,Gudem Kotha Veedhi
+2223,477,Gudhagorji
+2224,380,Gudha Malani
+2225,36,Gudibanda
+2226,281,Gudibanda
+2227,30,GUDIHATNOOR
+2228,304,Gudipala
+2229,247,Gudivada
+2230,157,Gudiyatham
+2231,247,Gudlavalleru
+2232,100,Gudluru
+2233,163,Gudri
+2234,304,Gudupalle
+2235,404,Gudur
+2236,33,Gudur
+2237,318,Gudur
+2238,247,Guduru
+2239,553,Guhagar
+2240,602,Guhla
+2241,81,Guindy
+2242,232,Gujiliamparai
+2243,393,Gulabganj
+2244,248,Gulana
+2245,257,GULEDGUDDA
+2246,87,Gumla
+2247,139,Gummadidala
+2248,165,Gummagatta
+2249,326,Gummalakshmipuram
+2250,245,Gummidipoondi
+2251,325,Gumto Circle
+2252,207,Guna
+2253,207,Guna Nagar
+2254,649,Gund
+2255,99,Gundala
+2256,23,Gundala
+2257,200,Gunderdehi
+2258,21,GundlaPally
+2259,516,Gundlupet
+2260,220,Gundna
+2261,522,Gunnaur
+2262,57,Gunnor
+2263,165,Guntakal
+2264,536,Guntur
+2265,536,GUNTUR EAST
+2266,124,Gunupur
+2267,20,Gurandi
+2268,120,Guraru
+2269,113,Gurazala
+2270,295,Gurbandha
+2271,397,Gurdaspur
+2272,58,Gurez
+2273,276,Gurgaon
+2274,667,Gurh
+2275,259,Gurla
+2276,481,Gurramkonda
+2277,21,Gurrampode
+2278,120,Gurua
+2279,226,Gurudijhatia
+2280,643,GURUHARSAHAI
+2281,668,GURUMITKAL
+2282,343,Gurundia
+2283,200,Gurur
+2284,170,Guthani
+2285,250,Guwahati
+2286,78,Gwalpara
+2287,591,Gyalshing
+2288,240,Gyanpur
+2289,393,Gyaraspur
+2290,337,Gyawe Purang Circle
+2291,335,Habibpur
+2292,138,Habra - I
+2293,138,Habra - II
+2294,669,Hadagalli
+2295,196,Hadgaon
+2296,670,Haflong
+2297,669,Hagaribommanahalli
+2298,638,Haidergarh
+2299,476,Haidernagar
+2300,89,Hailakandi
+2301,58,Hajin
+2302,412,Hajipur
+2303,426,Hajipur
+2304,488,Hajo
+2305,33,Halaharvi
+2306,424,Haldia
+2307,568,Haldibari
+2308,420,Haldwani
+2309,180,Haliyal
+2310,660,Halol
+2311,362,Halsi
+2312,671,Halvad
+2313,217,Hameergarh
+2314,383,Hamirpur
+2315,383,Hamirpur
+2316,228,Hanamkonda
+2317,185,Handapa
+2318,98,Handia
+2319,673,Handiya
+2320,626,Handwara
+2321,504,Hangal
+2322,674,Hangrang
+2323,17,Hansi
+2324,510,Hanskhali
+2325,150,Hansot
+2326,667,Hanumana
+2327,422,Hanumangarh
+2328,92,Hanumannagar
+2329,197,Hanumanthuni Padu
+2330,516,HANUR
+2331,24,Hanwada
+2332,675,Haochong
+2333,607,Hapur
+2334,669,Harapanahalli
+2335,400,Harbhanga
+2336,79,Harchakian
+2337,673,Harda
+2338,59,Hardibazar
+2339,466,Hardoi
+2340,425,Hardwar
+2341,160,Harichandanpur
+2342,527,Harihar
+2343,476,Hariharganj
+2344,410,Hariharpara
+2345,520,Harij
+2346,510,Haringhata
+2347,192,Haripal
+2348,79,Haripur
+2349,572,Haripurdhar
+2350,334,Harirampur
+2351,335,Harischandrapur - I
+2352,335,Harischandrapur - II
+2353,676,Harisinga
+2354,172,Harlakhi
+2355,411,Harlog
+2356,222,Harnaut
+2357,138,Haroa
+2358,528,HAROHALLI
+2359,121,Haroli
+2360,119,Harrai
+2361,394,Harraiya
+2362,276,Harsaru ST
+2363,109,Harsauli
+2364,19,Harsidhi
+2365,677,Harsud
+2366,606,Harur
+2367,137,Hasanganj
+2368,347,Hasanganj
+2369,228,Hasanparthy
+2370,155,Hasanpur
+2371,456,Hasanpur
+2372,170,Hasanpura
+2373,22,Hasaud
+2374,543,Haseran
+2375,138,Hasnabad
+2376,241,Haspura
+2377,106,Hassan
+2378,297,Hassanpur ST
+2379,678,Hata
+2380,163,Hat Gamharia
+2381,297,Hathin
+2382,139,Hathnoora
+2383,679,Hathras
+2384,302,Hathua
+2385,343,Hatibari
+2386,64,Hatkanangle
+2387,443,Hatod
+2388,290,Hatpiplya
+2389,399,Hatta
+2390,680,Hauz Khas
+2391,132,Haveli
+2392,314,Haveli
+2393,96,Havelighanapur
+2394,504,Haveri
+2395,508,Hawai HQ
+2396,92,Hayaghat
+2397,7,Hayathnagar
+2398,508,Hayuliang ADC
+2399,374,Hazaribag
+2400,303,HEBRI
+2401,681,Heggadadevankote
+2402,479,Helem
+2403,343,Hemgir
+2404,559,Hemtabad
+2405,565,HENGLEP
+2406,333,Herhanj
+2407,366,Hermain
+2408,334,Hilli
+2409,222,Hilsa
+2410,682,Himatnagar
+2411,196,Himayatnagar
+2412,134,Himayatnagar
+2413,683,Hindaun
+2414,327,Hindol
+2415,501,Hindoli
+2416,36,Hindupur
+2417,138,Hingalganj
+2418,210,Hinganghat
+2419,447,Hingna
+2420,237,Hingoli
+2421,201,HINJILI
+2422,54,Hirakud
+2423,110,Hiramandalam
+2424,348,Hiranagar
+2425,152,Hiranpur
+2426,351,Hirbandh
+2427,504,Hirekerur
+2428,515,Hiriyur
+2429,17,Hisar
+2430,66,Hisua
+2431,684,Hnahthial
+2432,297,Hodal
+2433,620,Hojai
+2434,33,Holagunda
+2435,515,Holalkere
+2436,106,Hole Narsipur
+2437,429,Holi
+2438,238,Homnabad
+2439,180,Honavar
+2440,527,Honnali
+2441,597,Hosakote
+2442,423,Hosanagara
+2443,669,Hosapete
+2444,685,Hosdurg
+2445,515,Hosdurga
+2446,251,Hoshangabad
+2447,251,Hoshangabad nagar
+2448,585,Hoshiarpur
+2449,169,Hosur
+2450,103,Hubballi
+2451,103,HUBBALLI URBAN
+2452,230,Hukeri
+2453,26,Hukumpeta
+2454,661,Hulasganj
+2455,238,HULSOOR
+2456,668,HUNASAGI
+2457,257,Hungund
+2458,581,Hunli SDO
+2459,681,Hunsur
+2460,11,Hunta
+2461,208,Hura
+2462,217,Hurda
+2463,72,Husnabad
+2464,476,Hussainabad
+2465,170,Hussainganj
+2466,417,Huzur
+2467,667,Huzur
+2468,548,Huzurabad
+2469,166,Huzurnagar
+2470,667,Huzur nagar
+2471,76,Ibrahimpatnam
+2472,406,Ibrahimpatnam
+2473,7,Ibrahimpatnam
+2474,31,Ichagarh
+2475,374,Ichak
+2476,110,Ichchapuram
+2477,215,Ichhawar
+2478,30,Ichoda
+2479,682,Idar
+2480,600,Idukki
+2481,80,Ieeja
+2482,289,Igatpuri
+2483,235,Iglas
+2484,445,Ikauna
+2485,596,Ilayangudi
+2486,257,ILKAL
+2487,490,Illambazar
+2488,485,Illanthakunta
+2489,82,Iluppur
+2490,120,Imamganj
+2491,228,Inavole
+2492,203,Indalwai
+2493,132,Indapur
+2494,30,Inderavelly
+2495,275,Indergarh
+2496,101,Indi
+2497,79,Indora
+2498,443,Indore
+2499,351,Indpur
+2500,501,Indragarh
+2501,219,Indri
+2502,640,Indri
+2503,100,Indukurpet
+2504,351,Indus
+2505,185,Industrial
+2506,25,Inkollu
+2507,53,I. Polavaram
+2508,113,Ipur
+2509,15,Iragavaram
+2510,304,Irala
+2511,686,Iritty
+2512,214,Isagarh
+2513,149,Ishupur
+2514,373,Islamnagar Aliganj
+2515,222,Islampur
+2516,559,Islampur
+2517,502,ISLAND
+2518,252,Ismailabad ST
+2519,458,Ismailpur
+2520,121,Ispur
+2521,360,Israna
+2522,559,Itahar
+2523,349,Itamati
+2524,325,Itanagar EAC
+2525,372,Itarhi
+2526,251,Itarsi
+2527,80,Itikyala
+2528,533,Itkhori
+2529,177,Itki
+2530,356,Itwa
+2531,27,Jabalpur
+2532,399,Jabera
+2533,24,Jadcherla
+2534,123,Jafrabad
+2535,153,Jafrabad
+2536,463,Jagadhri
+2537,527,Jagalur
+2538,201,JAGANNATH PRASAD
+2539,163,Jagannathpur
+2540,156,Jagatballavpur
+2541,226,Jagatpur
+2542,9,Jagatsinghapur
+2543,311,Jagdalpur
+2544,72,Jagdevpur
+2545,43,Jagdishpur
+2546,458,Jagdishpur
+2547,648,Jaggampeta
+2548,76,Jaggayyapeta
+2549,406,Jagitial
+2550,406,Jagitial Rural
+2551,687,Jagraon
+2552,217,Jahazpur
+2553,22,Jaijaipur
+2554,525,Jainagar
+2555,172,Jainagar
+2556,30,JAINATH
+2557,216,Jainoor
+2558,102,Jainti
+2559,208,Jaipur
+2560,412,Jaipur
+2561,3,Jaipur
+2562,493,Jairampur ADC
+2563,433,Jaisalmer
+2564,339,Jaisinagar
+2565,416,Jaisinghnagar
+2566,79,Jaisinghpur
+2567,319,Jaisinghpur
+2568,322,Jaitaran
+2569,187,Jaithari
+2570,416,Jaitpur
+2571,637,Jaitu
+2572,255,Jajapur
+2573,255,Jajapur Road
+2574,166,JajiReddyGudem
+2575,255,Jajpur Sadar
+2576,439,Jakhal ST
+2577,496,Jakhama
+2578,659,Jakhania
+2579,321,Jakhani Dhar
+2580,473,Jakhanikhal
+2581,255,Jakhapura
+2582,395,Jakholi*
+2583,203,Jakranpally
+2584,100,Jaladanki
+2585,279,Jalah (Pt)
+2586,10,Jalalabad
+2587,688,Jalalabad
+2588,151,Jalalgarh
+2589,102,Jalali
+2590,354,Jalalpore
+2591,68,Jalalpur
+2592,149,Jalalpur
+2593,18,Jalandhar - I
+2594,18,Jalandhar - II
+2595,410,Jalangi
+2596,689,Jalaun
+2597,353,Jaldega
+2598,92,Jale
+2599,91,Jalesar
+2600,316,Jaleswar
+2601,112,Jalgaon
+2602,500,Jalgaon (Jamod)
+2603,48,Jalkot
+2604,123,Jalna
+2605,534,Jalog
+2606,50,Jalor
+2607,338,Jalpaiguri
+2608,227,Jalukie
+2609,110,Jalumuru
+2610,629,Jama
+2611,119,Jamai
+2612,243,Jamalpur
+2613,212,Jamalpur
+2614,54,Jamankira
+2615,472,Jamboni
+2616,1,Jamboo Marine
+2617,660,Jambughoda
+2618,150,Jambusar
+2619,258,Jamda
+2620,259,Jami
+2621,320,Jamiri Circle
+2622,612,Jamjodhpur
+2623,611,Jamkandorna
+2624,257,Jamkhandi
+2625,75,Jamkhed
+2626,233,Jammalamadugu
+2627,548,Jammikunta
+2628,69,Jammu
+2629,69,Jammu North
+2630,69,Jammu South
+2631,69,Jammu West
+2632,612,Jamnagar City
+2633,612,Jamnagar Rural
+2634,112,Jamner
+2635,474,Jampuijala
+2636,639,Jamtara
+2637,291,Jamua
+2638,373,Jamui
+2639,445,jamunaha
+2640,193,Jamunamarathoor
+2641,361,Jamuria
+2642,3,Jamwa Ramgarh
+2643,25,Janakavarampanguluru
+2644,426,Jandaha
+2645,492,Jang ADC
+2646,44,Jangareddigudem
+2647,192,Jangipara
+2648,534,Jangla
+2649,253,Jangoan
+2650,65,Janjgir
+2651,55,Jankia
+2652,412,Jannaram
+2653,498,Jansath
+2654,690,Jaoli
+2655,105,Jaora
+2656,201,JARADA
+2657,185,Jarapada
+2658,691,Jarhagaon
+2659,178,Jari
+2660,419,Jaridih
+2661,629,Jarmundi
+2662,611,Jasdan
+2663,258,Jashipur
+2664,288,Jashpur
+2665,310,Jaspur
+2666,642,Jasrana
+2667,79,Jaswan
+2668,438,Jaswantnagar
+2669,50,Jaswantpura
+2670,234,Jat
+2671,55,Jatani
+2672,265,Jatara
+2673,269,Jaunpur
+2674,667,Jawa
+2675,692,Jawad
+2676,79,Jawalamukhi
+2677,79,Jawali
+2678,215,Jawar
+2679,575,Jawhar
+2680,589,Jayal
+2681,480,Jayapatna
+2682,384,Jaynagar - I
+2683,384,Jaynagar - II
+2684,351,Jaypur
+2685,44,Jeelugu Milli
+2686,661,Jehanabad
+2687,255,Jenapur
+2688,655,Jengging Circle
+2689,440,Jesar
+2690,551,JESSAMI
+2691,611,Jetpur
+2692,482,Jetpur Pavi
+2693,35,Jevargi
+2694,574,Jewar
+2695,341,Jeypore
+2696,693,Jhabua
+2697,264,Jhadol
+2698,150,Jhagadia
+2699,373,Jhajha
+2700,270,Jhajjar
+2701,208,Jhalda - I
+2702,208,Jhalda - II
+2703,264,Jhallara
+2704,599,Jhalod
+2705,73,Jhalrapatan
+2706,411,Jhanduta
+2707,172,Jhanjharpur
+2708,654,Jhansi
+2709,4,Jhanwar
+2710,139,Jharasangam
+2711,122,Jharbandha
+2712,272,Jharda
+2713,472,Jhargram
+2714,286,Jharia-Cum-Jorapokhar-Cum-Sindri
+2715,521,Jharigan
+2716,258,Jharpokharia
+2717,271,Jharsuguda
+2718,163,Jhinkpani
+2719,385,Jhiranya
+2720,160,Jhumpura
+2721,477,Jhunjhunun
+2722,29,Jilasu
+2723,7,JILLED CHOWDERGUDEM
+2724,88,Jind
+2725,139,Jinnaram
+2726,651,Jintur
+2727,692,Jiran
+2728,449,Jirang
+2729,694,Jirania
+2730,455,Jirapur
+2731,495,Jiribam
+2732,329,Jiwati
+2733,326,Jiyyammavalasa
+2734,95,Jobat
+2735,3,Jobner
+2736,160,Joda
+2737,556,Jodamba
+2738,4,Jodhpur
+2739,612,Jodiya
+2740,278,Jogapatti
+2741,244,Jogindarnagar
+2742,194,Jokihat
+2743,121,Jol
+2744,489,Jomlo Mobuk Circle
+2745,609,Jonai
+2746,483,JONK
+2747,584,Jorebunglow Sukiapokhri
+2748,695,Jorethang
+2749,696,Jorhat East
+2750,696,Jorhat West
+2751,29,Joshimath
+2752,382,Joshiyara
+2753,405,Jotana
+2754,218,JOTHARI
+2755,126,Joura
+2756,69,Jourian
+2757,534,Jubbal
+2758,54,Jujomura
+2759,357,Jukkal
+2760,88,Julana
+2761,183,Julapalli
+2762,99,Julurpadu
+2763,442,Junagadh
+2764,442,Junagadh City
+2765,480,Junagarh
+2766,534,Junga
+2767,132,Junnar
+2768,97,Jupadu Bungalow
+2769,563,Kabi
+2770,201,KABISURYANAGAR
+2771,358,KADABA
+2772,697,Kadaladi
+2773,459,Kadam
+2774,317,Kadana
+2775,233,Kadapa
+2776,195,Kadavur
+2777,236,Kadayampatti
+2778,83,Kadayanallur
+2779,390,Kaddam Peddur
+2780,234,Kadegaon
+2781,405,Kadi
+2782,168,Kadiam
+2783,319,Kadipur
+2784,276,Kadipur ST
+2785,36,Kadiri
+2786,41,Kadmat
+2787,7,Kadthal
+2788,61,Kadur
+2789,137,Kadwa
+2790,282,Kafligair
+2791,64,Kagal
+2792,216,Kagaznagar
+2793,230,KAGWAD
+2794,458,Kahalgaon
+2795,352,Kahara
+2796,220,Kahara
+2797,133,Kaij
+2798,44,Kaikalur
+2799,126,Kailaras
+2800,698,Kailashahar
+2801,154,Kaimganj
+2802,699,Kairana
+2803,431,Kairo
+2804,299,Kaiserganj
+2805,602,Kaithal
+2806,648,Kajuluru
+2807,199,Kakapora
+2808,221,Kakatpur
+2809,700,Kakching
+2810,384,Kakdwip
+2811,648,Kakinada (Rural)
+2812,648,Kakinada (Urban)
+2813,429,Kakira
+2814,341,Kakiriguma
+2815,661,Kako
+2816,325,Kakoi Circle
+2817,536,Kakumanu
+2818,35,Kalaburagi
+2819,420,Kaladhungi
+2820,35,KALAGI
+2821,676,Kalaigaon
+2822,596,Kalaiyarkoil
+2823,481,Kalakada
+2824,418,Kalakote
+2825,320,Kalaktang ADC
+2826,451,Kalamb
+2827,205,Kalamb
+2828,447,Kalameshwar
+2829,237,Kalamnuri
+2830,688,Kalan
+2831,701,Kalanaur
+2832,397,Kalanaur
+2833,571,Kalanwali
+2834,248,Kalapipal
+2835,61,KALASA
+2836,233,Kalasapadu
+2837,193,Kalasapakkam
+2838,612,Kalavad
+2839,191,Kalavai
+2840,602,Kalayat
+2841,534,Kalbog
+2842,94,Kalchini
+2843,211,Kaler
+2844,284,Kalgachia
+2845,103,Kalghatgi
+2846,139,Kalher
+2847,610,Kaliabor
+2848,335,Kaliachak - I
+2849,335,Kaliachak - II
+2850,335,Kaliachak - III
+2851,559,Kaliaganj
+2852,255,Kaliapani
+2853,44,Kalidindi
+2854,510,Kaliganj
+2855,100,Kaligiri
+2856,481,Kalikiri
+2857,556,Kalimela
+2858,666,Kalimpong -I
+2859,115,Kalinagar
+2860,255,Kalinganagar
+2861,387,Kalka
+2862,588,Kalkaji
+2863,40,Kalkulam
+2864,15,Kalla
+2865,552,Kallakkurichi
+2866,702,Kalligudi
+2867,33,Kallur
+2868,491,Kalluru
+2869,243,Kalna - I
+2870,243,Kalna - II
+2871,660,Kalol
+2872,411,Kalol
+2873,590,Kalol Gandhinagar
+2874,80,Kaloor Thimmandoddi
+2875,674,Kalpa
+2876,41,Kalpeni
+2877,689,Kalpi
+2878,513,Kalsi
+2879,172,Kaluahi
+2880,100,Kaluvoya
+2881,552,KALVARAYAN HILLS
+2882,14,Kalwakurthy
+2883,289,Kalwan
+2884,3,Kalwar
+2885,129,Kalyan
+2886,124,Kalyanasingpur
+2887,165,Kalyandurg
+2888,510,KALYANI
+2889,435,Kalyanpur
+2890,19,Kalyanpur
+2891,456,Kalyanpur
+2892,380,Kalyanpur
+2893,327,Kamakshyanagar
+2894,228,Kamalapur
+2895,35,KAMALAPUR
+2896,233,Kamalapuram
+2897,238,KAMALNAGAR
+2898,131,Kamalpur
+2899,488,Kamalpur
+2900,403,Kaman
+2901,183,Kamanpur
+2902,316,Kamarda
+2903,357,Kamareddy
+2904,343,Kamarposh Balang
+2905,44,Kamavarapukota
+2906,2,Kamba ADC
+2907,165,Kambadur
+2908,481,Kambhamvaripalle
+2909,87,Kamdara
+2910,320,Kamengbari Doimara Circle
+2911,491,Kamepalli
+2912,703,Kamjong
+2913,203,Kammarpally
+2914,328,KAMPLI
+2915,621,Kamporijo Circle
+2916,447,Kamptee
+2917,610,Kampur
+2918,572,Kamrau
+2919,16,Kamrej
+2920,697,Kamuthi
+2921,443,Kanadiya
+2922,21,Kanagal
+2923,36,Kanaganapalle
+2924,652,KANAKAGIRI
+2925,528,Kanakapura
+2926,345,Kanalichhina
+2927,107,Kanayannur
+2928,605,Kanchanpur
+2929,704,Kancheepuram
+2930,76,Kanchikacherla
+2931,110,Kanchili
+2932,282,Kanda
+2933,664,Kandachipuram
+2934,202,Kandaghat
+2935,226,Kandarpur
+2936,196,Kandhar
+2937,368,Kandi
+2938,410,Kandi
+2939,139,Kandi
+2940,321,Kandisaur
+2941,7,Kandukur
+2942,100,Kandukur
+2943,165,Kanekal
+2944,649,Kangan
+2945,502,KANGCHUP GELJANG
+2946,246,Kangeyam
+2947,656,Kangku Circle
+2948,383,Kangoo
+2949,502,KANGPOKPI
+2950,79,Kangra
+2951,139,Kangti
+2952,565,KANGVAI
+2953,533,Kanha Chatti
+2954,197,Kanigiri
+2955,185,Kaniha
+2956,224,Kanina
+2957,705,Kanjhawala
+2958,160,Kanjipani
+2959,526,Kanjirappally
+2960,327,Kankadahad
+2961,598,Kankavli
+2962,177,Kanke
+2963,181,Kanker
+2964,247,Kankipadu
+2965,144,Kankrej
+2966,361,Kanksa
+2967,241,Kannad
+2968,636,Kannaigudem
+2969,543,Kannauj
+2970,412,Kannepally
+2971,290,Kannod
+2972,686,Kannur
+2973,264,Kanod
+2974,467,Kanpur
+2975,226,Kanpur
+2976,288,Kansabel
+2977,315,Kantabanji
+2978,400,Kantamal
+2979,493,Kantang Circle
+2980,462,Kanth
+2981,239,Kanti
+2982,706,Kanubari ADC
+2983,615,Kanwas
+2984,646,Kapadvanj
+2985,378,Kapasan
+2986,631,Kapeshera
+2987,53,Kapileswarapuram
+2988,282,Kapkot
+2989,108,Kapra
+2990,603,Kaprada
+2991,678,Kaptanganj
+2992,258,Kaptipada
+2993,303,KAPU
+2994,450,Kapurthala
+2995,690,Karad
+2996,274,Karahal
+2997,707,Karaikal Taluk
+2998,596,Karaikkudi
+2999,222,Karai Parsurai
+3000,99,Karakagudem
+3001,77,Karakat
+3002,82,Karambakudi
+3003,25,Karamchedu
+3004,559,Karandighi
+3005,708,Karanja
+3006,210,Karanja
+3007,258,Karanjia
+3008,186,Karanpur
+3009,648,Karapa
+3010,652,KARATAGI
+3011,683,Karauli
+3012,709,Karawal Nagar
+3013,118,Karbook
+3014,98,Karchhana
+3015,217,Kareda
+3016,645,Kareli
+3017,113,Karempudi
+3018,261,Karera
+3019,77,Kargahar
+3020,625,Kargil
+3021,448,Karhal
+3022,209,Kariapatti
+3023,286,KARIASOL
+3024,606,KARIMANGALAM
+3025,260,Karimganj
+3026,548,Karimnagar
+3027,548,Karimnagar Rural
+3028,510,Karimpur - I
+3029,510,Karimpur - II
+3030,570,Karjan
+3031,90,Karjat
+3032,75,Karjat
+3033,303,Karkal
+3034,340,Karkeli
+3035,25,Karlapalem
+3036,70,Karmala
+3037,639,Karma Tanr Vidyasagar*
+3038,626,Karnah
+3039,219,Karnal
+3040,29,Karnaprayag
+3041,566,Karol Bagh
+3042,592,Karon
+3043,211,Karpi
+3044,634,Karra
+3045,244,Karsog
+3046,59,Kartala
+3047,128,Karthikappally
+3048,710,Karunagappally
+3049,195,Karur
+3050,304,Karvetinagar
+3051,64,Karvir
+3052,180,Karwar
+3053,711,Karwi
+3054,685,Kasaragod
+3055,202,Kasauli
+3056,151,Kasba
+3057,330,Kasdol
+3058,712,Kasganj
+3059,66,Kashi Chak
+3060,124,Kashipur
+3061,310,Kashipur
+3062,208,Kashipur
+3063,220,Kashtigarh
+3064,659,KASIMABAD
+3065,159,Kasimkota
+3066,20,Kasinagar
+3067,412,Kasipet
+3068,419,Kasmar
+3069,703,Kasom Khullen
+3070,385,Kasrawad
+3071,678,Kasya
+3072,374,Katamdag
+3073,655,Katan Circle
+3074,494,Katang Circle
+3075,300,Katangi
+3076,452,Kataram
+3077,54,Katarbaga
+3078,16,Katargam
+3079,262,Katekalyan
+3080,59,Katghora
+3081,629,Kathikund
+3082,95,Kathiwara
+3083,646,Kathlal
+3084,406,Kathlapur
+3085,348,Kathua
+3086,109,Kathumar
+3087,713,Katigora
+3088,137,Katihar
+3089,302,Katiya
+3090,374,Katkamsandi
+3091,89,Katlichara
+3092,277,Katni Nagar
+3093,447,Katol
+3094,117,Katoria
+3095,244,Katoula
+3096,157,Katpadi
+3097,204,Katra
+3098,239,Katra
+3099,53,Katrenikona
+3100,222,Katrisarai
+3101,554,Kattakkada
+3102,21,Kattangur
+3103,454,Kattumannarkoil
+3104,243,Katwa - I
+3105,243,Katwa - II
+3106,100,Kavali
+3107,482,Kavant
+3108,41,Kavaratti
+3109,234,Kavathemahankal
+3110,110,Kaviti
+3111,66,Kawakol
+3112,484,Kawardha
+3113,365,Kawarhama
+3114,633,Kayathar
+3115,489,Kaying EAC
+3116,227,Kebai Khelma
+3117,489,Kebang Circle
+3118,366,Keegam
+3119,108,Keesara
+3120,480,Kegaon
+3121,714,Keirao Bitra
+3122,62,Kekri
+3123,205,Kelapur
+3124,437,KELHARI
+3125,366,Keller
+3126,1,Kendrapara
+3127,1,Kendrapara Sadar
+3128,160,Kendujhar Sadar
+3129,160,Kendujhar Town
+3130,369,Keolari
+3131,92,Keotiranway
+3132,269,Kerakat
+3133,216,Kerameri
+3134,626,Keran
+3135,374,Keredari
+3136,353,Kersai
+3137,404,Kesamudram
+3138,19,Kesaria
+3139,372,Kesath
+3140,7,Keshampet
+3141,524,Keshiary
+3142,442,Keshod
+3143,501,Keshoraipatan
+3144,524,Keshpur
+3145,480,Kesinga
+3146,263,Keskal
+3147,339,Kesli
+3148,368,Ketar*
+3149,21,KethePally
+3150,243,Ketugram - I
+3151,243,Ketugram - II
+3152,496,Kezocha
+3153,53,K Gangavaram
+3154,272,Khacharod
+3155,678,Khadda
+3156,437,Khadganva
+3157,125,Khadgaon
+3158,444,Khadur Sahib
+3159,407,Khag
+3160,470,Khaga
+3161,86,Khagaria
+3162,235,Khair
+3163,373,Khaira
+3164,316,Khaira
+3165,546,Khairagarh
+3166,134,Khairatabad
+3167,300,Khairlanji
+3168,109,Khairthal
+3169,172,Khajauli
+3170,233,Khajipet
+3171,355,Khajni
+3172,323,Khajuripada
+3173,309,Khajuwala
+3174,503,Khaknar
+3175,90,Khalapur
+3176,201,KHALIKOTE
+3177,657,Khalilabad
+3178,617,Khaltsi
+3179,677,Khalwa
+3180,148,Khamanon
+3181,185,Khamar
+3182,153,Khambha
+3183,435,Khambhalia
+3184,162,Khambhat
+3185,500,Khamgaon
+3186,491,Khammam (Rural)
+3187,491,Khammam Urban
+3188,140,KHAMNOR
+3189,192,Khanakul - I
+3190,192,Khanakul - II
+3191,538,Khanapur
+3192,234,Khanapur
+3193,230,Khanapur
+3194,390,Khanapur
+3195,243,Khandaghosh
+3196,55,Khandagiri
+3197,690,Khandala
+3198,349,Khandapada
+3199,336,Khandar
+3200,677,Khandwa
+3201,677,Khandwa Nagar
+3202,261,Khaniyadhana
+3203,687,Khanna
+3204,73,Khanpur
+3205,317,Khanpur
+3206,456,Khanpur
+3207,647,Khanpur ST
+3208,407,Khansahib
+3209,529,Khanyar
+3210,315,Khaprakhol
+3211,212,Kharagpur
+3212,524,Kharagpur - I
+3213,524,Kharagpur - II
+3214,69,Kharah Balli
+3215,594,Kharar
+3216,368,Kharaundhi
+3217,265,Khargapur
+3218,385,Khargone
+3219,385,Khargone Nagar
+3220,410,Khargram
+3221,350,Khari
+3222,483,KHARIAR
+3223,584,Kharibari
+3224,458,Kharik
+3225,647,Kharkhoda
+3226,32,Kharkutta
+3227,8,KHARORA
+3228,493,Kharsang Circle
+3229,31,Kharsawan
+3230,541,Kharsia
+3231,617,Kharu
+3232,715,Khatarshnong Laitkroh
+3233,498,Khatauli
+3234,690,Khatav
+3235,290,Khategaon
+3236,521,Khatiguda
+3237,310,Khatima
+3238,351,Khatra
+3239,418,Khawas
+3240,518,Khawbung
+3241,716,Khawzawl
+3242,228,Khazipet
+3243,132,Khed
+3244,553,Khed
+3245,646,Kheda
+3246,682,Khedbrahma
+3247,589,Kheenvsar
+3248,424,Khejuri - I
+3249,424,Khejuri - II
+3250,287,Khekada
+3251,177,Khelari
+3252,337,Khenawa Circle
+3253,583,KHENDELA
+3254,512,KHENGJOY
+3255,45,Kheragarh
+3256,405,Kheralu
+3257,354,Khergam
+3258,17,Kheri Jalab ST
+3259,264,Kherwara
+3260,477,Khetri
+3261,540,Khezhakeno
+3262,538,Khila Warangal
+3263,455,Khilchipur
+3264,493,Khimiyang EAC
+3265,673,Khirkiya
+3266,120,Khizirsarai
+3267,365,Khoie
+3268,676,Khoirabari
+3269,111,Khongsa
+3270,494,Khonsa HQ
+3271,55,Khordha
+3272,55,Khordha Sadar
+3273,675,Khoupum
+3274,69,Khour
+3275,717,Khowai
+3276,490,Khoyrasol
+3277,254,Khudabandpur
+3278,443,Khudel
+3279,455,Khujner
+3280,241,Khuldabad
+3281,487,Khumtai
+3282,79,Khundian
+3283,258,Khunta
+3284,634,Khunti
+3285,163,Khuntpani
+3286,226,Khuntuni
+3287,339,Khurai
+3288,188,Khurja
+3289,229,Khusrupur
+3290,540,Khuza
+3291,185,Kiakata
+3292,508,Kibithoo Circle
+3293,310,Kichha
+3294,540,KIKRUMA
+3295,697,KILAKARAI
+3296,40,Killiyoor
+3297,193,Kilpennathur
+3298,41,Kiltan
+3299,718,Kilvelur
+3300,325,Kimin SDO
+3301,158,KINATHUKADAVU
+3302,343,Kinjirkela
+3303,196,Kinwat
+3304,111,Kiphire Sadar
+3305,45,Kiraoli
+3306,92,Kiratpur
+3307,648,Kirlampudi
+3308,300,Kirnapur
+3309,321,Kirtinagar
+3310,293,Kishanganj
+3311,78,Kishanganj
+3312,182,Kishanganj
+3313,62,Kishangarh
+3314,109,Kishangarh Bas
+3315,3,KISHANGARH RENWAL
+3316,226,Kishannagar
+3317,389,Kishanpur
+3318,448,Kishni
+3319,185,Kishorenagar
+3320,231,Kishtwar
+3321,54,Kisinda
+3322,431,Kisko
+3323,492,Kitpi Circle
+3324,230,KITTUR
+3325,111,Kiusam
+3326,159,K.Kotapadu
+3327,293,Kochadhamin
+3328,77,Kochas
+3329,107,Kochi
+3330,54,Kochinda
+3331,166,Kodad
+3332,232,Kodaikanal
+3333,14,Kodair
+3334,253,Kodakandla
+3335,201,KODALA
+3336,359,Kodangal
+3337,100,Kodavalur
+3338,525,Koderma
+3339,406,Kodimial
+3340,665,Kodinar
+3341,521,Kodinga
+3342,184,Kodumudi
+3343,33,Kodumur
+3344,514,Kodungallur
+3345,481,Kodur
+3346,247,Koduru
+3347,72,Koheda
+3348,496,Kohima Sadar
+3349,139,Kohir
+3350,545,Kohkameta
+3351,343,Koida
+3352,235,Koil
+3353,24,Koilkonda
+3354,97,Koilkuntla
+3355,43,Koilwar
+3356,480,Kokasara
+3357,167,Kokernag
+3358,292,Kokrajhar
+3359,271,Kolabira
+3360,424,Kolaghat
+3361,417,Kolar
+3362,346,Kolar
+3363,261,Kolaras
+3364,346,KOLAR GOLD FIELD
+3365,309,Kolayat
+3366,353,Kolebira
+3367,101,KOLHAR
+3368,258,Koliana
+3369,97,Kolimigundla
+3370,710,Kollam
+3371,14,Kollapur
+3372,516,Kollegal
+3373,719,KOLLI HILLS
+3374,536,Kollipara
+3375,25,Kollur
+3376,582,KOLORIANG HQ
+3377,280,Komakhan
+3378,326,Komarada
+3379,197,Komarolu
+3380,2,Kombo Circle
+3381,483,KOMNA
+3382,72,Komuravelli
+3383,197,Konakanamitla
+3384,485,Konaraopet
+3385,221,Konark
+3386,120,Konch
+3387,689,Konch
+3388,263,Kondagaon
+3389,21,Kondamallepally
+3390,72,Kondapak
+3391,197,Kondapi
+3392,139,Kondapur
+3393,100,Kondapuram
+3394,233,Kondapuram
+3395,635,Kondotty
+3396,7,Kondurg
+3397,491,Konijerla
+3398,34,Konni
+3399,544,Konta
+3400,720,Koothanallur
+3401,75,Kopargaon
+3402,61,Koppa
+3403,652,Koppal
+3404,656,Kora Circle
+3405,255,Korai
+3406,98,Koraon
+3407,341,Koraput
+3408,341,Koraput Town
+3409,549,Koratagere
+3410,59,Korba
+3411,46,Korchi
+3412,690,Koregaon
+3413,137,Korha
+3414,25,Korisapadu
+3415,581,Koronu Circle
+3416,329,Korpana
+3417,168,Korukonda
+3418,406,Korutla
+3419,521,Kosagumuda
+3420,579,Kosgi
+3421,33,Kosigi
+3422,401,Kosli
+3423,420,Kosya Kutauli
+3424,411,Kota
+3425,318,Kota
+3426,110,Kotabommali
+3427,437,KOTADOL
+3428,323,Kotagarh
+3429,569,Kotagiri
+3430,203,Kotagiri
+3431,637,KOTAKPURA
+3432,648,Kotananduru
+3433,412,Kotapally
+3434,116,Kotar
+3435,159,Kotauratla
+3436,611,Kotda Sangani
+3437,473,Kotdwara
+3438,359,Kotepally
+3439,418,Koteranka
+3440,534,Kotgarh
+3441,36,Kothacheruvu
+3442,404,Kothaguda
+3443,99,Kothagudem
+3444,114,Kothakota
+3445,107,Kothamangalam
+3446,97,Kothapalle
+3447,648,Kothapalle
+3448,548,Kothapally
+3449,197,Kotha Patnam
+3450,53,Kothapeta
+3451,259,Kothavalasa
+3452,116,Kothi
+3453,272,Kothi Mahal
+3454,7,Kothur
+3455,110,Kothuru
+3456,341,Kotiya
+3457,109,Kotkasim
+3458,534,Kotkhai
+3459,3,KOTKHAWDA
+3460,79,Kotla
+3461,244,Kotli
+3462,187,Kotma
+3463,341,Kotpad
+3464,3,Kotputli
+3465,264,Kotra
+3466,217,Kotri
+3467,710,Kottarakkara
+3468,526,Kottayam
+3469,669,KOTTURU
+3470,351,Kotulpur
+3471,19,Kotwa
+3472,566,Kotwali
+3473,216,Koutala
+3474,633,Kovilpatti
+3475,100,Kovur
+3476,168,Kovvur
+3477,96,Kowdipally
+3478,33,Kowthalam
+3479,488,Koya
+3480,721,Koyilandi
+3481,656,Koyu EAC
+3482,44,Koyyalagudem
+3483,26,Koyyuru
+3484,34,Kozhenchery
+3485,721,Kozhikode
+3486,626,Kralpora
+3487,338,KRANTI
+3488,365,Kreeri
+3489,202,Krishangarh
+3490,579,Krishna
+3491,510,Krishnaganj
+3492,510,Krishnagar - I
+3493,510,Krishnagar - II
+3494,33,Krishnagiri
+3495,169,Krishnagiri
+3496,681,Krishnarajanagara
+3497,722,Krishnarajpet
+3498,195,Krishnarayapuram
+3499,151,Krityanand Nagar
+3500,176,Kronli (Arzoo circle)
+3501,113,Krosuru
+3502,221,Krushna Prasad
+3503,247,Kruthivennu
+3504,255,Kuakhia
+3505,262,Kuakonda
+3506,390,Kubeer
+3507,104,Kubolong
+3508,31,Kuchai
+3509,302,Kuchaikote
+3510,589,KUCHAMAN CITY
+3511,165,Kudair
+3512,598,Kudal
+3513,720,Kudavasal
+3514,4,Kudi Bhagtasni
+3515,669,Kudligi
+3516,28,Kudra
+3517,447,Kuhi
+3518,190,Kuhoboto
+3519,9,Kujang
+3520,622,Kukarmunda
+3521,108,Kukatpally
+3522,409,Kukrel
+3523,31,Kukru
+3524,273,Kukshi
+3525,44,Kukunoor
+3526,652,KUKUNOOR
+3527,439,Kulan ST
+3528,82,Kulathur
+3529,96,Kulcharam
+3530,601,Kulgam
+3531,195,Kulithalai
+3532,359,Kulkacharla
+3533,178,Kullu
+3534,532,Kulpahar
+3535,384,Kulpi
+3536,384,Kultali
+3537,719,KUMARAPALAYAM
+3538,163,Kumardungi
+3539,334,Kumarganj
+3540,698,Kumarghat
+3541,94,Kumargram
+3542,78,Kumarkhand
+3543,534,Kumarsain
+3544,497,Kumbakonam
+3545,140,Kumbhalgarh
+3546,207,Kumbhraj
+3547,403,Kumher
+3548,180,Kumta
+3549,26,Kunavaram
+3550,206,Kunda
+3551,484,Kunda
+3552,533,Kunda
+3553,569,Kundah
+3554,27,Kundam
+3555,303,Kundapura
+3556,521,Kundei
+3557,103,Kundgol
+3558,379,Kundheigola
+3559,639,Kundhit
+3560,704,KUNDRATHUR
+3561,341,Kundura
+3562,165,Kundurpi
+3563,549,Kunigal
+3564,202,Kunihar
+3565,153,Kunkavav Vadia
+3566,288,Kunkuri
+3567,84,Kunnam
+3568,514,Kunnamkulam
+3569,107,Kunnathunad
+3570,710,Kunnathur
+3571,390,Kuntala
+3572,365,Kunzar
+3573,304,Kuppam
+3574,534,Kupvi
+3575,626,Kupwara
+3576,264,Kurabad
+3577,481,Kurabalakota
+3578,369,Kurai
+3579,404,Kuravi
+3580,448,Kurawali
+3581,353,Kurdeg
+3582,239,Kurhani
+3583,197,Kurichedu
+3584,454,Kurinjipadi
+3585,46,Kurkheda
+3586,171,Kurla
+3587,33,Kurnool Rural
+3588,33,Kurnool Urban
+3589,194,Kursakatta
+3590,137,Kursela
+3591,584,Kurseong
+3592,211,Kurtha
+3593,431,Kuru
+3594,409,Kurud
+3595,328,KURUGODU
+3596,326,Kurupam
+3597,393,Kurwai
+3598,724,KUSHALANAGAR
+3599,5,Kushalgarh
+3600,92,Kusheshwar Asthan
+3601,92,Kusheshwar Asthan Purbi
+3602,334,Kushmundi
+3603,652,Kushtagi
+3604,296,Kusmi
+3605,491,Kusumanchi
+3606,725,Kuthalam
+3607,726,Kutiyana
+3608,343,Kutra
+3609,427,KUTRU
+3610,128,Kuttanad
+3611,241,Kutumba
+3612,140,Kuwaria
+3613,318,K.V.B.Puram
+3614,157,K V Kuppam
+3615,490,Labpur
+3616,109,Lachhmangarh
+3617,583,Lachhmangarh
+3618,337,Lada Circle
+3619,172,Ladania
+3620,244,Lad Bharol
+3621,589,Ladnu
+3622,615,Ladpura
+3623,252,Ladwa
+3624,79,Lagru
+3625,225,Lahar
+3626,453,Laharighat
+3627,478,Laharpur
+3628,149,Lahladpur
+3629,727,Lahul
+3630,343,Lahunipara
+3631,271,Laikera
+3632,541,Lailunga
+3633,494,Laju SDO
+3634,430,Lakhandur
+3635,144,Lakhani
+3636,430,Lakhani
+3637,701,Lakhan Majra ST
+3638,135,Lakhanpur
+3639,271,Lakhanpur
+3640,608,Lakhimpur
+3641,713,Lakhipur
+3642,324,Lakhipur
+3643,362,Lakhisarai
+3644,369,Lakhnadon
+3645,172,Lakhnaur
+3646,6,Lakhpat
+3647,560,Lakhtar
+3648,259,Lakkavarapukota
+3649,481,Lakkireddipalle
+3650,170,Lakri Nabiganj
+3651,425,Laksar
+3652,110,Lakshminarsupeta
+3653,373,Lakshmipur
+3654,341,Lakshmipur
+3655,89,Lala
+3656,547,Lalbahadur Nagar
+3657,300,Lalbarra
+3658,425,Laldhang
+3659,206,Lalganj
+3660,249,Lalganj
+3661,562,Lalganj
+3662,577,Lalganj
+3663,426,Lalganj
+3664,410,Lalgola
+3665,728,Lalgudi
+3666,729,Lalitpur
+3667,420,Lalkuan
+3668,626,Lalpora
+3669,612,Lalpur
+3670,691,Lalpur Thana
+3671,342,Lalsot
+3672,319,Lambhua
+3673,383,Lambloo
+3674,102,Lamgada
+3675,730,Lamphelpat
+3676,730,Lamsang
+3677,626,Langate
+3678,553,Lanja
+3679,300,Lanji
+3680,480,Lanjigarh
+3681,620,Lanka
+3682,473,Lansdowne
+3683,177,Lapung
+3684,649,Lar
+3685,167,Larnoo
+3686,418,Laroka
+3687,264,Lasadiya
+3688,146,Laskein
+3689,333,Latehar
+3690,393,Lateri
+3691,558,Lathao Circle
+3692,153,Lathi
+3693,343,Lathikata
+3694,428,LATORI
+3695,388,Latti
+3696,48,Latur
+3697,172,Laukaha
+3698,172,Laukahi
+3699,256,Laundi
+3700,278,Lauriya
+3701,666,LAVA
+3702,666,LAVAold
+3703,110,Laveru
+3704,533,Lawalaung
+3705,342,Lawan
+3706,330,LAWAN
+3707,535,Lawngtlai
+3708,706,Lawnu Circle
+3709,390,Laxmanchanda
+3710,644,LAXMESHWAR
+3711,99,Laxmidevipalli
+3712,617,Leh
+3713,441,Lehra
+3714,558,Lekang Mahadevpur Circle
+3715,36,Lepakshi
+3716,343,Lephripara
+3717,325,Leporiang Circle
+3718,492,Lhou Circle
+3719,502,LHUNGTIN
+3720,265,Lidhora
+3721,656,Likabali SDO
+3722,153,Lilia
+3723,731,Lilong
+3724,560,Limbdi
+3725,377,Limeking Circle
+3726,599,Limkheda
+3727,14,Lingal
+3728,233,Lingala
+3729,253,LingalaGhanpur
+3730,357,Lingampet
+3731,44,Lingapalem
+3732,216,Lingapur
+3733,55,LINGARAJ
+3734,100,Lingasamudram
+3735,595,Lingsugur
+3736,2,Liromoba EAC
+3737,152,Litipara
+3738,641,Little Andaman
+3739,551,LM
+3740,611,Lodhika
+3741,196,Loha
+3742,363,Lohaghat
+3743,348,Lohai Malhar
+3744,311,Lohandiguda
+3745,451,Lohara
+3746,431,Lohardaga
+3747,294,Loharu
+3748,4,LOHAWAT
+3749,315,Loisinga
+3750,390,Lokeswaram
+3751,626,Lolab
+3752,500,Lonar
+3753,104,Longchem
+3754,706,Longding HQ
+3755,530,Longkhim
+3756,732,Longleng
+3757,675,LONGMAI
+3758,111,Longmatra
+3759,494,Longo Circle
+3760,11,Longshen
+3761,131,Longtharai Valley
+3762,658,Loni
+3763,63,Lopoke
+3764,691,Lormi
+3765,56,Lotsu
+3766,687,Ludhiana (East)
+3767,687,Ludhiana (West)
+3768,492,Lumla ADC
+3769,733,Lumshnong
+3770,317,Lunawada
+3771,135,Lundra
+3772,734,Lunglei
+3773,734,Lungsen
+3774,4,Luni
+3775,309,Lunkaransar
+3776,412,Luxettipet
+3777,493,Lyngok Longtoi Circle
+3778,231,Machail
+3779,357,Machareddy
+3780,113,Machavaram
+3781,113,Macherla
+3782,341,Machh kund
+3783,269,Machhlishahr
+3784,102,Machhor
+3785,735,Machi
+3786,626,Machil
+3787,247,Machilipatnam
+3788,557,Mada
+3789,36,Madakasira
+3790,481,Madanapalle
+3791,114,Madanapur
+3792,321,Madannegi
+3793,241,Madanpur
+3794,480,Madanpur Rampur
+3795,94,Madarihat
+3796,246,Madathukulam
+3797,729,madawara
+3798,33,Maddikera (East)
+3799,197,Maddipadu
+3800,166,Maddirala
+3801,72,Maddur
+3802,579,Maddur
+3803,722,Maddur
+3804,7,Madgul
+3805,70,Madha
+3806,172,Madhepur
+3807,78,Madhepura
+3808,491,Madhira
+3809,689,Madhogarh
+3810,3,Madhorajpura
+3811,662,Madhuban
+3812,19,Madhuban
+3813,278,Madhubani
+3814,172,Madhubani
+3815,549,Madhugiri
+3816,592,Madhupur
+3817,172,Madhwapur
+3818,724,Madikeri
+3819,357,Madnoor
+3820,159,Madugula
+3821,21,Madugulapally
+3822,158,Madukkari
+3823,702,MADURAI EAST
+3824,702,Madurai North
+3825,702,Madurai South
+3826,702,MADURAI WEST
+3827,537,Maduranthakam
+3828,81,Maduravoyal
+3829,528,Magadi
+3830,407,Magam
+3831,579,Maganoor
+3832,409,Magarlod
+3833,384,Magrahat - I
+3834,384,Magrahat - II
+3835,690,Mahabaleshwar
+3836,404,Mahabubabad
+3837,24,Mahabubnagar Rural
+3838,24,Mahabubnagar Urban
+3839,90,Mahad
+3840,452,Mahadevpur
+3841,392,Mahagama
+3842,205,Mahagaon
+3843,1,Mahakalapada
+3844,701,Maham
+3845,97,Mahanandi
+3846,226,Mahanga
+3847,348,Mahanpur
+3848,736,Maharajganj
+3849,577,Maharajganj
+3850,170,Maharajganj
+3851,256,Maharajpur
+3852,161,Maharanipeta
+3853,280,Mahasamund
+3854,299,Mahasi
+3855,542,Mahavan
+3856,224,Mahendragarh
+3857,405,Mahesana
+3858,152,Maheshpur
+3859,385,Maheshwar
+3860,7,Maheshwaram
+3861,737,Mahe Taluk
+3862,272,Mahidpur
+3863,424,Mahisadal
+3864,352,Mahishi
+3865,738,Mahmora
+3866,478,Mahmudabad
+3867,426,Mahnar
+3868,532,Mahoba
+3869,478,Maholi
+3870,204,Mahore
+3871,729,Mahroni
+3872,426,Mahua
+3873,333,Mahuadanr
+3874,646,Mahudha
+3875,343,Mahulapada
+3876,258,Mahuldiha
+3877,54,Mahulpalli
+3878,196,Mahur
+3879,440,Mahuva
+3880,16,Mahuva
+3881,342,Mahwa
+3882,116,Maihar
+3883,278,Mainatanr
+3884,135,Mainpat
+3885,147,Mainpur
+3886,448,Mainpuri
+3887,69,Maira Mandrian
+3888,739,Mairang
+3889,170,Mairwa
+3890,67,Maitha
+3891,133,Majalgaon
+3892,388,Majalta
+3893,296,Majhauli
+3894,278,Majhaulia
+3895,79,Majheen
+3896,163,Majhgaon
+3897,116,Majhgawan
+3898,368,Majhiaon
+3899,27,Majholi
+3900,63,Majitha
+3901,305,Majorganj
+3902,572,Majra
+3903,740,Majuli
+3904,16,Majura
+3905,159,Makavarapalem
+3906,263,Makdi
+3907,272,Makdon
+3908,149,Maker
+3909,661,Makhdumpur
+3910,326,Makkuva
+3911,203,Makloor
+3912,589,Makrana
+3913,244,Makridi
+3914,207,Maksoodangarh
+3915,579,Makthal
+3916,338,Mal
+3917,109,MALAKHERA
+3918,336,Malarna Doongar
+3919,722,Malavalli
+3920,335,Maldah (Old)
+3921,80,Maldakal
+3922,289,Malegaon
+3923,708,Malegaon
+3924,49,Malerkotla
+3925,443,Malharganj
+3926,434,Malhargarh
+3927,452,Malharrao
+3928,442,Malia Hatina
+3929,312,Malihabad
+3930,53,Malikipuram
+3931,671,Maliya
+3932,108,Malkajgiri
+3933,556,Malkangiri
+3934,500,Malkapur
+3935,22,Malkharoda
+3936,34,Mallappally
+3937,406,Mallapur
+3938,406,Mallial
+3939,663,Malout
+3940,402,Malpur
+3941,593,Malpura
+3942,70,Malshiras
+3943,477,MALSISAR
+3944,339,Malthon
+3945,346,Malur
+3946,598,Malwan
+3947,390,Mamada
+3948,81,Mambalam
+3949,53,Mamidikuduru
+3950,202,Mamlig
+3951,690,Man
+3952,728,Manachanallur
+3953,548,Manakondur
+3954,178,Manali
+3955,596,Manamadurai
+3956,82,Manamelkudi
+3957,400,Manamunda
+3958,741,Mananthavady
+3959,728,Manapparai
+3960,692,Manasa
+3961,476,Manatu
+3962,442,Manavadar
+3963,273,Manawar
+3964,208,Manbazar - I
+3965,208,Manbazar - II
+3966,363,Manch
+3967,7,Manchal
+3968,508,Manchal Circle
+3969,412,Mancherial
+3970,55,Mancheswar
+3971,217,Mandal
+3972,69,Mandal
+3973,213,Mandal
+3974,217,Mandalgarh
+3975,412,Mandamarri
+3976,553,Mandangad
+3977,244,Mandap
+3978,53,Mandapeta
+3979,177,Mandar
+3980,110,Mandasa
+3981,44,Mandavalli
+3982,477,Mandawa
+3983,342,Mandawar
+3984,109,Mandawar
+3985,314,Mandi
+3986,244,Mandi
+3987,384,Mandirbazar
+3988,8,Mandir Hasaud
+3989,457,Mandla
+3990,683,Mandrayal
+3991,370,Mandro
+3992,434,Mandsaur
+3993,434,Mandsaur Nagar
+3994,555,Mandu
+3995,6,Mandvi
+3996,16,Mandvi surat
+3997,722,Mandya
+3998,437,Manendragarh
+3999,229,Maner
+4000,276,Manesar
+4001,401,Manethi ST
+4002,536,Mangalagiri
+4003,742,Mangalbarey
+4004,576,Mangaldoi (Pt)
+4005,255,Mangalpur
+4006,358,Mangaluru
+4007,70,Mangalvedhe
+4008,563,Mangan
+4009,90,Mangaon
+4010,636,Mangapet
+4011,667,Mangawan
+4012,539,Mangko
+4013,104,Mangkolemba
+4014,243,Mangolkote
+4015,16,Mangrol
+4016,182,Mangrol
+4017,442,Mangrol
+4018,708,Mangrulpir
+4019,375,Mania
+4020,92,Manigachhi
+4021,137,Manihari
+4022,333,Manika
+4023,335,Manikchak
+4024,486,Manikpur
+4025,711,MANIKPUR
+4026,213,Maninagar
+4027,418,Manjakote
+4028,685,Manjeswaram
+4029,302,Manjha
+4030,509,Manjhanpur
+4031,163,Manjhari
+4032,149,Manjhi
+4033,743,Mankachar
+4034,567,Mankapur
+4035,314,Mankote
+4036,195,Manmangalam
+4037,493,Manmao EAC
+4038,720,Mannargudi
+4039,85,Mannarkad
+4040,96,Manoharabad
+4041,163,Manoharpur
+4042,73,Manohar Thana
+4043,139,Manoor
+4044,80,Manopad
+4045,708,Manora
+4046,288,Manora
+4047,125,Manpur
+4048,340,Manpur
+4049,120,Manpur
+4050,590,Mansa
+4051,499,Mansa
+4052,137,Mansahi
+4053,86,Mansi
+4054,254,Mansurchak
+4055,243,Manteswar
+4056,123,Mantha
+4057,183,Manthani
+4058,33,Mantralayam
+4059,100,Manubolu
+4060,99,Manuguru
+4061,130,Manur
+4062,595,Manvi
+4063,651,Manwath
+4064,664,MARAKANAM
+4065,389,Marauna
+4066,263,Mardapal
+4067,26,Maredumilli
+4068,205,Maregaon
+4069,624,Margherita
+4070,592,Margo Munda
+4071,69,Marh
+4072,149,Marhaura
+4073,348,Marheen
+4074,269,Mariahu
+4075,696,Mariani
+4076,453,Marigaon
+4077,562,Marihan
+4078,579,Marikal
+4079,404,Maripeda
+4080,655,Mariyang ADC
+4081,525,Markacho
+4082,197,Markapur
+4083,72,Markook
+4084,220,Marmat
+4085,377,Maro Circle
+4086,359,Marpalle
+4087,134,Marredpally
+4088,200,Marri Bangla Dewri
+4089,21,Marriguda
+4090,100,Marripadu
+4091,197,Marripudi
+4092,1,Marsaghai
+4093,249,MARTINGANJ
+4094,25,Martur
+4095,728,MARUNGAPURI
+4096,231,Marwah
+4097,744,Marwahi
+4098,239,Marwan
+4099,322,Marwar Junction
+4100,96,Masaipet
+4101,629,Masalia
+4102,683,Masalpur
+4103,229,Masaurhi
+4104,149,Mashrakh
+4105,595,MASKI
+4106,411,Masturi
+4107,62,Masuda
+4108,542,Mat
+4109,646,Matar
+4110,270,Matenhail
+4111,568,Mathabhanga - I
+4112,568,MATHABHANGA II
+4113,81,Mathavaram
+4114,556,Mathili
+4115,542,Mathura
+4116,384,Mathurapur - I
+4117,384,Mathurapur - II
+4118,324,Matia
+4119,338,Matiali
+4120,584,Matigara
+4121,254,Matihani
+4122,360,Matlauda
+4123,166,MattamPally
+4124,225,Mau
+4125,711,Mau
+4126,447,Mauda
+4127,383,Maudaha
+4128,667,Mauganj
+4129,589,Maulasar
+4130,662,Maunath Bhanjan
+4131,398,Maur
+4132,654,Mauranipur
+4133,3,Mauzamabad
+4134,30,MAVALA
+4135,128,Mavelikkara
+4136,264,Mavli
+4137,132,Mawal
+4138,745,Mawana
+4139,715,Mawkynrew
+4140,746,Mawkyrwat
+4141,715,Mawlai
+4142,715,Mawpat
+4143,715,Mawphlang
+4144,715,Mawryngkneng
+4145,747,Mawshynrut
+4146,715,Mawsynram
+4147,739,Mawthadraishan
+4148,614,Mayabunder
+4149,725,Mayiladuthurai
+4150,338,Maynaguri
+4151,453,Mayong
+4152,490,Mayureswar - I
+4153,490,Mayureswar - II
+4154,533,Mayur Hand
+4155,650,Mayur Vihar
+4156,676,Mazbat
+4157,465,Mebo ADC
+4158,748,Mechuka ADC
+4159,96,Medak
+4160,108,Medchal
+4161,536,Medikonduru
+4162,476,Medininagar(Daltonganj)
+4163,406,Medipalli
+4164,108,Medipally
+4165,561,Medziphema
+4166,526,Meenachil
+4167,189,Meerganj
+4168,745,Meerut
+4169,693,Meghnagar
+4170,402,Meghraj
+4171,121,Mehatpur
+4172,657,Mehdawal
+4173,392,Meherma
+4174,225,Mehgaon
+4175,500,Mehkar
+4176,646,Mehmedabad
+4177,249,Mehnagar
+4178,680,Mehrauli
+4179,19,Mehsi
+4180,98,Meja
+4181,351,Mejhia
+4182,568,Mekliganj
+4183,122,Melchhamunda
+4184,110,Meliaputti
+4185,166,MellaChervu
+4186,664,Melmalaiyanur
+4187,702,Melur
+4188,540,Meluri
+4189,243,Memari - I
+4190,243,Memari - II
+4191,442,Mendarda
+4192,314,Mendhar
+4193,203,Mendora
+4194,325,Mengio EAC
+4195,259,Mentada
+4196,259,Merakamudidam
+4197,368,Meral (Pipra Kalan)
+4198,104,Merangmen
+4199,589,Merta
+4200,66,Meskaur
+4201,508,Metengliang Circle
+4202,406,Metpalli
+4203,158,Mettupalayam
+4204,236,Mettur
+4205,90,Mhasla
+4206,443,Mhow
+4207,493,Miao ADC
+4208,24,Midjil
+4209,524,Midnapore
+4210,97,Midthur
+4211,655,Migging Circle
+4212,299,MIHINPURWA MOTIPUR
+4213,225,Mihona
+4214,453,Mikirbheta
+4215,464,Milak
+4216,461,Milkipur
+4217,138,Minakhan
+4218,239,Minapur
+4219,41,Minicoy
+4220,176,Mipi
+4221,234,Miraj
+4222,72,Mirdoddi
+4223,584,Mirik
+4224,21,Miryalaguda
+4225,562,Mirzapur
+4226,478,Misrikh
+4227,608,Mitauli
+4228,336,Mitrapura
+4229,184,Modakkurichi
+4230,661,Modanganj
+4231,402,Modasa
+4232,93,Model Town
+4233,658,Modinagar
+4234,283,Moga
+4235,15,Mogalthur
+4236,139,Mogudampally
+4237,452,Mogullapally
+4238,430,Mohadi
+4239,220,Mohalla
+4240,24,Mohammadabad
+4241,659,Mohammadabad
+4242,490,Mohammad Bazar
+4243,476,Mohammad Ganj
+4244,608,Mohammdi
+4245,20,Mohana
+4246,265,Mohangarh
+4247,28,Mohania
+4248,312,Mohanlalganj
+4249,120,Mohanpur
+4250,694,Mohanpur
+4251,456,Mohanpur
+4252,524,Mohanpur
+4253,592,Mohanpur
+4254,719,MOHANUR
+4255,456,Mohiuddinagar
+4256,119,Mohkhed
+4257,125,Mohla
+4258,268,Mohna ST
+4259,70,Mohol
+4260,7,Moinabad
+4261,475,Moirang
+4262,229,Mokameh
+4263,575,Mokhada
+4264,515,Molakalmuru
+4265,248,Moman Badodiya
+4266,359,Mominpet
+4267,748,Monigong EAC
+4268,11,Mon Sadar
+4269,11,Monyakshu
+4270,358,MOODUBIDIRE
+4271,441,Moonak
+4272,24,Moosapet
+4273,247,Mopidevi
+4274,655,Mopom Adipasi Circle
+4275,11,Mopong
+4276,462,Moradabad
+4277,507,Moran
+4278,674,Morang
+4279,487,Morangi
+4280,735,MOREH
+4281,126,Morena
+4282,126,Morena Nagar
+4283,382,Mori
+4284,164,MORINDA
+4285,505,Mormugao
+4286,387,Morni ST
+4287,13,Morshi
+4288,203,Morthad
+4289,671,Morvi
+4290,456,Morwa
+4291,660,Morwa (Hadaf)
+4292,203,Mosara
+4293,23,Motakonduru
+4294,500,Motala
+4295,654,Moth
+4296,166,Mothey
+4297,23,Mothkur
+4298,19,Motihari
+4299,556,Motu
+4300,327,Motunga
+4301,388,Moungri
+4302,247,Movva
+4303,424,Moyna
+4304,565,MUALNUAM
+4305,230,MUDALGI
+4306,233,Muddanur
+4307,101,Muddebihal
+4308,257,Mudhol
+4309,390,Mudhole
+4310,61,Mudigere
+4311,491,Mudigonda
+4312,36,Mudigubba
+4313,44,Mudinepalle
+4314,196,Mudkhed
+4315,108,Muduchinthalapally
+4316,697,Mudukulathur
+4317,556,Mudulipada
+4318,511,Mugalsarai
+4319,231,Mughalmaidan
+4320,203,Mugpal
+4321,662,Muhammadabad Gohna
+4322,120,Muhra
+4323,541,Mukdega
+4324,585,Mukerian
+4325,196,Mukhed
+4326,112,Muktainagar (Edlabad)
+4327,492,Mukto Circle
+4328,663,Muktsar
+4329,514,Mukundapuram
+4330,329,Mul
+4331,161,Mulagada
+4332,481,Mulakalacheruvu
+4333,127,Mulana ST
+4334,346,Mulbagal
+4335,46,Mulchera
+4336,560,Muli
+4337,99,Mulkalapally
+4338,358,MULKI
+4339,132,Mulshi
+4340,145,Multai
+4341,79,Multhan
+4342,72,Mulug
+4343,636,Mulug
+4344,53,Mummidivaram
+4345,166,Munagala
+4346,159,Munagapaka
+4347,26,Munchingi Puttu
+4348,644,Mundargi
+4349,180,Mundgod
+4350,197,Mundlamuru
+4351,6,Mundra
+4352,589,MUNDWA
+4353,214,Mungaoli
+4354,691,Mungeli
+4355,212,Munger
+4356,124,Muniguda
+4357,139,Munipally
+4358,345,Munsiari
+4359,21,Munugode
+4360,203,Mupkal
+4361,113,Muppalla
+4362,446,Murar
+4363,490,Murarai - I
+4364,490,Murarai - II
+4365,129,Murbad
+4366,634,Murhu
+4367,78,Murliganj
+4368,410,Murshidabad Jiaganj
+4369,74,Murtijapur
+4370,90,Murud
+4371,258,Muruda
+4372,277,Murwara or Katni
+4373,295,Musabani
+4374,141,Musafirkhana
+4375,239,Musahri
+4376,134,Musheerabad
+4377,728,Musiri
+4378,485,Mustabad
+4379,44,Musunuru
+4380,452,MUTHARAM MAHADEVPUR
+4381,183,Mutharam (Manthani)
+4382,100,Muthukur
+4383,107,Muvattupuzha
+4384,498,Muzaffarnagar
+4385,556,M.V. 79
+4386,81,Mylapore
+4387,76,Mylavaram
+4388,233,Mylavaram
+4389,715,Mylliem
+4390,681,Mysuru
+4391,510,Nabadwip
+4392,410,Nabagram
+4393,521,Nabarangapur P.S
+4394,627,Nabha
+4395,241,Nabinagar
+4396,377,Nacho SDO
+4397,383,Nadaun
+4398,403,Nadbai
+4399,113,Nadendla
+4400,646,Nadiad
+4401,646,Nadiad City
+4402,166,Nadigudem
+4403,228,NADIKUDA
+4404,683,Nadoti
+4405,479,Na-Duar
+4406,320,Nafra EAC
+4407,318,Nagalapuram
+4408,139,Nagalgidda
+4409,722,Nagamangala
+4410,610,Nagaon
+4411,718,Nagapattinam
+4412,403,Nagar
+4413,75,Nagar
+4414,166,Nagaram
+4415,25,Nagaram
+4416,488,Nagarbera
+4417,593,Nagarfort
+4418,304,Nagari
+4419,14,Nagarkurnool
+4420,222,Nagar Nausa
+4421,368,Nagaruntari
+4422,589,Nagaur
+4423,247,Nagayalanka
+4424,329,Nagbhid
+4425,272,Nagda
+4426,460,Nagina
+4427,640,Nagina ST
+4428,11,Naginimora
+4429,357,Nagireddypet
+4430,116,Nagod
+4431,447,Nagpur (Rural)
+4432,447,Nagpur (Urban)
+4433,149,Nagra
+4434,338,Nagrakata
+4435,409,Nagri
+4436,348,Nagri
+4437,177,Nagri
+4438,69,Nagrota
+4439,79,Nagrota Bagwan
+4440,79,Nagrota Surian
+4441,231,Nagseni
+4442,197,Naguluppala Padu
+4443,572,Nahan
+4444,507,Naharkatiya
+4445,325,Naharlagun EAC
+4446,401,Nahar ST
+4447,318,Naidupet
+4448,196,Naigaon (Khairgaon)
+4449,667,Naigarhi
+4450,39,Naikanidihi
+4451,411,Naina Devi
+4452,321,Nainbag
+4453,420,Nainital
+4454,457,Nainpur
+4455,501,Nainwa
+4456,214,Nai Sarai
+4457,631,Najafgarh
+4458,460,Najibabad
+4459,510,Nakashipara
+4460,6,Nakhatrana
+4461,159,Nakkapalle
+4462,18,Nakodar
+4463,21,Nakrekal
+4464,54,Naktideul
+4465,408,Nakur
+4466,639,Nala
+4467,202,Nalagarh
+4468,344,Nalbari
+4469,185,NALCO
+4470,21,Nalgonda
+4471,490,Nalhati - I
+4472,490,Nalhati - II
+4473,38,Nalkheda
+4474,538,Nallabelli
+4475,36,Nallacheruvu
+4476,168,Nallajerla
+4477,36,Nallamada
+4478,606,Nallampalli
+4479,719,Namakkal
+4480,184,Nambiyur
+4481,475,Nambol
+4482,36,Nambulipulikunta
+4483,695,Namchi
+4484,146,Namdong
+4485,411,Namhol
+4486,384,Namkhana
+4487,177,Namkum
+4488,134,Nampally
+4489,21,Nampally
+4490,493,Nampong SDO
+4491,558,Namsai HQ
+4492,732,Namsang
+4493,465,Namsing Circle
+4494,493,Namtok EAC
+4495,310,Nanakmatta
+4496,506,Nancowry
+4497,424,Nanda Kumar
+4498,481,Nandalur
+4499,55,Nandankanan
+4500,341,Nandapur
+4501,33,Nandavaram
+4502,196,Nanded
+4503,289,Nandgaon
+4504,13,Nandgaon-Khandeshwar
+4505,414,NANDGHAT
+4506,110,Nandigam
+4507,7,Nandigama
+4508,76,Nandigama
+4509,424,Nandigram - I
+4510,424,Nandigram - II
+4511,97,Nandikotkur
+4512,160,Nandipada
+4513,203,Nandipet
+4514,247,Nandivada
+4515,586,Nandod
+4516,29,Nandprayag
+4517,500,Nandura
+4518,71,Nandurbar
+4519,97,Nandyal
+4520,164,Nangal
+4521,224,Nangal Chawdhary
+4522,342,Nangal Rajawatan
+4523,72,Nangnoor
+4524,130,Nanguneri
+4525,311,Nangur
+4526,681,Nanjangud
+4527,534,Nankhari
+4528,720,Nannilam
+4529,490,Nanoor
+4530,299,Nanpara
+4531,305,Nanpur
+4532,459,Naobaicha
+4533,254,Naokothi
+4534,572,Narag
+4535,127,Naraingarh
+4536,223,Naraini
+4537,480,Narala
+4538,110,Narasannapeta
+4539,15,Narasapuram
+4540,113,Narasaraopet
+4541,61,Narasimharajapura
+4542,226,Narasinghpur
+4543,72,Narayanaraopet
+4544,318,Narayanavanam
+4545,29,Narayanbagar
+4546,457,Narayanganj
+4547,524,Narayangarh
+4548,139,Narayankhed
+4549,341,Narayanpatana
+4550,579,Narayanpet
+4551,545,Narayanpur
+4552,459,Narayanpur
+4553,109,Narayanpur
+4554,639,Narayanpur
+4555,23,Narayanpur
+4556,458,Narayanpur
+4557,407,Narbal
+4558,66,Nardiganj
+4559,93,Narela
+4560,321,Narendra Nagar
+4561,644,Nargund
+4562,181,Narharpur
+4563,66,Narhat
+4564,656,Nari ADC
+4565,19,Narkatia
+4566,278,Narkatiaganj
+4567,21,Narketpally
+4568,447,Narkhed
+4569,253,Narmetta
+4570,224,Narnaul
+4571,17,Narnaund
+4572,30,Narnoor
+4573,165,Narpala
+4574,194,Narpatganj
+4575,538,Narsampet
+4576,425,Narsan
+4577,96,Narsapur
+4578,390,Narsapur G
+4579,645,Narsimhapur
+4580,404,Narsimhulapet
+4581,455,Narsinghgarh
+4582,96,Narsingi
+4583,159,Narsipatnam
+4584,365,Narvaw
+4585,579,Narwa
+4586,467,NARWAL
+4587,88,Narwana
+4588,261,Narwar
+4589,289,Nashik
+4590,62,Nasirabad
+4591,412,Naspur
+4592,77,Nasriganj
+4593,215,Nasrullaganj
+4594,357,Nasurullabad
+4595,482,Nasvadi
+4596,393,Nateran
+4597,232,Natham
+4598,159,Nathavaram
+4599,140,Nathdwara
+4600,458,Nathnagar
+4601,571,Nathusari Chopta
+4602,136,Natrampalli
+4603,229,Naubatpur
+4604,458,Naugachhia
+4605,9,Naugaon
+4606,109,Naugaon
+4607,356,Naugarh
+4608,511,NAUGARH
+4609,155,Naugawan Sadat
+4610,77,Nauhatta
+4611,352,Nauhatta
+4612,278,Nautan
+4613,170,Nautan
+4614,736,Nautanwa
+4615,103,Navalgund
+4616,203,Navipet
+4617,354,Navsari
+4618,589,Nawa
+4619,476,Nawa Bazar
+4620,189,Nawabganj
+4621,638,Nawabganj
+4622,359,Nawabpet
+4623,24,Nawabpet
+4624,66,Nawada
+4625,419,Nawadih
+4626,476,Nawadiha Bazar/Nawadiha*
+4627,65,Nawagarh
+4628,414,Nawagarh
+4629,477,Nawalgarh
+4630,372,Nawanagar
+4631,313,Nawanshahr
+4632,71,Nawapur
+4633,410,Nawda
+4634,584,Naxalbari
+4635,264,Nayagaon
+4636,349,Nayagarh
+4637,349,Nayagarh Sadar
+4638,472,Nayagram
+4639,160,Nayakote
+4640,143,Nazira
+4641,583,Nechwa
+4642,554,Nedumangad
+4643,720,Needamangalam
+4644,120,Neem Chak Bathani
+4645,583,Neem-Ka-Thana
+4646,109,NEEMRANA
+4647,692,Neemuch
+4648,692,Neemuch Nagar
+4649,113,Nekarikallu
+4650,538,Nekkonda
+4651,491,Nelakondapalli
+4652,597,Nelamangala
+4653,404,Nellikudur
+4654,259,Nellimarla
+4655,100,Nellore Rural
+4656,100,Nellore Urban
+4657,226,Nemalo
+4658,191,Nemili
+4659,412,Nennel
+4660,503,Nepanagar
+4661,205,Ner
+4662,30,Neradigonda
+4663,166,Nereducherla
+4664,21,Neredugommu
+4665,534,Nerwa
+4666,150,Netrang
+4667,208,Neturia
+4668,75,Nevasa
+4669,656,New Seren Circle
+4670,554,Neyyattinkara
+4671,749,Ngopa
+4672,530,Ngoungchung
+4673,226,Niali
+4674,674,Nichar
+4675,736,Nichlaul
+4676,168,Nidadavole
+4677,101,NIDAGUNDI
+4678,44,Nidamarru
+4679,21,Nidmanoor
+4680,219,Nigdu ST
+4681,608,Nighasan
+4682,327,Nihalprasad
+4683,283,Nihal Singhwala
+4684,190,Nihokhu
+4685,244,Nihri
+4686,1,Nikirai
+4687,2,Nikte Kodum Circle
+4688,316,Nilagiri
+4689,232,Nilakkottai
+4690,476,Nilambar-Pitambarpur(Lesliganj)
+4691,260,Nilambazar
+4692,635,Nilambur
+4693,48,Nilanga
+4694,377,Nilling Circle
+4695,219,Nilokheri
+4696,221,Nimapada
+4697,378,Nimbahera
+4698,31,Nimdih
+4699,481,Nimmanapalle
+4700,304,Nindra
+4701,289,Niphad
+4702,230,NIPPANI
+4703,55,Nirakarpur
+4704,342,Nirjharna
+4705,389,Nirmali
+4706,390,Nirmal Rural
+4707,390,Nirmal U
+4708,178,Nirmand
+4709,286,Nirsa-Cum-Chirkunda
+4710,226,Nischintakoili
+4711,219,Nising ST
+4712,178,Nither
+4713,750,Niuland
+4714,593,Niwai
+4715,179,Niwali
+4716,751,Niwari
+4717,457,Niwas
+4718,249,Nizamabad
+4719,203,Nizamabad North
+4720,203,Nizamabad Rural
+4721,203,NIZAMABAD SOUTH
+4722,25,Nizampatnam
+4723,96,Nizampet
+4724,357,Nizamsagar
+4725,622,Nizar
+4726,163,Noamundi
+4727,422,Nohar
+4728,572,Nohra
+4729,309,Nokha
+4730,77,Nokha
+4731,380,Nokhra
+4732,752,Nokhu
+4733,752,Noklak
+4734,530,Noksen
+4735,747,Nongstoin
+4736,222,Noorsarai
+4737,488,North Guwahati (Pt)
+4738,459,North Lakhimpur
+4739,256,Nowgong
+4740,340,Nowrozabad
+4741,418,Nowshera
+4742,227,Nsong
+4743,468,'N' Thingdawl
+4744,185,N.T.P.C.
+4745,349,Nuagaon
+4746,323,Nuagaon
+4747,201,NUAGAON
+4748,28,Nuaon
+4749,483,NUAPADA
+4750,640,Nuh
+4751,675,Nungba
+4752,79,Nurpur
+4753,166,Nuthanakal
+4754,113,Nuzendla
+4755,44,Nuzvid
+4756,139,Nyalkal
+4757,527,NYAMATHI
+4758,582,NYAPIN ADC
+4759,582,NYOBIA CIRCLE
+4760,617,Nyoma
+4761,628,Obra
+4762,241,Obra
+4763,36,Obuladevaracheruvu
+4764,481,Obulavaripalle
+4765,349,Odagaon
+4766,232,Oddanchatram
+4767,183,Odela
+4768,318,Ojili
+4769,420,Okhalkanda
+4770,435,Okhamandal
+4771,226,Olatapur
+4772,587,Old Ziro SDO
+4773,16,Olpad
+4774,236,Omalur
+4775,451,Omarga
+4776,351,Onda
+4777,361,Ondal
+4778,197,Ongole
+4779,104,Ongpangkong
+4780,104,ONGPANGKONG (N)
+4781,689,Orai
+4782,497,Orathanadu
+4783,545,Orchha
+4784,751,Orchha
+4785,271,Orient
+4786,556,Orkel
+4787,177,Ormanjhi
+4788,33,Orvakal
+4789,4,Osian
+4790,451,Osmanabad
+4791,633,Ottapidaram
+4792,85,Ottappalam
+4793,428,Oudgi
+4794,316,Oupada
+4795,97,Owk
+4796,465,Oyan Circle
+4797,298,Ozhukarai Taluk
+4798,302,Pach Deuri
+4799,572,Pachhad
+4800,344,Pachim Nalbari
+4801,326,Pachipenta
+4802,112,Pachora
+4803,455,Pachore
+4804,380,Pachpadra
+4805,73,Pachpahar
+4806,170,Pachrukhi
+4807,186,Padampur
+4808,14,Padara
+4809,611,Paddhari
+4810,26,Paderu
+4811,244,Padhar
+4812,374,Padma
+4813,161,Padmanabham
+4814,122,Padmapur
+4815,124,Padmapur
+4816,570,Padra
+4817,678,Padrauna
+4818,341,Padua
+4819,476,Padwa
+4820,97,Pagidyala
+4821,167,Pahalgam
+4822,403,Pahari
+4823,19,Paharpur
+4824,601,Pahloo
+4825,122,Paikamal
+4826,223,Pailani
+4827,241,Paithan
+4828,572,Pajhota
+4829,318,Pakala
+4830,353,Pakar Tanr
+4831,152,Pakaur
+4832,181,Pakhanjur
+4833,618,Pakke Kessang EAC
+4834,337,PAKOTI CIRCLE
+4835,66,Pakribarawan
+4836,19,Pakri Dayal
+4837,152,Pakuria
+4838,753,Pakyong
+4839,15,Palacoderu
+4840,15,Palacole
+4841,166,Palakeedu
+4842,85,Palakkad
+4843,606,Palakkodu
+4844,326,Palakonda
+4845,253,Palakurthy
+4846,183,PALAKURTHY
+4847,185,Palalahada
+4848,651,Palam
+4849,304,Palamaner
+4850,79,Palampur
+4851,232,Palani
+4852,144,Palanpur
+4853,330,Palari
+4854,110,Palasa
+4855,304,Palasamudram
+4856,488,Palasbari
+4857,194,Palasi
+4858,130,Palayamkottai
+4859,218,Paldewal
+4860,265,Palera
+4861,575,Palghar
+4862,401,Palhawas ST
+4863,340,Pali
+4864,322,Pali
+4865,59,Pali
+4866,729,Pali
+4867,608,Palia
+4868,229,Paliganj
+4869,452,Palimela
+4870,517,Palin Circle
+4871,440,Palitana
+4872,87,Palkot
+4873,246,Palladam
+4874,537,Pallavaram
+4875,655,Palling Circle
+4876,245,Pallipattu
+4877,422,Pallu
+4878,592,Palojori
+4879,16,Palsana
+4880,234,Palus
+4881,99,Palvoncha
+4882,297,Palwal
+4883,247,Pamarru
+4884,65,Pamgarh
+4885,165,Pamidi
+4886,247,Pamidimukkala
+4887,199,Pampore
+4888,97,Pamulapadu
+4889,197,Pamur
+4890,27,Panagar
+4891,149,Panapur
+4892,388,Panchari
+4893,387,Panchkula
+4894,156,Panchla
+4895,79,Panchrukhi
+4896,361,Pandabeswar
+4897,160,Pandapara
+4898,229,Pandarak
+4899,484,Pandariya
+4900,172,Pandaul
+4901,722,Pandavapura
+4902,677,Pandhana
+4903,70,Pandharpur
+4904,119,Pandhurna
+4905,476,Pandu
+4906,192,Pandua
+4907,114,Pangal
+4908,706,Pangchao SDO
+4909,429,Pangi
+4910,489,Pangin EAC
+4911,244,Pangna
+4912,64,Panhala
+4913,255,Panikoili
+4914,360,Panipat
+4915,605,Panisagar
+4916,202,Panjehra
+4917,345,Pankhu
+4918,476,Panki
+4919,57,Panna
+4920,454,Panruti
+4921,179,Pansemal
+4922,424,Panskura
+4923,752,Panso
+4924,529,Panthachowk
+4925,569,Panthalur
+4926,90,Panvel
+4927,97,Panyam
+4928,550,Paomata
+4929,572,Paonta Sahib
+4930,497,Papanasam
+4931,96,Papannapet
+4932,521,Paparahandi
+4933,556,Paparmetla
+4934,606,Pappireddipatti
+4935,208,Para
+4936,9,Paradeep Lock
+4937,9,Paradip
+4938,120,Paraiya
+4939,327,Parajang
+4940,20,Paralakhemundi
+4941,697,Paramakudi
+4942,719,Paramathi-Velur
+4943,451,Paranda
+4944,325,Parang Circle
+4945,119,Parasia
+4946,300,Paraswada
+4947,159,Paravada
+4948,107,Paravur
+4949,222,Parbalpur
+4950,589,Parbatsar
+4951,86,Parbatta
+4952,651,Parbhani
+4953,581,PARBUK SDO
+4954,25,Parchur
+4955,603,Pardi
+4956,359,Pargi
+4957,69,Pargwal
+4958,36,Parigi
+4959,305,Parihar
+4960,228,Parkal
+4961,133,Parli
+4962,75,Parner
+4963,112,Parola
+4964,239,Paroo
+4965,149,Parsa
+4966,305,Parsauni
+4967,447,Parseoni
+4968,123,Partur
+4969,538,Parvathagiri
+4970,326,Parvathipuram
+4971,202,PARWANOO
+4972,59,Pasan
+4973,465,Pasighat HQ
+4974,618,PASSA VALLEY CIRCLE
+4975,19,Patahi
+4976,295,Patamda
+4977,690,Patan
+4978,27,Patan
+4979,583,Patan
+4980,476,Patan
+4981,520,Patan
+4982,47,Patan
+4983,160,Patana
+4984,139,Patancheru
+4985,665,Patan-Veraval
+4986,201,PATAPUR
+4987,352,Patarghat
+4988,276,Pataudi
+4989,754,Patel Nagar
+4990,426,Patepur
+4991,399,Patera
+4992,426,Paterhi Belsar
+4993,288,Pathalgaon
+4994,533,Pathalgora
+4995,710,Pathanapuram
+4996,604,Pathankot
+4997,110,Pathapatnam
+4998,75,Pathardi
+4999,392,Pathargama
+5000,393,Pathari
+5001,399,Patharia
+5002,691,Pathariya
+5003,260,Patharkandi
+5004,384,Patharpratima
+5005,370,Pathna
+5006,576,Pathorighat (Pt)
+5007,651,Pathri
+5008,179,Pati
+5009,363,Pati
+5010,627,Patiala
+5011,712,Patiyali
+5012,1,Patkura
+5013,301,Patna
+5014,315,Patnagarh
+5015,229,Patna Rural
+5016,133,Patoda
+5017,456,Patori
+5018,627,Patran
+5019,351,Patrasayer
+5020,555,Patratu
+5021,730,Patsoi
+5022,85,Pattambi
+5023,1,Pattamundai
+5024,365,Pattan
+5025,444,Patti
+5026,206,Patti
+5027,33,Pattikonda
+5028,497,Pattukkottai
+5029,582,PATUK ADC
+5030,74,Patur
+5031,430,Pauni
+5032,473,Pauri
+5033,549,Pavagada
+5034,3,Pavta
+5035,57,Pawai
+5036,321,Pawkidevi
+5037,299,PAYAGPUR
+5038,159,Payakaraopeta
+5039,687,Payal
+5040,377,Payeng Circle
+5041,489,Payum Circle
+5042,686,Payyannur
+5043,97,Peapally
+5044,114,Pebbair
+5045,197,Peda Araveedu
+5046,26,Peda Bayalu
+5047,197,Pedacherlo Palle
+5048,161,Pedagantyada
+5049,536,Pedakakani
+5050,113,Pedakurapadu
+5051,247,Pedana
+5052,536,Pedanandipadu
+5053,44,Pedapadu
+5054,247,Pedaparupudi
+5055,648,Pedapudi
+5056,44,Pedavegi
+5057,21,Pedda Adesherlapally
+5058,33,Pedda Kadubur
+5059,357,Pedda Kodapgal
+5060,14,Peddakothapally
+5061,114,Peddamandadi
+5062,481,Peddamandyam
+5063,233,Peddamudium
+5064,183,Peddapalli
+5065,304,Peddapanjani
+5066,165,Peddapappur
+5067,648,Peddapuram
+5068,481,Pedda Thippasamudram
+5069,165,Peddavadugur
+5070,404,Peddavangara
+5071,21,Peddavoora
+5072,359,Peddemul
+5073,227,Pedi (Ngwalwa)
+5074,666,PEDONG
+5075,206,Peepalkhoont
+5076,593,Peeplu
+5077,600,Peerumade
+5078,62,Peesangan
+5079,406,Pegadapalli
+5080,252,Pehowa
+5081,318,Pellakur
+5082,390,Pembi
+5083,90,Pen
+5084,481,Penagalur
+5085,247,Penamaluru
+5086,216,Penchicalpet
+5087,233,Pendlimarri
+5088,744,Pendra
+5089,744,Pendra Road Gorella
+5090,161,Pendurthi
+5091,606,Pennagaram
+5092,166,Penpahad
+5093,15,Pentapadu
+5094,14,Pentlavelli
+5095,491,Penuballi
+5096,76,Penuganchiprolu
+5097,15,Penugonda
+5098,36,Penukonda
+5099,15,Penumantra
+5100,304,Penumuru
+5101,702,Peraiyur
+5102,84,Perambalur
+5103,81,Perambur
+5104,168,Peravali
+5105,497,Peravurani
+5106,227,Peren
+5107,635,Perinthalmanna
+5108,174,Periyakulam
+5109,157,Pernambut
+5110,367,Pernem
+5111,184,Perundurai
+5112,158,Perur
+5113,431,Peshrar
+5114,419,Peterwar
+5115,289,Peth
+5116,236,Pethanaickanpalayam
+5117,162,Petlad
+5118,693,Petlawad
+5119,540,Pfutsero
+5120,53,P.Gannavaram
+5121,3,Phagi
+5122,450,Phagwara
+5123,4,Phalodi
+5124,433,Phalsund
+5125,690,Phaltan
+5126,584,Phansidewa
+5127,736,Pharenda
+5128,582,PHASSANG CIRCLE
+5129,540,Phek Sadar
+5130,19,Phenhara
+5131,220,Phigsoo
+5132,18,Phillaur
+5133,536,Phirangipuram
+5134,323,Phiringia
+5135,540,Phokhungri
+5136,11,Phomching
+5137,217,Phooliya Kalan
+5138,540,Phor
+5139,323,Phulabani
+5140,323,Phulabani Town
+5141,241,Phulambri
+5142,3,Phulera (Hq.Sambhar)
+5143,117,Phulidumar
+5144,749,Phullen
+5145,616,Phuloni
+5146,172,Phulparas
+5147,249,Phulpur
+5148,98,Phulpur
+5149,229,Phulwari
+5150,302,Phulwaria
+5151,703,Phungyar
+5152,318,Pichatur
+5153,261,Pichhore
+5154,446,Pichhore Or Dabra
+5155,748,Pidi Circle
+5156,113,Piduguralla
+5157,481,Pileru
+5158,422,Pilibanga
+5159,115,Pilibhit
+5160,88,Pillukhera ST
+5161,99,Pinapaka
+5162,755,Pindra
+5163,12,Pindwara
+5164,524,Pingla
+5165,615,Pipalda
+5166,251,Pipariya
+5167,484,Pipariya
+5168,362,Pipariya
+5169,4,Pipar shahar
+5170,221,Pipili
+5171,105,Piploda
+5172,476,Pipra
+5173,389,Pipra
+5174,214,Piprai
+5175,19,Piprakothi
+5176,630,Piprarhi
+5177,278,Piprasi
+5178,517,Pipsorang Circle
+5179,337,Pipu Dipu Circle
+5180,73,Pirawa
+5181,681,Piriyapatna
+5182,43,Piro
+5183,458,Pirpainti
+5184,291,Pirtanr
+5185,587,Pistana Circle
+5186,273,Pithampur
+5187,648,Pithapuram
+5188,280,Pithora
+5189,345,Pithoragarh
+5190,357,Pitlam
+5191,25,Pittalavanipalem
+5192,558,Piyong Circle
+5193,618,Pizirang Veo Circle
+5194,169,Pochampalli
+5195,100,Podalakur
+5196,556,Podia
+5197,197,Podili
+5198,15,Poduru
+5199,350,Pogal Paristan
+5200,261,Pohri
+5201,433,Pokaran
+5202,29,Pokhari
+5203,90,Poladpur
+5204,110,Polaki
+5205,201,POLASARA
+5206,44,Polavaram
+5207,248,Polaykala
+5208,192,Polba - Dadpur
+5209,158,Pollachi
+5210,582,POLOSANG CIRCLE
+5211,193,Polur
+5212,329,Pombhurna
+5213,505,Ponda
+5214,301,Pondi Bachra
+5215,110,Ponduru
+5216,197,Ponnaluru
+5217,82,Ponnamaravathi
+5218,724,PONNAMPET
+5219,635,Ponnani
+5220,245,Ponneri
+5221,536,Ponnur
+5222,674,Poo
+5223,309,Poogal
+5224,245,Poonamallee
+5225,363,Poornagiri
+5226,726,Porbandar
+5227,392,Poreyahat
+5228,714,Porompat
+5229,126,Porsa
+5230,641,Port Blair
+5231,233,Porumamilla
+5232,682,POSHINA
+5233,424,Potashpur - I
+5234,424,Potashpur - II
+5235,293,Pothia
+5236,295,Potka
+5237,341,Pottangi
+5238,59,Poundi-Uproda
+5239,204,Pouni
+5240,688,Powayan
+5241,145,PrabhatPattan
+5242,79,Pragpur
+5243,137,Pranpur
+5244,682,Prantij
+5245,389,Pratapganj
+5246,206,Pratapgarh
+5247,206,Pratapgarh
+5248,321,Pratapnagar
+5249,463,Pratap Nagar ST
+5250,533,Pratappur
+5251,428,Pratappur
+5252,648,Prathipadu
+5253,536,Prathipadu
+5254,650,Preet Vihar
+5255,428,Premnagar
+5256,751,Prithvipur
+5257,233,Proddatur
+5258,621,Puchi Geko Circle
+5259,298,Puducherry Taluk
+5260,82,Pudukkottai
+5261,359,Pudur
+5262,195,Pugalur
+5263,42,Pughoboto
+5264,429,Pukhri
+5265,304,Pulicherla
+5266,233,Pulivendla
+5267,139,Pulkal
+5268,363,Pulla Gumdesh
+5269,197,Pullalacheruvu
+5270,481,Pullampeta
+5271,199,Pulwama
+5272,706,Pumao Circle
+5273,16,Puna
+5274,640,Punahana
+5275,710,Punalur
+5276,677,Punasa
+5277,208,Puncha
+5278,132,Pune City
+5279,304,Punganur
+5280,111,Pungro
+5281,754,Punjabi Bagh
+5282,229,Punpun
+5283,305,Pupri
+5284,78,Puraini
+5285,132,Purandhar
+5286,115,Puranpur
+5287,81,Purasawalkam
+5288,382,Puraula
+5289,243,Purbasthali - I
+5290,243,Purbasthali - II
+5291,286,Purbi Tundi*
+5292,221,Puri (M)
+5293,651,Purna
+5294,630,Purnahiya
+5295,151,Purnia East
+5296,192,Pursura
+5297,550,Purul
+5298,208,Purulia - I
+5299,208,Purulia - II
+5300,400,Puruna Katak
+5301,185,Purunakot
+5302,201,PURUSOTTAMPUR
+5303,347,Purwa
+5304,456,Pusa
+5305,205,Pusad
+5306,259,Pusapatirega
+5307,62,Pushkar
+5308,187,Pushparajgarh
+5309,541,Pusour
+5310,304,Puthalapattu
+5311,165,Putlur
+5312,36,Puttaparthi
+5313,124,Puttasing
+5314,358,Puttur
+5315,318,Puttur
+5316,715,Pynursla
+5317,601,Qaimoh
+5318,626,Qalamabad
+5319,626,Qaziabad
+5320,167,Qazigund
+5321,418,Qila Darhal
+5322,505,Quepem
+5323,108,Qutballapur
+5324,257,RABAKAVI BANAHATTI
+5325,653,Rabdang
+5326,197,Racherla
+5327,463,Radaur
+5328,64,Radhanagari
+5329,520,Radhanpur
+5330,130,Radhapuram
+5331,577,Rae Bareli
+5332,365,Rafiabad
+5333,241,Rafiganj
+5334,621,Raga ADC
+5335,207,Raghogarh
+5336,389,Raghopur
+5337,426,Raghopur
+5338,491,Raghunadhapalem
+5339,343,Raghunathapali
+5340,410,Raghunathganj - I
+5341,410,Raghunathganj - II
+5342,331,RAGHUNATHNAGAR
+5343,170,Raghunathpur
+5344,208,Raghunathpur - I
+5345,208,Raghunathpur - II
+5346,116,Raghurajnagar Nagareey
+5347,253,Ragunathpally
+5348,610,Raha
+5349,339,Rahatgarh
+5350,177,Rahe
+5351,75,Rahta
+5352,222,Rahui
+5353,75,Rahuri
+5354,342,Rahuwas
+5355,316,Raibania
+5356,343,Raiboga
+5357,595,Raichur
+5358,87,Raidih
+5359,559,Raiganj
+5360,541,Raigarh
+5361,521,Raighar
+5362,406,Raikal
+5363,323,Raikia
+5364,139,Raikode
+5365,687,Raikot
+5366,140,Railmagra
+5367,243,Raina - I
+5368,243,Raina - II
+5369,72,Raipole
+5370,73,Raipur
+5371,217,Raipur
+5372,351,Raipur
+5373,322,Raipur
+5374,8,Raipur
+5375,57,Raipura
+5376,667,Raipur - Karchuliyan
+5377,387,Raipur Rani
+5378,54,Rairakhol
+5379,258,Rairangpur
+5380,258,Rairangpur Town
+5381,267,Raisen
+5382,186,Raisinghnagar
+5383,647,Rai ST
+5384,343,Rajagangapur
+5385,168,Rajahmundry Rural
+5386,168,Rajahmundry (Urban)
+5387,79,Raja Ka Talab
+5388,375,Rajakhera
+5389,259,Rajam
+5390,357,Rajampet
+5391,481,Rajampet
+5392,168,Rajanagaram
+5393,426,Raja Pakar
+5394,209,Rajapalayam
+5395,23,Rajapeta
+5396,553,Rajapur
+5397,711,Rajapur
+5398,24,Rajapur
+5399,138,Rajarhat
+5400,697,RAJASINGAMANGALAM
+5401,755,Rajatalab
+5402,66,Rajauli
+5403,117,Rajaun
+5404,602,Rajaund ST
+5405,26,Rajavommangi
+5406,7,Rajendranagar
+5407,338,Rajganj
+5408,572,Rajgarh
+5409,455,Rajgarh
+5410,432,Rajgarh
+5411,109,Rajgarh
+5412,350,Rajgarh
+5413,382,Rajgarhi
+5414,222,Rajgir
+5415,147,Rajim
+5416,1,Rajkanika
+5417,611,Rajkot
+5418,611,RAJKOT EAST
+5419,611,RAJKOT SOUTH
+5420,611,RAJKOT WEST
+5421,370,Rajmahal
+5422,256,Rajnagar
+5423,490,Rajnagar
+5424,172,Rajnagar
+5425,1,Rajnagar
+5426,547,Rajnandgaon
+5427,80,Rajoli
+5428,418,Rajouri
+5429,754,Rajouri Garden
+5430,199,Rajpora
+5431,179,Rajpur
+5432,372,Rajpur
+5433,331,Rajpur
+5434,77,Rajpur
+5435,627,Rajpura
+5436,376,Rajpura
+5437,140,Rajsamand
+5438,153,Rajula
+5439,113,Rajupalem
+5440,233,Rajupalem
+5441,329,Rajura
+5442,79,Rakkar
+5443,56,Ralan
+5444,205,Ralegaon
+5445,693,Rama
+5446,259,Ramabhadrapuram
+5447,221,Ramachandi
+5448,318,Ramachandrapuram
+5449,53,Ramachandrapuram
+5450,548,Ramadugu
+5451,36,Ramagiri
+5452,20,Ramagiri
+5453,183,RAMAGIRI
+5454,183,Ramagundam
+5455,304,Ramakuppam
+5456,528,Ramanagara
+5457,697,Ramanathapuram
+5458,23,Ramannapet
+5459,331,Ramanujganj
+5460,428,Ramanujnagar
+5461,481,Ramapuram
+5462,357,Ramareddy
+5463,481,Ramasamudram
+5464,96,Ramayampet
+5465,350,Ramban
+5466,201,RAMBHA
+5467,159,Rambilli
+5468,747,Rambrai
+5469,331,RAMCHANDRAPUR
+5470,139,Ramchandrapuram
+5471,230,Ramdurg
+5472,697,Rameswaram
+5473,615,Ramganj Mandi
+5474,555,Ramgarh
+5475,109,Ramgarh
+5476,420,Ramgarh
+5477,376,Ramgarh
+5478,629,Ramgarh
+5479,433,Ramgarh
+5480,28,Ramgarh
+5481,476,RAMGARH
+5482,362,Ramgarh Chowk
+5483,342,Ramgarh Pachwara
+5484,583,RAMGARH SHEKAWATI
+5485,19,Ramgarhwa
+5486,626,Ramhal
+5487,368,Ramkanda
+5488,348,Ramkote
+5489,260,Ramkrishna Nagar
+5490,368,Ramna
+5491,278,Ramnagar
+5492,116,Ramnagar
+5493,638,Ramnagar
+5494,420,Ramnagar
+5495,388,Ramnagar
+5496,424,Ramnagar - I
+5497,424,Ramnagar - II
+5498,26,Rampachodavaram
+5499,471,Rampur
+5500,534,Rampur
+5501,464,Rampur
+5502,28,Rampur
+5503,692,Rampura
+5504,398,Rampura Phul
+5505,116,Rampur Baghelan
+5506,490,Rampurhat - I
+5507,490,Rampurhat - II
+5508,408,Rampur Maniharan
+5509,296,Rampur Naikin
+5510,638,Ramsanehighat
+5511,380,Ramsar
+5512,202,Ramshahr
+5513,350,Ramsoo
+5514,447,Ramtek
+5515,510,Ranaghat - I
+5516,510,Ranaghat - II
+5517,349,Ranapur
+5518,693,Ranapur
+5519,110,Ranastalam
+5520,726,Ranavav
+5521,69,Ranbir Singh Pura
+5522,168,Rangampeta
+5523,614,Rangat
+5524,488,Rangia Pt
+5525,324,Rangjuli
+5526,584,Rangli Rangliot
+5527,753,Rangpo
+5528,458,Rangra Chowk
+5529,322,Rani
+5530,571,Rania
+5531,634,Rania
+5532,504,Ranibennur
+5533,351,Ranibundh
+5534,361,Raniganj
+5535,206,Raniganj
+5536,194,Raniganj
+5537,102,Ranikhet
+5538,746,Ranikor
+5539,410,Raninagar - I
+5540,410,Raninagar - II
+5541,629,Ranishwar
+5542,50,Raniwara
+5543,27,Ranjhi
+5544,368,Ranka
+5545,34,Ranni
+5546,261,Rannod
+5547,386,Ranpur
+5548,6,Rapar
+5549,165,Raptadu
+5550,100,Rapur
+5551,258,Raruan
+5552,258,Rasagobindapur
+5553,378,Rashmi
+5554,719,Rasipuram
+5555,327,Rasol
+5556,306,Rasra
+5557,67,Rasulabad
+5558,432,Ratangarh
+5559,411,Ratanpur
+5560,383,Rath
+5561,439,Ratia
+5562,105,Ratlam
+5563,105,Ratlam Nagar
+5564,553,Ratnagiri
+5565,661,Ratni Faridpur
+5566,504,RATTIHALLI
+5567,177,Ratu
+5568,335,Ratua - I
+5569,335,Ratua - II
+5570,443,Rau
+5571,343,Raurkela (ITS)P.S.
+5572,343,Raurkela (M)
+5573,695,Ravangla
+5574,112,Raver
+5575,159,Ravikamatham
+5576,186,Ravla
+5577,53,Ravulapalem
+5578,378,Rawatbhata
+5579,422,Rawatsar
+5580,105,Rawti
+5581,19,Raxaul
+5582,481,Rayachoti
+5583,165,Rayadurg
+5584,124,Rayagada
+5585,20,Rayagada
+5586,538,Rayaparthy
+5587,53,Rayavaram
+5588,230,Raybag
+5589,540,Razieba
+5590,53,Razole
+5591,379,Reamal
+5592,204,Reasi
+5593,216,Rebbena
+5594,489,Rebo Perging Circle
+5595,76,Reddigudem
+5596,583,Reengus
+5597,259,Regidi Amadalavalasa
+5598,96,Regode
+5599,452,Regonda
+5600,673,Rehatgaon
+5601,339,Rehli
+5602,215,Rehti
+5603,756,Reiek
+5604,316,Remuna
+5605,48,Renapur
+5606,484,RENGAKHARKALA
+5607,271,Rengali
+5608,54,Rengali
+5609,185,Rengali Damsite
+5610,109,RENI
+5611,318,Renigunta
+5612,203,Renjal
+5613,113,Rentachintala
+5614,572,Renuka
+5615,493,Renuk Circle
+5616,12,Reodar
+5617,25,Repalle
+5618,421,RERAPARA
+5619,32,Resubelpara
+5620,114,Revally
+5621,149,Revelganj
+5622,244,Rewalsar
+5623,401,Rewari
+5624,79,Rey
+5625,337,Richukrong Circle
+5626,305,Riga
+5627,489,Riga EAC
+5628,473,Rikhanikhal
+5629,747,Ri Muliang
+5630,264,Rishabhdeo
+5631,513,Rishikesh
+5632,708,Risod
+5633,277,Rithi
+5634,589,RIYAN BADI
+5635,245,R K PET
+5636,628,Robertsganj
+5637,36,Roddam
+5638,66,Roh
+5639,90,Roha
+5640,322,Rohat
+5641,705,Rohini
+5642,534,Rohru
+5643,701,Rohtak
+5644,77,Rohtas
+5645,581,Roing HQ
+5646,36,Rolla
+5647,159,Rolugunta
+5648,304,Rompicherla
+5649,113,Rompicherla
+5650,225,Ron
+5651,644,Ron
+5652,285,Rongara
+5653,753,Rongli
+5654,396,Rongram
+5655,572,Ronhat
+5656,62,Roopangarh
+5657,425,Roorkee
+5658,456,Rosera
+5659,648,Rowthulapudi
+5660,461,Rudauli
+5661,20,R.Udayagiri
+5662,394,Rudhauli
+5663,485,RUDRANGI
+5664,395,Rudraprayag
+5665,310,Rudrapur
+5666,371,Rudrapur
+5667,97,Rudravaram
+5668,203,Rudrur
+5669,160,Rugudi
+5670,465,Ruksin ADC
+5671,489,Rumgong ADC
+5672,305,Runisaidpur
+5673,610,Rupahi
+5674,320,Rupa SDO
+5675,151,Rupauli
+5676,403,Rupbas
+5677,164,Rup Nagar
+5678,316,Rupsa
+5679,126,Sabalgarh
+5680,524,Sabang
+5681,213,Sabarmati
+5682,159,Sabbavaram
+5683,218,Sabla
+5684,458,Sabour
+5685,413,Sabroom
+5686,679,Sadabad
+5687,142,Sadak-Arjuni
+5688,755,Sadar
+5689,312,Sadar
+5690,694,Sadar
+5691,480,Sadar
+5692,221,Sadar
+5693,54,Sadar
+5694,357,Sadashivanagar
+5695,139,Sadasivpet
+5696,463,Sadhaura ST
+5697,624,Sadiya
+5698,186,Sadulshahar
+5699,79,Sadwan
+5700,88,Safidon
+5701,347,Safipur
+5702,325,Sagalee ADC
+5703,423,Sagar
+5704,339,Sagar
+5705,384,Sagar
+5706,410,Sagardighi
+5707,339,Sagar Nagar
+5708,586,Sagbara
+5709,368,Sagma
+5710,391,SAGO
+5711,249,Sagri
+5712,218,Sagwara
+5713,316,Sahadevkhunta
+5714,703,SAHAMPHUNG
+5715,43,Sahar
+5716,217,Sahara
+5717,408,Saharanpur
+5718,484,Sahaspur Lohara
+5719,127,Saha ST
+5720,469,Sahaswan
+5721,712,Sahawar
+5722,426,Sahdai Buzurg
+5723,239,Sahebganj
+5724,254,Sahebpur Kamal
+5725,55,Saheednagar
+5726,370,Sahibganj
+5727,424,Sahid Matangini
+5728,355,Sahjanwa
+5729,134,Saidabad
+5730,659,Saidpur
+5731,438,Saifai
+5732,757,Saiha
+5733,645,Saikheda
+5734,565,SAIKOT
+5735,502,SAIKUL
+5736,105,Sailana
+5737,178,Sainj
+5738,160,Sainkul
+5739,315,Saintala
+5740,342,Sainthal
+5741,490,Sainthia
+5742,733,Saipung
+5743,502,Saitu-Gamphazol
+5744,414,Saja
+5745,5,SAJJANGARH
+5746,511,Sakaldiha
+5747,680,Saket
+5748,53,Sakhinetipalle
+5749,106,Sakleshpur
+5750,744,Sakola
+5751,430,Sakoli
+5752,239,Sakra
+5753,540,Sakraba
+5754,613,Sakri
+5755,411,Sakri
+5756,732,Sakshi
+5757,22,Sakti
+5758,361,Salanpur
+5759,524,Salbani
+5760,505,Salcete
+5761,142,Salekasa
+5762,236,Salem
+5763,371,Salempur
+5764,236,Salem South
+5765,236,Salem West
+5766,226,Salepur
+5767,270,Salhawas ST
+5768,546,Salhewara
+5769,681,SALIGRAMA
+5770,352,Salkhua
+5771,167,Sallar
+5772,577,Salon
+5773,351,Saltora
+5774,264,Salumbar
+5775,429,Saluni
+5776,326,Salur
+5777,610,Samaguri
+5778,185,Samal Barrage
+5779,360,Samalkha
+5780,648,Samalkota
+5781,627,Samana
+5782,580,Samanda
+5783,456,Samastipur
+5784,376,Samba
+5785,54,Sambalpur (M)
+5786,481,Sambepalle
+5787,522,Sambhal
+5788,380,Samdari
+5789,137,Sameli
+5790,520,Sami
+5791,229,Sampatchak
+5792,701,Sampla
+5793,687,Samrala
+5794,331,SAMRI
+5795,331,Samri(kusmi)
+5796,410,Samserganj
+5797,210,Samudrapur
+5798,565,SAMULAMLAN
+5799,213,Sanand
+5800,385,Sanawad
+5801,50,Sanchore
+5802,43,Sandesh
+5803,138,Sandeshkhali - I
+5804,138,Sandeshkhali - II
+5805,244,Sandhol
+5806,466,Sandila
+5807,328,Sandur
+5808,565,SANGAIKOT
+5809,100,Sangam
+5810,553,Sangameshwar
+5811,75,Sangamner
+5812,3,Sanganer
+5813,139,Sangareddy
+5814,422,Sangaria
+5815,535,Sangau
+5816,325,Sangdupota Basar Nello Circle
+5817,538,Sangem
+5818,674,Sangla
+5819,615,Sangod
+5820,70,Sangole
+5821,212,Sangrampur
+5822,500,Sangrampur
+5823,19,Sangrampur
+5824,582,SANGRAM SDO
+5825,441,Sangrur
+5826,530,Sangsangnyu
+5827,505,Sanguem
+5828,56,Sanis
+5829,97,Sanjamala
+5830,599,Sanjeli
+5831,77,Sanjhauli
+5832,589,Sanjhu
+5833,83,Sankarankoil
+5834,552,Sankarapuram
+5835,236,Sankari
+5836,382,Sankari
+5837,648,Sankhavaram
+5838,482,Sankheda
+5839,625,Sankoo
+5840,156,Sankrail
+5841,472,Sankrail
+5842,288,SANNA
+5843,520,Santalpur
+5844,110,Santhabommali
+5845,259,Santhakaviti
+5846,25,Santhamaguluru
+5847,197,Santhanuthala Padu
+5848,304,Santhipuram
+5849,510,Santipur
+5850,413,Santirbazar
+5851,317,Santrampur
+5852,208,Santuri
+5853,738,Sapekhati
+5854,683,Sapotra
+5855,42,Saptiqa
+5856,264,Sarada
+5857,65,Saragaon
+5858,681,SARAGURU
+5859,534,Sarahan
+5860,557,Sarai
+5861,389,Saraigarh Bhaptiyahi
+5862,31,Saraikela
+5863,280,Saraipali
+5864,456,Sarairanjan
+5865,239,Saraiya
+5866,629,Saraiyahat
+5867,323,Sarangagarh
+5868,406,Sarangapur
+5869,390,Sarangapur
+5870,364,Sarangarh
+5871,455,Sarangpur
+5872,349,Sarankul
+5873,520,Saraswati
+5874,463,Saraswati Nagar ST
+5875,705,Saraswati Vihar
+5876,592,Sarath
+5877,110,Saravakota
+5878,534,Sarawati Nagar
+5879,273,Sardarpur
+5880,432,Sardarshahar
+5881,745,Sardhana
+5882,499,Sardulgarh
+5883,351,Sarenga
+5884,691,Sargaon
+5885,383,Sarila
+5886,588,Sarita Vihar
+5887,364,SARIYA
+5888,244,Sarkaghat
+5889,582,SARLI CIRCLE
+5890,375,SARMATHURA
+5891,222,Sarmera
+5892,312,Sarojani Nagar
+5893,181,Sarona
+5894,7,Saroornagar
+5895,284,Sarthebari
+5896,110,Sarubujjili
+5897,487,Sarupathar
+5898,308,Sarupeta (Pt)
+5899,592,Sarwan
+5900,62,Sarwar
+5901,54,Sasan
+5902,77,Sasaram
+5903,594,SAS Nagar (Mohali)
+5904,679,Sasni
+5905,617,Saspol
+5906,42,Satakha
+5907,690,Satara
+5908,367,Satari
+5909,352,Satar Kataiya
+5910,476,Satbarwa
+5911,525,Satgawan
+5912,633,Sathankulam
+5913,491,Sathupalli
+5914,184,Sathyamangalam
+5915,405,Satlasana
+5916,224,Satnali ST
+5917,42,Satoi
+5918,473,Satpuli
+5919,113,Sattenapalle
+5920,209,Sattur
+5921,290,Satwas
+5922,221,Satyabadi
+5923,318,Satyavedu
+5924,352,Saur Bazar
+5925,119,Sausar
+5926,230,SAVADATTI
+5927,113,Savalyapuram H/O Kanamarlapudi
+5928,504,Savanur
+5929,153,Savar Kundla
+5930,570,Savli
+5931,447,Savner
+5932,337,Sawa CIrcle
+5933,336,Sawai Madhopur
+5934,329,Sawali
+5935,598,Sawantwadi
+5936,62,Sawar
+5937,466,Sawayajpur
+5938,443,Sawer
+5939,714,Sawombung
+5940,560,Sayla
+5941,50,Sayla
+5942,535,S' Bungtlang
+5943,496,Sechu-Zubza
+5944,134,Secunderabad
+5945,35,Sedam
+5946,380,SEDWA
+5947,709,Seelam Pur
+5948,758,Seema Puri
+5949,411,Seepat
+5950,161,Seethammadhara
+5951,326,Seethampeta
+5952,168,Seethanagaram
+5953,326,Seethanagaram
+5954,100,Seetharamapuram
+5955,385,Segaon
+5956,377,Segi Gusar Circle
+5957,215,Sehore
+5958,215,Sehore Nagar
+5959,618,Seijosa ADC
+5960,540,Sekruzu
+5961,210,Seloo
+5962,396,Selsella
+5963,651,Selu
+5964,264,Semari
+5965,667,Semaria
+5966,719,SENDAMANGALAM
+5967,179,Sendhwa
+5968,173,Sendurai
+5969,237,Sengaon
+5970,431,Senha
+5971,275,Seondha
+5972,369,Seoni
+5973,251,Seoni Malwa
+5974,369,Seoni Nagar
+5975,375,Sepau
+5976,337,Seppa HQ
+5977,201,SERAGAD
+5978,192,Serampur Uttarpara
+5979,20,Serango
+5980,632,Serchhip
+5981,7,Serilingampally
+5982,124,Seskhal
+5983,4,Setrawa
+5984,165,Settur
+5985,659,SEVRAI
+5986,111,Seyochung
+5987,7,Shabad
+5988,214,Shadhora
+5989,464,Shahabad
+5990,466,Shahabad
+5991,35,SHAHABAD
+5992,71,Shahade
+5993,129,Shahapur
+5994,182,Shahbad
+5995,252,Shahbad
+5996,167,Shahbad Bala
+5997,758,Shahdara
+5998,269,Shahganj
+5999,339,Shahgarh
+6000,688,Shahjahanpur
+6001,18,Shahkot
+6002,458,Shahkund
+6003,57,Shahnagar
+6004,199,Shahoora
+6005,668,Shahpur
+6006,145,Shahpur
+6007,79,Shahpur
+6008,43,Shahpur
+6009,217,Shahpura
+6010,27,Shahpura
+6011,307,Shahpura
+6012,3,Shahpura
+6013,64,Shahuwadi
+6014,127,Shahzadpur ST
+6015,134,Shaikpet
+6016,248,Shajapur
+6017,625,Shakar Chiktan
+6018,572,Shalai
+6019,21,ShaliGouraram
+6020,533,Shaligram Ram Narayanpur(Hunterganj)
+6021,747,Shallang
+6022,282,Shama
+6023,539,Shamator
+6024,117,Shambhuganj
+6025,434,Shamgarh
+6026,254,Shamho Akha Kurha
+6027,108,Shamirpet
+6028,699,Shamli
+6029,7,Shamshabad
+6030,393,Shamshabad
+6031,11,Shangnyu
+6032,167,Shangus
+6033,96,Shankarampet (A)
+6034,96,Shankarampet (R)
+6035,548,Shankarapatnam
+6036,331,Shankargarh
+6037,7,Shankarpalle
+6038,78,Shankarpur
+6039,520,Shankheshvar
+6040,258,Sharata
+6041,228,Shayampet
+6042,500,Shegaon
+6043,660,Shehera
+6044,198,Sheikhpura
+6045,4,Shekhala
+6046,198,Shekhopur Sarai
+6047,715,Shella Bholaganj
+6048,83,Shenkottai
+6049,380,Sheo
+6050,12,Sheoganj
+6051,630,Sheohar
+6052,274,Sheopur
+6053,77,Sheosagar
+6054,320,Shergaon Circle
+6055,4,Shergarh
+6056,120,Sherghati
+6057,625,Shergole
+6058,75,Shevgaon
+6059,504,Shiggaon
+6060,629,Shikaripara
+6061,423,Shikarpur
+6062,188,Shikarpur
+6063,642,Shikohabad
+6064,534,Shimla ( Rural )
+6065,534,Shimla (urban)
+6066,234,Shirala
+6067,644,Shirhatti
+6068,64,Shirol
+6069,613,Shirpur
+6070,132,Shirur
+6071,48,Shirur Anantpal
+6072,133,Shirur (Kasar)
+6073,456,Shivaji Nagar
+6074,423,Shivamogga
+6075,96,Shivampet
+6076,261,Shivpuri
+6077,261,Shivpuri nagar
+6078,65,Shivrinarayan
+6079,356,Shohratgarh
+6080,81,Sholinganallur
+6081,191,Sholinghur
+6082,169,Shoolagiri
+6083,366,Shopian
+6084,668,Shorapur
+6085,75,Shrigonda
+6086,683,ShriMahaveer Ji
+6087,75,Shrirampur
+6088,722,Shrirangapattana
+6089,90,Shrivardhan
+6090,248,Shujalpur
+6091,215,Shyampur
+6092,156,Shyampur - I
+6093,156,Shyampur - II
+6094,188,Siana
+6095,656,Sibe Circle
+6096,143,Sibsagar
+6097,180,Siddapur
+6098,72,Siddipet Rural
+6099,72,Siddipet Urban
+6100,478,Sidhauli
+6101,278,Sidhaw
+6102,432,Sidhmukh
+6103,233,Sidhout
+6104,520,Sidhpur
+6105,302,Sidhwalia
+6106,281,Sidlaghatta
+6107,415,Sidli (Pt)
+6108,296,Sihawal
+6109,440,Sihor
+6110,27,Sihora
+6111,429,Sihunta
+6112,285,SIJU
+6113,306,Sikanderpur
+6114,373,Sikandra
+6115,67,Sikandra
+6116,188,Sikandrabad
+6117,679,Sikandra Rao
+6118,583,Sikar
+6119,583,Sikar Gramin
+6120,342,Sikrai
+6121,403,Sikri
+6122,278,Sikta
+6123,194,Sikti
+6124,222,Silao
+6125,713,Silchar
+6126,177,Silli
+6127,241,Sillod
+6128,616,Silonijan
+6129,325,SILSANGO CIRCLE
+6130,267,Silwani
+6131,218,Simalwara
+6132,533,Simaria
+6133,57,Simariya
+6134,353,Simdega
+6135,330,Simga
+6136,233,Simhadripuram
+6137,316,Similia
+6138,341,Similiguda
+6139,351,Simlapal
+6140,372,Simri
+6141,352,Simri Bakhtiarpur
+6142,483,SINAPALI
+6143,329,Sindewahi
+6144,101,Sindgi
+6145,380,Sindhari
+6146,315,Sindhekela
+6147,595,Sindhnur
+6148,613,Sindkhede
+6149,500,Sindkhed Raja
+6150,655,Singa Circle
+6151,596,Singampunari
+6152,165,Singanamala
+6153,197,Singarayakonda
+6154,491,Singareni
+6155,320,Singchung ADC
+6156,78,Singheshwar
+6157,456,Singhia
+6158,365,Singhpora
+6159,92,Singhwara
+6160,316,Singla
+6161,565,Singngat
+6162,692,Singoli
+6163,557,Singrauli
+6164,557,Singrauli Nagar
+6165,192,Singur
+6166,599,Singvad
+6167,289,Sinnar
+6168,570,Sinor
+6169,418,Siot
+6170,576,Sipajhar
+6171,549,Sira
+6172,673,Sirali
+6173,509,Sirathu
+6174,638,Sirauli Gauspur
+6175,485,Sircilla
+6176,66,Sirdala
+6177,139,Sirgapoor
+6178,203,Sirikonda
+6179,30,SIRIKONDA
+6180,725,Sirkali
+6181,667,Sirmour
+6182,12,Sirohi
+6183,46,Sironcha
+6184,393,Sironj
+6185,216,Sirpur (T)
+6186,216,Sirpur U
+6187,571,Sirsa
+6188,642,SIRSAGANJ
+6189,180,Sirsi
+6190,328,Siruguppa
+6191,97,Sirvel
+6192,595,SIRWAR
+6193,87,Sisai
+6194,609,Sissibargaon
+6195,170,Siswan
+6196,568,Sitai
+6197,568,Sitalkuchi
+6198,434,Sitamau
+6199,135,Sitapur
+6200,478,Sitapur
+6201,310,Sitarganj
+6202,111,Sitimi
+6203,596,Sivaganga
+6204,83,Sivagiri
+6205,209,Sivakasi
+6206,170,Siwan
+6207,380,Siwana
+6208,294,Siwani
+6209,602,Siwan ST
+6210,377,Siyum ADC
+6211,277,Sleemnbad
+6212,233,S.Mydukur
+6213,390,Soan
+6214,304,Sodam
+6215,241,Soegaon
+6216,494,Soha Circle
+6217,251,Sohagpur
+6218,416,Sohagpur
+6219,461,Sohawal
+6220,122,Sohela
+6221,715,Sohiong
+6222,276,Sohna
+6223,322,Sojat
+6224,162,Sojitra
+6225,202,Solan
+6226,70,Solapur North
+6227,70,Solapur South
+6228,304,Somala
+6229,36,Somandepalle
+6230,102,Someshwar
+6231,110,Sompeta
+6232,724,Somvarpet
+6233,177,Sonahatu
+6234,713,Sonai
+6235,330,Sonakhan
+6236,351,Sonamukhi
+6237,474,Sonamura
+6238,471,Sonapur
+6239,250,Sonapur
+6240,592,Sona Rai Tharhi
+6241,738,Sonari
+6242,384,Sonar pur
+6243,58,Sonawari
+6244,352,Sonbarsa
+6245,305,Sonbarsa
+6246,211,Sonbhadra Banshi Suryapur
+6247,95,Sondawa
+6248,149,Sonepur
+6249,622,Songadh
+6250,580,Songsak
+6251,550,SONG SONG
+6252,301,Sonhat
+6253,458,Sonhaula
+6254,647,Sonipat
+6255,290,Sonkatch
+6256,373,Sono
+6257,651,Sonpeth
+6258,163,Sonua
+6259,365,Sopore
+6260,423,Sorab
+6261,98,Soraon
+6262,742,Soreng
+6263,316,Soro
+6264,160,Soso
+6265,530,Sotokur
+6266,743,South Salmara
+6267,727,Spiti
+6268,159,S.Rayavaram
+6269,233,Sri Avadhutha Kasinayana
+6270,309,Sridungargarh
+6271,167,Srigufwara
+6272,486,Srijangram
+6273,110,Srikakulam
+6274,318,Srikalahasti
+6275,583,Sri Madhopur
+6276,454,Srimushnam
+6277,151,Srinagar
+6278,473,Srinagar
+6279,529,Srinagar Central
+6280,529,Srinagar (North)
+6281,529,Srinagar (South)
+6282,61,Sringeri
+6283,346,Srinivaspur
+6284,704,Sriperumbudur
+6285,183,Srirampur
+6286,728,Srirangam
+6287,114,Srirangapur
+6288,304,Srirangarajapuram
+6289,97,Srisailam
+6290,633,Srivaikuntam
+6291,209,Srivilliputhur
+6292,259,Srungavarapukota
+6293,565,SUANGDOH
+6294,464,Suar
+6295,471,Subalaya
+6296,459,Subansiri (Pt-I)
+6297,51,Subir
+6298,69,Suchetgarh
+6299,90,Sudhagad
+6300,19,Sugauli
+6301,206,Suhagpura
+6302,330,SUHELA
+6303,144,SUIGAM
+6304,432,Sujangarh
+6305,99,Sujathanagar
+6306,255,Sukinda
+6307,544,Sukma
+6308,79,Sulah
+6309,258,Suliapada
+6310,318,Sullurpeta
+6311,102,Sult
+6312,458,Sultanganj
+6313,267,Sultanpur
+6314,319,Sultanpur
+6315,450,Sultanpur Lodhi
+6316,183,Sulthanabad
+6317,741,Sulthanbathery
+6318,158,Sulur
+6319,358,Sulya
+6320,433,Sum
+6321,322,Sumerpur
+6322,617,Sumoor
+6323,341,Sunabeda
+6324,441,Sunam
+6325,418,Sundarbani
+6326,343,Sundargarh
+6327,343,Sundargarh Town
+6328,244,Sundarnagar
+6329,392,Sundarpahari
+6330,73,Sunel
+6331,56,Sungro
+6332,534,Sunni
+6333,759,Sunpura Circle
+6334,180,Supa
+6335,389,Supaul
+6336,305,Suppi
+6337,201,SURADA
+6338,477,SURAJGARH
+6339,362,Surajgarha
+6340,428,Surajpur
+6341,314,Surankote
+6342,186,Suratgarh
+6343,289,Surgana
+6344,490,Suri - I
+6345,490,Suri - II
+6346,291,Suriya
+6347,683,Suroth
+6348,305,Sursand
+6349,42,Suruhuto
+6350,166,Suryapet
+6351,77,Suryapura
+6352,38,Susner
+6353,424,Sutahata
+6354,455,Suthaliya
+6355,410,Suti - I
+6356,410,Suti - II
+6357,665,Sutrapada
+6358,434,Suwasara
+6359,138,Swarupnagar
+6360,102,Syalde
+6361,100,Sydapuram
+6362,318,Tada
+6363,536,Tadepalle
+6364,15,Tadepalligudem
+6365,536,Tadikonda
+6366,36,Tadimarri
+6367,14,Tadoor
+6368,165,Tadpatri
+6369,550,TADUBI
+6370,636,Tadvai
+6371,357,Tadwai
+6372,654,Tahrauli
+6373,625,Taisuru
+6374,456,Tajpur
+6375,438,Takha
+6376,411,Takhatpur
+6377,534,Taklech
+6378,377,Taksing Circle
+6379,105,Tal
+6380,90,Tala
+6381,411,Talai
+6382,440,Talaja
+6383,665,Talala
+6384,30,Talamadugu
+6385,514,Talappilly
+6386,343,Talasara
+6387,575,Talasari
+6388,336,Talawara
+6389,729,Talbehat
+6390,185,Talcher Sadar
+6391,351,Taldangra
+6392,501,TALERA
+6393,517,Tali ADC
+6394,377,Taliha ADC
+6395,101,TALIKOTI
+6396,686,Taliparamba
+6397,370,Taljhari
+6398,168,Tallapudi
+6399,197,Tallur
+6400,682,Talod
+6401,71,Talode
+6402,36,Talupula
+6403,398,Talwandi Sabo
+6404,55,Tamando
+6405,177,Tamar I
+6406,537,Tambaram
+6407,760,Tamenglong
+6408,760,Tamenglong North
+6409,760,Tamenglong West
+6410,119,Tamia
+6411,678,Tamkuhi Raj
+6412,732,Tamlu
+6413,424,Tamluk
+6414,541,Tamnar
+6415,30,Tamsi
+6416,761,Tamulpur
+6417,36,Tanakal
+6418,68,Tanda
+6419,464,Tanda
+6420,585,Tanda
+6421,412,Tandur
+6422,359,Tandur
+6423,533,Tandwa
+6424,343,Tangarapali
+6425,226,Tangi
+6426,55,Tangi
+6427,365,Tangmarg
+6428,197,Tangutur
+6429,671,Tankara
+6430,120,Tan Kuppa
+6431,390,Tanoor
+6432,446,Tansen
+6433,163,Tantnagar
+6434,62,Tantoli
+6435,15,Tanuku
+6436,640,Taoru
+6437,381,Tapa
+6438,334,Tapan
+6439,674,Tapri
+6440,109,Tapukara
+6441,567,Tarabganj
+6442,149,Taraiya
+6443,192,Tarakeswar
+6444,517,Tarak Lengdi Cicle
+6445,272,Tarana
+6446,432,Taranagar
+6447,212,Tarapur
+6448,162,Tarapur
+6449,43,Tarari
+6450,201,TARASINGI
+6451,325,Taraso Circle
+6452,471,Tarbha
+6453,92,Tardih
+6454,476,Tarhasi
+6455,630,Tariani Chowk
+6456,61,Tarikere
+6457,197,Tarlupadu
+6458,444,Tarn Taran
+6459,418,Taryath
+6460,234,Tasgaon
+6461,62,Tatgarh
+6462,374,Tati Jhariya
+6463,748,Tato EAC
+6464,383,Tauni Devi Bamson
+6465,492,TAWANG HQ
+6466,254,Teghra
+6467,510,Tehatta - I
+6468,510,Tehatta - II
+6469,109,Tehla
+6470,321,Tehri
+6471,345,Tejam
+6472,110,Tekkali
+6473,96,Tekmal
+6474,99,Tekulapalli
+6475,452,Tekumatla
+6476,74,Telhara
+6477,717,Teliamura
+6478,429,Telka
+6479,14,Telkapally
+6480,160,Telkoi
+6481,536,Tenali
+6482,645,Tendukheda
+6483,399,Tendukheda
+6484,507,Tengakhat
+6485,735,Tengnoupal
+6486,227,Tening
+6487,83,Tenkasi
+6488,521,Tentulikhunti
+6489,696,Teok
+6490,667,Teonthar
+6491,293,Terhagachh
+6492,19,Tetaria
+6493,212,Tetiha Bambor
+6494,531,Tezpur
+6495,759,Tezu HQ
+6496,244,Thachi
+6497,146,Thadlaskein
+6498,473,Thailisain
+6499,278,Thakrahan
+6500,204,Thakrakote
+6501,462,Thakurdwara
+6502,79,Thakurdwara
+6503,392,Thakurgangti
+6504,293,Thakurganj
+6505,185,Thakurgarh
+6506,258,Thakurmunda
+6507,384,Thakurpukur Mahestola
+6508,345,Thal
+6509,236,Thalaivasal
+6510,7,Thalakondapally
+6511,686,Thalassery
+6512,184,Thalavadi
+6513,491,Thallada
+6514,648,Thallarevu
+6515,721,Thamarassery
+6516,481,Thamballapalle
+6517,109,Thanagazi
+6518,414,Thanakhamria
+6519,418,Thana Mandi
+6520,693,Thandla
+6521,193,THANDRAMPET
+6522,129,Thane
+6523,252,Thanesar
+6524,560,Thangadh
+6525,485,THANGALLAPALLI
+6526,497,Thanjavur
+6527,762,Thanlon
+6528,144,Tharad
+6529,29,Tharali
+6530,725,Tharangambadi
+6531,253,Tharigoppula
+6532,222,Tharthari
+6533,646,Thasra
+6534,220,Thathri
+6535,304,Thavanampalle
+6536,302,Thawe
+6537,531,Thelamara
+6538,54,Thelkoloi
+6539,320,Thembang Circle
+6540,174,Theni
+6541,534,Theog
+6542,259,Therlam
+6543,353,Thethaitangar
+6544,179,Thikri
+6545,14,Thimmajipet
+6546,548,Thimmapur LMD
+6547,492,Thingbu Circle
+6548,52,Thingsulthliah
+6549,21,Thipparthy
+6550,718,Thirukkuvalai
+6551,166,Thirumalagiri
+6552,702,Thirumangalam
+6553,82,Thirumayam
+6554,707,Thirunallar Taluk
+6555,702,THIRUPPARANKUNDRAM
+6556,596,Thiruppathur
+6557,596,Thiruppuvanam
+6558,720,Thiruthuraipoondi
+6559,497,Thiruvaiyaru
+6560,34,Thiruvalla
+6561,245,Thiruvallur
+6562,554,Thiruvananthapuram
+6563,720,Thiruvarur
+6564,40,Thiruvattar
+6565,664,THIRUVENNAINALLUR
+6566,728,Thiruverumbur
+6567,497,Thiruvidaimarudur
+6568,600,Thodupuzha
+6569,72,Thoguta
+6570,648,Thondangi
+6571,233,Thondur
+6572,752,Thonoknyu
+6573,633,Thoothukkudi
+6574,404,Thorrur
+6575,100,Thotapalligudur
+6576,247,Thotlavalluru
+6577,318,Thottambedu
+6578,728,Thottiyam
+6579,731,Thoubal
+6580,40,Thovala
+6581,514,Thrissur
+6582,320,Thrizino ADC
+6583,480,Thuamul Rampur
+6584,536,Thullur
+6585,244,Thunag
+6586,166,Thungaturthy
+6587,728,Thuraiyur
+6588,79,Thural
+6589,23,Thurkapally
+6590,204,Thuroo
+6591,422,Tibi
+6592,268,Tigaon ST
+6593,226,Tigiria
+6594,39,Tihidi
+6595,244,Tihra
+6596,344,Tihu (Pt)
+6597,109,Tijara
+6598,323,Tikabali
+6599,343,Tikaetpali
+6600,265,Tikamgarh
+6601,534,Tikar
+6602,120,Tikari
+6603,493,Tikhak Rima Putok Circle
+6604,124,Tikiri
+6605,244,Tikken
+6606,101,TIKOTA
+6607,396,Tikrikilla
+6608,586,Tilakwada
+6609,8,Tilda
+6610,688,Tilhar
+6611,141,Tiloi
+6612,77,Tilouthu
+6613,673,Timarni
+6614,581,Tinali Paglam Circle
+6615,664,Tindivanam
+6616,507,Tingkhong
+6617,624,Tinsukia
+6618,4,TINWARI
+6619,13,Tiosa
+6620,762,Tipaimukh
+6621,549,Tiptur
+6622,383,Tira Sujanpur
+6623,391,Tirbin EAC
+6624,258,Tiring
+6625,300,Tirodi
+6626,142,Tirora
+6627,423,Tirthahalli
+6628,9,Tirtol
+6629,633,Tiruchendur
+6630,719,Tiruchengode
+6631,728,Tiruchirappalli East
+6632,728,Tiruchirappalli West
+6633,209,Tiruchuli
+6634,537,Tirukalukundram
+6635,552,Tirukkoyilur
+6636,681,Tirumakudal - Narsipur
+6637,21,Tirumalagiri Sagar
+6638,491,Tirumalayapalem
+6639,134,Tirumalgiri
+6640,130,Tirunelveli
+6641,136,Tirupathur
+6642,318,Tirupati (Rural)
+6643,318,Tirupati (Urban)
+6644,537,Tiruporur
+6645,246,TiruppurNorth
+6646,246,Tiruppursouth
+6647,635,Tirur
+6648,635,Tirurangadi
+6649,245,Tiruttani
+6650,697,Tiruvadanai
+6651,193,Tiruvannamalai
+6652,83,Tiruvengadam
+6653,81,Tiruvottiyur
+6654,76,Tiruvuru
+6655,543,Tirwa
+6656,216,Tiryani
+6657,130,Tisayanvilai
+6658,291,Tisri
+6659,367,Tiswadi
+6660,696,Titabor
+6661,315,Titlagarh
+6662,454,Tittakudi
+6663,11,Tizit
+6664,52,Tlangnuam
+6665,44,T.Narasapuram
+6666,11,Tobu
+6667,683,Todabhim
+6668,593,Todaraisingh
+6669,439,Tohana
+6670,311,Tokapal
+6671,42,TOKIYE
+6672,255,Tomka
+6673,81,Tondiarpet
+6674,544,Tongpal
+6675,593,Tonk
+6676,290,Tonk Khurd
+6677,163,Tonto
+6678,96,Toopran
+6679,286,Topchanchi
+6680,634,Torpa
+6681,325,Toru Circle
+6682,294,Tosham
+6683,199,Tral
+6684,626,Trehgam
+6685,389,Tribeniganj
+6686,289,Trimbakeshwar
+6687,197,Tripuranthakam
+6688,21,Tripuraram
+6689,564,Tseminyu
+6690,564,Tsogin
+6691,481,T Sundupalle
+6692,25,Tsundur
+6693,104,TSURANGKONG
+6694,539,Tsurungto
+6695,530,Tuensang Sadar
+6696,568,Tufanganj - I
+6697,568,Tufanganj - II
+6698,33,Tuggali
+6699,565,TUIBONG
+6700,757,Tuipang
+6701,58,Tulail
+6702,104,Tuli
+6703,451,Tuljapur
+6704,649,Tullamulla Khirbhawani
+6705,331,Tulsipur
+6706,549,Tumakuru
+6707,430,Tumsar
+6708,323,Tumudibandha
+6709,327,Tumusingha
+6710,286,Tundi
+6711,642,Tundla
+6712,330,Tundra
+6713,3,Tunga
+6714,648,Tuni
+6715,315,Turekela
+6716,19,Turkaulia
+6717,160,Turumunga
+6718,549,Turuvekere
+6719,315,Tushura
+6720,655,Tuting ADC
+6721,502,T VAICHONG
+6722,393,Tyonda
+6723,513,Tyuni
+6724,88,Uchana
+6725,622,Uchchhal
+6726,403,Uchhain
+6727,302,Uchkagaon
+6728,290,Udainagar
+6729,118,Udaipur
+6730,727,Udaipur
+6731,267,Udaipura
+6732,541,Udaipur (Dharamjaigarh)
+6733,477,Udaipurwati
+6734,258,Udala
+6735,676,Udalguri
+6736,713,Udarbond
+6737,100,Udayagiri
+6738,173,Udayarpalayam
+6739,156,Udaynarayanpur
+6740,135,Udaypur
+6741,48,Udgir
+6742,569,Udhagamandalam
+6743,388,Udhampur
+6744,16,Udhna
+6745,370,Udhwa
+6746,246,Udumalaipettai
+6747,600,Udumbanchola
+6748,303,Udupi
+6749,43,Udwant Nagar
+6750,740,UJANI MAJULI CIRCLE
+6751,456,Ujiarpur
+6752,272,Ujjain
+6753,272,Ujjain Nagar
+6754,395,Ukhimath
+6755,551,Ukhrul
+6756,17,Uklana ST
+6757,100,Ulavapadu
+6758,129,Ulhasnagar
+6759,358,ULLALA
+6760,156,Uluberia - I
+6761,156,Uluberia - II
+6762,471,Ulunda
+6763,552,Ulundurpettai
+6764,205,Umarkhed
+6765,521,Umarkote
+6766,16,Umarpada
+6767,603,Umbergaon
+6768,449,Umling
+6769,440,Umrala
+6770,447,Umred
+6771,162,Umreth
+6772,119,Umreth
+6773,196,Umri
+6774,449,Umsning
+6775,699,UN
+6776,121,Una
+6777,665,Una
+6778,577,Unchahar
+6779,116,Unchahara
+6780,80,Undavelly
+6781,15,Undi
+6782,168,Undrajavaram
+6783,247,Unguturu
+6784,44,Unguturu
+6785,593,Uniara
+6786,405,Unjha
+6787,347,Unnao
+6788,476,Untari Road
+6789,611,Upleta
+6790,108,Uppal
+6791,53,Uppalaguptam
+6792,14,Uppununthala
+6793,90,Uran
+6794,165,Uravakonda
+6795,365,Uri
+6796,14,Urkonda
+6797,702,Usilampatti
+6798,427,Usur
+6799,174,Uthamapalayam
+6800,169,Uthangarai
+6801,704,Uthiramerur
+6802,245,Uthukkottai
+6803,246,Uthukuli
+6804,579,Utkoor
+6805,30,Utnoor
+6806,331,Utraula
+6807,55,Uttara P.S
+6808,97,Uyyalawada
+6809,682,Vadali
+6810,318,Vadamalapeta
+6811,144,Vadgam
+6812,702,Vadipatti
+6813,405,Vadnagar
+6814,570,Vadodara East
+6815,570,Vadodara North
+6816,570,Vadodara Rural
+6817,570,Vadodara South
+6818,570,Vadodara West
+6819,570,Vaghodia
+6820,150,Vagra
+6821,598,Vaibhavvadi
+6822,241,Vaijapur
+6823,526,Vaikom
+6824,203,Vailpoor
+6825,426,Vaishali
+6826,165,Vajrakarur
+6827,110,Vajrapukothuru
+6828,318,Vakadu
+6829,720,Valangaiman
+6830,150,Valia
+6831,23,Valigonda
+6832,440,Vallabhipur
+6833,264,Vallabhnagar
+6834,233,Vallur
+6835,481,Valmikipuram
+6836,622,Valod
+6837,158,Valparai
+6838,603,Valsad
+6839,537,Vandalur
+6840,193,Vandavasi
+6841,762,VANGAI RANGE
+6842,259,Vangara
+6843,14,Vangoor
+6844,136,Vaniyambadi
+6845,442,Vanthali
+6846,664,Vanur
+6847,603,VAPI
+6848,318,Varadaiahpalem
+6849,26,Vararamachandrapuram
+6850,100,Varikuntapadu
+6851,554,Varkala
+6852,179,Varla
+6853,203,Varni
+6854,575,Vasai
+6855,519,Vasant Vihar
+6856,237,Vasmath
+6857,646,Vaso
+6858,721,Vatakara
+6859,139,Vatpally
+6860,76,Vatsavai
+6861,536,Vatticherukuru
+6862,213,Vatva
+6863,144,Vav
+6864,236,Vazhapadi
+6865,718,Vedaranyam
+6866,232,Vedasandur
+6867,304,Vedurukuppam
+6868,548,Veenavanka
+6869,481,Veeraballe
+6870,326,Veeraghattam
+6871,83,Veerakeralamputhur
+6872,233,Veerapunayunipalle
+6873,15,Veeravasaram
+6874,485,VEERNAPALLI
+6875,76,Veerullapadu
+6876,213,Vejalpur
+6877,81,Velachery
+6878,228,Velair
+6879,44,Velairpadu
+6880,14,Veldanda
+6881,33,Veldurthi
+6882,113,Veldurthi
+6883,406,Velgatur
+6884,97,Velgode
+6885,132,Velhe
+6886,197,Veligandla
+6887,685,Vellarikkundu
+6888,157,Vellore
+6889,412,Vemanpally
+6890,193,Vembakkam
+6891,209,VEMBAKOTTAI
+6892,233,Vempalle
+6893,491,Vemsoor
+6894,233,Vemula
+6895,21,Vemulapally
+6896,485,Vemulawada
+6897,485,VEMULAWADA RURAL
+6898,25,Vemuru
+6899,598,Vengurla
+6900,100,Venkatachalam
+6901,318,Venkatagiri
+6902,304,Venkatagirikota
+6903,636,Venkatapur
+6904,636,Venkatapuram
+6905,259,Vepada
+6906,84,Veppanthattai
+6907,454,veppur
+6908,25,Vetapalem
+6909,165,Vidapanakal
+6910,100,Vidavalur
+6911,393,Vidisha
+6912,393,Vidisha Nagar
+6913,456,Vidyapati Nagar
+6914,186,Vijainagar
+6915,405,Vijapur
+6916,101,Vijayapura
+6917,304,Vijayapuram
+6918,76,VIJAYAWADA EAST
+6919,76,VIJAYAWADA NORTH
+6920,76,Vijayawada (Rural)
+6921,76,Vijayawada (Urban)
+6922,76,VIJAYAWADA WEST
+6923,62,Vijaynagar
+6924,682,Vijaynagar
+6925,376,Vijaypur
+6926,274,Vijaypur
+6927,277,Vijayraghavgarh
+6928,493,Vijoynagar EAC
+6929,359,Vikarabad
+6930,513,Vikas Nagar
+6931,575,Vikramgad
+6932,664,Vikravandi
+6933,633,Vilathikulam
+6934,40,Vilavancode
+6935,626,Villgam
+6936,298,Villianur Taluk
+6937,664,Viluppuram
+6938,611,Vinchchiya
+6939,100,Vinjamur
+6940,113,Vinukonda
+6941,724,Virajpet
+6942,82,Viralimalai
+6943,213,Viramgam
+6944,3,Viratnagar
+6945,317,Virpur
+6946,454,Virudhachalam
+6947,209,Virudhunagar
+6948,161,Visakhapatnam (Rural)
+6949,442,Visavadar
+6950,351,Vishnupur
+6951,405,Visnagar
+6952,76,Vissannapet
+6953,758,Vivek Vihar
+6954,259,Vizianagaram
+6955,42,V.K.
+6956,100,Voletivaripalem
+6957,233,Vontimitta
+6958,548,V.Saidapur
+6959,247,Vuyyuru
+6960,622,Vyara
+6961,741,Vythiri
+6962,575,Wada
+6963,668,WADAGERA
+6964,80,Waddepally
+6965,560,Wadhwan
+6966,331,Wadrafnagar
+6967,133,Wadwani
+6968,51,Waghai
+6969,365,Wagoora
+6970,690,Wai
+6971,700,WAIKHONG
+6972,636,Wajedu
+6973,11,Wakching
+6974,706,Wakka SDO
+6975,649,Wakoora
+6976,759,Wakro Circle
+6977,704,Walajabad
+6978,191,Wallajah
+6979,508,Walong Circle
+6980,234,Walwa
+6981,114,Wanaparthy
+6982,730,Wangoi
+6983,205,Wani
+6984,671,Wankaner
+6985,216,Wankidi
+6986,733,WAPUNG
+6987,538,Warangal
+6988,300,Waraseoni
+6989,210,Wardha
+6990,538,Wardhannapet
+6991,72,Wargal
+6992,66,Warisaliganj
+6993,456,Warisnagar
+6994,329,Warora
+6995,13,Warud
+6996,231,Warwan
+6997,451,Washi
+6998,708,Washim
+6999,365,Watergam
+7000,209,WATRAP
+7001,336,WAZEERPUR
+7002,276,Wazirabad ST
+7003,120,Wazirganj
+7004,114,Weepangandla
+7005,403,Weir
+7006,734,West Bunghmun
+7007,756,West Phaileng
+7008,540,WEZIHO
+7009,550,WILLONG
+7010,56,Wokha Sadar
+7011,56,Wozhuro
+7012,491,Wyra
+7013,7,Yacharam
+7014,587,Yachuli ADC
+7015,23,Yadagirigutta
+7016,304,Yadamarri
+7017,668,Yadgir
+7018,165,Yadiki
+7019,35,YADRAMI
+7020,473,Yamkeshwar
+7021,709,Yamuna Vihar
+7022,763,Yanam Taluk
+7023,695,Yangang
+7024,517,Yangte Circle
+7025,230,YARAGATTI
+7026,601,Yaripora
+7027,493,Yatdam Circle
+7028,205,Yavatmal
+7029,112,Yawal
+7030,587,Yazali Circle
+7031,203,Yedapally
+7032,25,Yeddana Pudi
+7033,175,YELAHANKA
+7034,359,Yelal
+7035,159,Yelamanchili
+7036,15,Yelamanchili
+7037,516,Yelandur
+7038,652,Yelbarga
+7039,96,Yeldurthy
+7040,648,Yeleswaram
+7041,99,Yellandu
+7042,165,Yellanur
+7043,180,Yellapur
+7044,485,Yellareddipet
+7045,357,Yellareddy
+7046,33,Yemmiganur
+7047,236,Yercaud
+7048,203,Yergatla
+7049,318,Yerpedu
+7050,197,Yerragondapalem
+7051,233,Yerraguntla
+7052,318,Yerravaripalem
+7053,491,Yerrupalem
+7054,26,Yetapaka
+7055,289,Yevla
+7056,655,Yingkiong Circle
+7057,2,Yomcha ADC
+7058,732,Yongnyah
+7059,26,Y. Ramavaram
+7060,591,Yuksom
+7061,626,Zachaldara
+7062,253,Zaffergadh
+7063,139,Zahirabad
+7064,366,Zainapora
+7065,365,Zaingeer
+7066,659,Zamania
+7067,625,Zanskar
+7068,205,Zari-Jamani
+7069,197,Zarugumalli
+7070,756,Zawlnuam
+7071,492,Zemithang Circle
+7072,421,Zikzak
+7073,643,Zira
+7074,170,Ziradei
+7075,587,Ziro HQ
+7076,540,Zuketsa
+7077,42,Zunheboto Sadar
