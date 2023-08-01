@@ -7,7 +7,8 @@ class ShpLoader():
     def __init__(self, src_shp, attributes) -> None:
         self.src_shp = src_shp
         self.attributes = attributes
-        self.field_name = ["SHAPE@", "proposal_id", "business_name", "company_name", "company_code", "plant_code", "state", "site", "district", "tehshil", "village", "survey_no", "parcel_area",
+        self.attributes.insert(0, "")
+        self.field_name = ["SHAPE@", "field_no", "business_name", "company_name", "company_code", "plant_code", "state", "site", "district", "tehshil", "village", "survey_no", "parcel_area",
                            "land_type", "seller_name", "acquired_status", "sale_deed_status", "mutation_status", "na_status", "tsr_status", "free_hold_area", "lease_area", "used_area", "unused_area"]
 
     @staticmethod
@@ -32,12 +33,12 @@ class ShpLoader():
     def updateLandParcel(self):
         # result_data = read_standalone_table(table_path, field_names, where_clause)
 
-        with arcpy.da.InsertCursor("land_parcel", self.field_name) as iCursor:
+        with arcpy.da.InsertCursor("land_parcels", self.field_name) as iCursor:
             with arcpy.da.SearchCursor(self.src_shp, ["SHAPE@"]) as sCursor:
                 for row in sCursor:
-                    self.attributes.insert(0, row[0])
-                    iCursor.insertRow(self.attributes)
-                    # iCursor.insertRow([row[0], aValue])
+                    self.attributes[0] = row[0]
+                    iCursor.insertRow(tuple(self.attributes))
+                    # iCursor.insertRow([row[0], self.attributes])
         # if arcpy.Exists("temp_lyr"):
         #     arcpy.Delete_management("temp_lyr")
 
@@ -254,10 +255,10 @@ class Tool(object):
             name="landParcelShape",
             datatype="DEShapefile",
             parameterType="Required",
-            enabled=False,
+            enabled=True,
             direction="Input")
 
-        return [in_proposal_id, in_land_parcel, in_business_name, in_company_name,
+        return [in_land_parcel, in_proposal_id, in_business_name, in_company_name,
                 in_company_code, in_plant_code, in_state, in_site,
                 in_district, in_tehshil, in_village, in_survey_no,
                 in_parcel_area, in_land_type, in_seller_name,
@@ -274,10 +275,10 @@ class Tool(object):
         """Modify the values and properties of parameters before internal
         validation is performed.  This method is called whenever a parameter
         has been changed."""
-        if parameters[0].value:
-            for x in range(1, 23):
+        if parameters[1].value:
+            for x in range(2, 24):
                 parameters[x].enabled = True
-            sql_query = "request_id='{}'".format(parameters[0].value)
+            sql_query = "request_id='{}'".format(parameters[1].value)
             with arcpy.da.SearchCursor("request", ["business_unit", "company", "village", "land_type", "state_id", "location", "district_id"], sql_query) as rows:
                 for row in rows:
                     parameters[2].value = row[0]  # in_business_name
@@ -291,7 +292,7 @@ class Tool(object):
                     parameters[10].value = ShpLoader.read_standalone_table(
                         table_path="district", field_names="district_name", where_clause="id={}".format(row[6]))[0][0]  # in_district
         else:
-            for x in range(1, 23):
+            for x in range(2, 24):
                 parameters[x].enabled = False
         return
 
@@ -302,9 +303,9 @@ class Tool(object):
 
     def execute(self, parameters, messages):
         """The source code of the tool."""
-        inFeatures = parameters[1].valueAsText
+        inFeatures = parameters[0].valueAsText
         params_list = []
-        for x in range(2, 23):
+        for x in range(1, 24):
             params_list.append(parameters[x].valueAsText)
 
         shp_loader = ShpLoader(src_shp=inFeatures, attributes=params_list)
