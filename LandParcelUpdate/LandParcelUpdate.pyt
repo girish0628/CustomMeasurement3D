@@ -2,14 +2,18 @@
 
 import arcpy
 
+attribute_value = None
+
 
 class ShpLoader():
     def __init__(self, src_shp, attributes) -> None:
         self.src_shp = src_shp
         self.attributes = attributes
-        self.attributes.insert(0, "")
-        self.field_name = ["SHAPE@", "field_no", "business_name", "company_name", "company_code", "plant_code", "state", "site", "district", "tehshil", "village", "survey_no", "parcel_area",
-                           "land_type", "seller_name", "acquired_status", "sale_deed_status", "mutation_status", "na_status", "tsr_status", "free_hold_area", "lease_area", "used_area", "unused_area"]
+        # self.attributes.insert(0, "")
+        self.field_name = ["field_no", "business_name", "company_name", "state", "site", "district", "tehshil", "company_code", "plant_code", "village", "survey_no", "parcel_area",
+                           "land_type", "seller_name", "acquired_status", "sale_deed_status", "mutation_status", "na_status", "tsr_status", "free_hold_area", "lease_area", "used_area", "unused_area", "SHAPE@"]
+        arcpy.AddMessage(str(len(self.attributes)))
+        arcpy.AddMessage(str(len(self.field_name)))
 
     @staticmethod
     def read_standalone_table(table_path, field_names, where_clause) -> None:
@@ -34,10 +38,14 @@ class ShpLoader():
         # result_data = read_standalone_table(table_path, field_names, where_clause)
 
         with arcpy.da.InsertCursor("land_parcels", self.field_name) as iCursor:
-            with arcpy.da.SearchCursor(self.src_shp, ["SHAPE@"]) as sCursor:
+            with arcpy.da.SearchCursor(self.src_shp, ["village", "survey_no", "parcel_are", "land_type", "seller_nam", "acquired_s", "sale_deed_", "mutation_s", "na_status", "tsr_status", "free_hold_", "lease_area", "used_area", "unused_are", "SHAPE@"]) as sCursor:
                 for row in sCursor:
-                    self.attributes[0] = row[0]
-                    iCursor.insertRow(tuple(self.attributes))
+
+                    arcpy.AddMessage("Attribute Length" +
+                                     str(len(self.attributes)))
+                    arcpy.AddMessage("row Length" + str(len(row)))
+                    arcpy.AddMessage(str(len(self.attributes + list(row))))
+                    iCursor.insertRow(tuple(self.attributes + list(row)))
                     # iCursor.insertRow([row[0], self.attributes])
         # if arcpy.Exists("temp_lyr"):
         #     arcpy.Delete_management("temp_lyr")
@@ -64,14 +72,14 @@ class Tool(object):
 
     def getParameterInfo(self):
         """Define parameter definitions"""
-
+        # Parameter 1
         in_proposal_id = arcpy.Parameter(
             name='proposalID',
             displayName='Proposal ID',
             datatype='String',
             direction='Input',
             parameterType='Required')
-
+        # Parameter 2
         in_business_name = arcpy.Parameter(
             name='businessName',
             displayName='Business Name',
@@ -79,7 +87,7 @@ class Tool(object):
             direction='Input',
             enabled=False,
             parameterType='Required')
-
+        # Parameter 3
         in_company_name = arcpy.Parameter(
             name='companyName',
             displayName='Company Name',
@@ -89,6 +97,43 @@ class Tool(object):
             parameterType='Required')
         # in_company_name.enabled = False
 
+        # Parameter 4
+        in_state = arcpy.Parameter(
+            name='stateCode',
+            displayName='State',
+            datatype='String',
+            direction='Input',
+            enabled=False,
+            parameterType='Required')
+
+        # Parameter 5
+        in_site = arcpy.Parameter(
+            name='siteCode',
+            displayName='Site',
+            datatype='String',
+            direction='Input',
+            enabled=False,
+            parameterType='Required')
+
+        # Parameter 6
+        in_district = arcpy.Parameter(
+            name='districtCode',
+            displayName='District',
+            datatype='String',
+            direction='Input',
+            enabled=False,
+            parameterType='Required')
+
+        # Parameter 7
+        in_tehshil = arcpy.Parameter(
+            name='tehshilCode',
+            displayName='Tehshil',
+            datatype='String',
+            direction='Input',
+            enabled=False,
+            parameterType='Required')
+
+        # Parameter 8
         in_company_code = arcpy.Parameter(
             name='companyCode',
             displayName='Company Code',
@@ -96,7 +141,9 @@ class Tool(object):
             direction='Input',
             enabled=False,
             parameterType='Required')
+        in_company_code.filter.list = ['Category A', 'Category B']
 
+        # Parameter 9
         in_plant_code = arcpy.Parameter(
             name='plantCode',
             displayName='Plant Code',
@@ -104,152 +151,11 @@ class Tool(object):
             direction='Input',
             enabled=False,
             parameterType='Required')
-
-        in_state = arcpy.Parameter(
-            name='stateCode',
-            displayName='State Code',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_site = arcpy.Parameter(
-            name='siteCode',
-            displayName='Site Code',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_district = arcpy.Parameter(
-            name='districtCode',
-            displayName='District Code',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_tehshil = arcpy.Parameter(
-            name='tehshilCode',
-            displayName='Tehshil Code',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_village = arcpy.Parameter(
-            name='villageCode',
-            displayName='Village Code',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_survey_no = arcpy.Parameter(
-            name='surveyNo',
-            displayName='Survey No',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_parcel_area = arcpy.Parameter(
-            name='parcelAreaCode',
-            displayName='parcel Area Code',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_land_type = arcpy.Parameter(
-            name='landType',
-            displayName='Land Type',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_seller_name = arcpy.Parameter(
-            name='sellerName',
-            displayName='Seller Name',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_acquired_status = arcpy.Parameter(
-            name='acquiredStatus',
-            displayName='Acquired Status',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_sale_deed_status = arcpy.Parameter(
-            name='saleDeedStatus',
-            displayName='Sale Deed Status',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_mutation_status = arcpy.Parameter(
-            name='mutationStatus',
-            displayName='Mutation Status',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_na_status = arcpy.Parameter(
-            name='naStatus',
-            displayName='NA Status',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_tsr_status = arcpy.Parameter(
-            name='tsrStatus',
-            displayName='TSR Status',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_free_hold_area = arcpy.Parameter(
-            name='freeHoldArea',
-            displayName='Free Hold Area',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_lease_area = arcpy.Parameter(
-            name='leaseArea',
-            displayName='Lease Area',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_used_area = arcpy.Parameter(
-            name='usedArea',
-            displayName='Used Area',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
-
-        in_unused_area = arcpy.Parameter(
-            name='unusedArea',
-            displayName='Unused Area',
-            datatype='String',
-            direction='Input',
-            enabled=False,
-            parameterType='Required')
+        in_plant_code.filter.list = [
+            'Plant Code A', 'Plant Code B', 'Plant Code D']
 
         # Reference Land Parcel layer
+        # ## Parameter 0
         in_land_parcel = arcpy.Parameter(
             displayName="Land Parcel Shape File",
             name="landParcelShape",
@@ -259,12 +165,7 @@ class Tool(object):
             direction="Input")
 
         return [in_land_parcel, in_proposal_id, in_business_name, in_company_name,
-                in_company_code, in_plant_code, in_state, in_site,
-                in_district, in_tehshil, in_village, in_survey_no,
-                in_parcel_area, in_land_type, in_seller_name,
-                in_acquired_status, in_sale_deed_status, in_mutation_status,
-                in_na_status, in_tsr_status, in_free_hold_area, in_lease_area,
-                in_used_area, in_unused_area]
+                in_state, in_site, in_district, in_tehshil,  in_company_code, in_plant_code]
         # return [in_proposal_id, in_business_name, in_company_name]
 
     def isLicensed(self):
@@ -276,23 +177,30 @@ class Tool(object):
         validation is performed.  This method is called whenever a parameter
         has been changed."""
         if parameters[1].value:
-            for x in range(2, 24):
+            for x in range(2, 10):
                 parameters[x].enabled = True
             sql_query = "request_id='{}'".format(parameters[1].value)
-            with arcpy.da.SearchCursor("request", ["business_unit", "company", "village", "land_type", "state_id", "location", "district_id"], sql_query) as rows:
-                for row in rows:
-                    parameters[2].value = row[0]  # in_business_name
-                    parameters[3].value = row[1]  # in_company_name
-                    parameters[10].value = row[2]
-                    parameters[13].value = row[3]
 
+            with arcpy.da.SearchCursor("request", ["business_unit", "company", "state_id", "location", "district_id", "city_id"], sql_query) as rows:
+                for row in rows:
+                    parameters[2].value = ShpLoader.read_standalone_table(
+                        table_path="business_unit", field_names="name", where_clause="id={}".format(row[0]))[0][0]  # in_business_name
+                    parameters[3].value = ShpLoader.read_standalone_table(
+                        table_path="company", field_names="name", where_clause="id={}".format(row[1]))[0][0]  # in_company_name
+
+                    parameters[4].value = ShpLoader.read_standalone_table(
+                        table_path="state", field_names="state_name", where_clause="id={}".format(row[2]))[0][0]  # in_state
+                    parameters[5].value = row[3]  # in_site
                     parameters[6].value = ShpLoader.read_standalone_table(
-                        table_path="state", field_names="state_name", where_clause="id={}".format(row[4]))[0][0]  # in_state
-                    parameters[7].value = row[5]  # in_site
-                    parameters[10].value = ShpLoader.read_standalone_table(
-                        table_path="district", field_names="district_name", where_clause="id={}".format(row[6]))[0][0]  # in_district
+                        table_path="district", field_names="district_name", where_clause="id={}".format(row[4]))[0][0]  # in_district
+                    parameters[7].value = ShpLoader.read_standalone_table(
+                        table_path="city", field_names="city", where_clause="id={}".format(row[5]))[0][0]  # tehshil
+                    global attribute_value
+                    attribute_value = list(row).copy()
+                    attribute_value.insert(0, parameters[1].value)
+
         else:
-            for x in range(2, 24):
+            for x in range(2, 10):
                 parameters[x].enabled = False
         return
 
@@ -304,8 +212,10 @@ class Tool(object):
     def execute(self, parameters, messages):
         """The source code of the tool."""
         inFeatures = parameters[0].valueAsText
-        params_list = []
-        for x in range(1, 24):
+        arcpy.AddMessage(len(attribute_value))
+        params_list = attribute_value
+        for x in range(8, 10):
+            arcpy.AddMessage(parameters[x].valueAsText)
             params_list.append(parameters[x].valueAsText)
 
         shp_loader = ShpLoader(src_shp=inFeatures, attributes=params_list)
