@@ -121,3 +121,100 @@ except Exception as error:
 #     arcpy.AddMessage(
 #         "Error exporting and downloading shapefile " + outputKmzFile)
 #     sys.exit()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import arcpy
+import os
+
+siteName = ["MP Mine Survey", "Road Survey", "Pipline Survey",
+            "ahmedabad airport", "gwalior airport", "geen energy", "cng gas"]
+
+site = siteName[1]
+
+kmzFile = "{}".format(site)
+outputKmzFile = "C:\\Users\\giris\\Documents\\ArcGIS\\Projects\\KML\\OUTPUT\\" + site + ".kmz"
+inFeatureSet = r"C:\Users\giris\Documents\ArcGIS\Projects\KML\KML.gdb\Landparcel_F"
+where_clause = "site='{}'".format(site)
+
+symbology_layer = r"C:\Users\giris\Documents\ArcGIS\Projects\KML\Landparcel_F.lyrx"
+
+
+req_field = ["business_name", "company_name", "state", "site", "district", "tehshil", "village", "survey_no",
+             "parcel_area", "land_type", "acquired_status", "mutation_status", "na_status", "tsr_status",
+             "OBJECTID", "Shape", "Shape_Length", "Shape_Area"]
+
+
+def renameKMZ(kmz_path, new_filename):
+    # Extract the directory and file name from the path
+    directory = os.path.dirname(kmz_path)
+    filename = os.path.basename(kmz_path)
+
+    # Construct the new path with the new file name
+    new_kmz_path = os.path.join(directory, new_filename)
+
+    # Rename the KMZ file
+    os.rename(kmz_path, new_kmz_path)
+
+    print(f"The KMZ file has been renamed to '{new_filename}'")
+
+
+
+try:
+    # Create temporary layer in memory
+    # temp_lyr = "in_memory/tempOutput"
+    temp_lyr = os.path.join(r"C:\Users\giris\Documents\ArcGIS\Projects\KML\KML.gdb", "temp_lyr")
+
+
+    # Convert SDE Feature Class to Feature Layer
+    arcpy.MakeFeatureLayer_management(
+        in_features=inFeatureSet, out_layer=temp_lyr, where_clause=where_clause)
+
+    # arcpy.DeleteField_management(temp_lyr, req_field, "KEEP_FIELDS")
+
+    fields = arcpy.ListFields(temp_lyr)
+    for field in fields:
+        # print(field.name)
+        if field.name not in req_field:
+            arcpy.DeleteField_management(temp_lyr, field.name)
+            print(field.name)
+        elif not field.required:
+            arcpy.management.AlterField(temp_lyr, field.name, field.aliasName)
+
+
+    arcpy.ApplySymbologyFromLayer_management(temp_lyr, symbology_layer)
+
+    arcpy.SaveToLayerFile_management(temp_lyr, "out_layer_file.lyrx", "ABSOLUTE")
+
+    arcpy.LayerToKML_conversion(layer="out_layer_file.lyrx", out_kmz_file=outputKmzFile)
+
+    ## Rename KMZ file
+    # renameKMZ(outputKmzFile, site)
+
+    arcpy.AddMessage("Export to KML completed successfully.")
+    if arcpy.Exists(temp_lyr):
+        arcpy.Delete_management(temp_lyr)
+    if arcpy.Exists("out_layer_file.lyrx"):
+        arcpy.Delete_management("out_layer_file.lyrx")
+
+    arcpy.AddMessage("Created KMZ export: " + outputKmzFile)
+
+    arcpy.AddMessage("Return file is " + outputKmzFile)
+except Exception as error:
+    print('Caught this error: ' + repr(error))
+
